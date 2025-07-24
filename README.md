@@ -40,7 +40,6 @@ Unity ve C# odaklı, aynı zamanda Unreal Engine ve sıfırdan HTML5/JavaScript 
     <td width="50%">
       <h3>👾 Cubix Path (iOS)</h3>
       <a href="https://apps.apple.com/tr/app/cubix-path-puzzle-match/id6478001225">
-        <img src="[CUBIX_PATH_GIF_LİNKİ]" alt="Cubix Path Gameplay">
       </a>
       <p>App Store'da yayınlanmış, Unity ile geliştirilmiş bir mobil bulmaca oyunu. Bu projede oyun mekaniklerinden arayüze tüm geliştirmeyi üstlendim.</p>
       <p>
@@ -51,31 +50,28 @@ Unity ve C# odaklı, aynı zamanda Unreal Engine ve sıfırdan HTML5/JavaScript 
     <td width="50%">
       <h3>🚜 Farm Connect Match (iOS)</h3>
       <a href="https://apps.apple.com/us/app/farm-connect-match-3d-puzzle/id6503044105">
-        <img src="[FARM_CONNECT_GIF_LİNKİ]" alt="Farm Connect Match Gameplay">
       </a>
       <p>Unity ile geliştirdiğim, App Store'da yayınlanmış bir 3D "match" türü bulmaca oyunu. 3D varlık yönetimi ve oyun döngüsü üzerine çalıştım.</p>
       <p>
         <a href="https://apps.apple.com/us/app/farm-connect-match-3d-puzzle/id6503044105"><strong>App Store'da İncele →</strong></a><br>
-        <a href="https://www.youtube.com/watch?v=hAflye07i1I"><strong>Gameplay Videosunu İzle →</strong></a>
+        <a href="https://youtu.be/t4rGmqsmI0I"><strong>Gameplay Videosunu İzle →</strong></a>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>🔫 Third Person Shooter (Unity)</h3>
-      <a href="https://lirnith.itch.io/thirdpersonshooter">
-        <img src="[TPS_GIF_LİNKİ]" alt="Third Person Shooter Gameplay">
+      <h3>🔫 Cooking Live (Unity)</h3>
+      <a href="https://lirnith.itch.io/cook">
       </a>
       <p>Karakter kontrolcüleri, kamera mekanikleri ve temel düşman yapay zekası içeren bir prototip. Unity yeteneklerimi sergilemek için geliştirdim.</p>
       <p>
-        <a href="https://lirnith.itch.io/thirdpersonshooter"><strong>itch.io'da Oyna (Şifre: Lirn) →</strong></a><br>
-        <a href="https://www.youtube.com/watch?v=hAflye07i1I"><strong>Gameplay Videosunu İzle →</strong></a>
+        <a href="https://lirnith.itch.io/cook"><strong>itch.io'da Oyna →</strong></a><br>
+        <a href="https://youtu.be/1nN6eWOxZDQ"><strong>Gameplay Videosunu İzle →</strong></a>
       </p>
     </td>
     <td width="50%">
       <h3>⚔️ Nightfall Warriors (HTML5/JS)</h3>
        <a href="https://lirnith.itch.io/html5">
-        <img src="[NIGHTFALL_GIF_LİNKİ]" alt="Nightfall Warriors Gameplay">
       </a>
       <p>Hiçbir oyun motoru kullanmadan, tamamen saf HTML5 ve JavaScript ile yazdığım bir oyun. Core programlama ve oyun döngüsü mantığındaki yetkinliğimi gösterir.</p>
       <p>
@@ -87,7 +83,6 @@ Unity ve C# odaklı, aynı zamanda Unreal Engine ve sıfırdan HTML5/JavaScript 
     <td width="50%">
       <h3>🌸 Flowers Needle (Unity)</h3>
       <a href="https://lirnith.itch.io/flowers-needle">
-        <img src="[FLOWERS_NEEDLE_GIF_LİNKİ]" alt="Flowers Needle Gameplay">
       </a>
       <p>Unity ile geliştirilmiş, sıra tabanlı dövüş mekaniklerine sahip bir 2D Rol Yapma Oyunu prototipi.</p>
       <p>
@@ -98,7 +93,6 @@ Unity ve C# odaklı, aynı zamanda Unreal Engine ve sıfırdan HTML5/JavaScript 
     <td width="50%">
       <h3>🌐 Polytari Web App (HTML5/JS)</h3>
        <a href="https://polytari.web.app/">
-        <img src="[POLYTARI_GIF_LİNKİ]" alt="Polytari Web App Gameplay">
       </a>
       <p>Sadece HTML/JavaScript kullanarak oluşturduğum, içerisinde 70'ten fazla klasik oyun barındıran bir web uygulaması.</p>
       <p>
