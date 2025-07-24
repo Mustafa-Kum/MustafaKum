@@ -45,6 +45,7 @@ Unity ve C# odaklı, aynı zamanda Unreal Engine ve sıfırdan HTML5/JavaScript 
       <p>
         <a href="https://apps.apple.com/tr/app/cubix-path-puzzle-match/id6478001225"><strong>App Store'da İncele →</strong></a><br>
         <a href="https://youtube.com/watch?v=8uXDCiigb3o"><strong>Gameplay Videosunu İzle →</strong></a>
+        <a href="https://github.com/Mustafa-Kum/PuzzleCode"><strong>Code Sample →</strong></a>
       </p>
     </td>
     <td width="50%">
@@ -54,7 +55,8 @@ Unity ve C# odaklı, aynı zamanda Unreal Engine ve sıfırdan HTML5/JavaScript 
       <p>Unity ile geliştirdiğim, App Store'da yayınlanmış bir 3D "match" türü bulmaca oyunu. 3D varlık yönetimi ve oyun döngüsü üzerine çalıştım.</p>
       <p>
         <a href="https://apps.apple.com/us/app/farm-connect-match-3d-puzzle/id6503044105"><strong>App Store'da İncele →</strong></a><br>
-        <a href="https://youtu.be/t4rGmqsmI0I"><strong>Gameplay Videosunu İzle →</strong></a>
+        <a href="https://youtu.be/t4rGmqsmI0I"><strong>Gameplay Videosunu İzle →</strong></a><br>
+        <a href="https://github.com/Mustafa-Kum/FarmPuzzleCode"><strong>Code Sample →</strong></a>
       </p>
     </td>
   </tr>
@@ -66,7 +68,8 @@ Unity ve C# odaklı, aynı zamanda Unreal Engine ve sıfırdan HTML5/JavaScript 
       <p>Karakter kontrolcüleri, kamera mekanikleri ve temel düşman yapay zekası içeren bir prototip. Unity yeteneklerimi sergilemek için geliştirdim.</p>
       <p>
         <a href="https://lirnith.itch.io/cook"><strong>itch.io'da Oyna →</strong></a><br>
-        <a href="https://youtu.be/1nN6eWOxZDQ"><strong>Gameplay Videosunu İzle →</strong></a>
+        <a href="https://youtu.be/1nN6eWOxZDQ"><strong>Gameplay Videosunu İzle →</strong></a><br>
+        <a href="https://github.com/Mustafa-Kum/CookCode"><strong>Code Sample →</strong></a>
       </p>
     </td>
     <td width="50%">
