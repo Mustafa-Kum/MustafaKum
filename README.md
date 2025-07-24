@@ -40,7 +40,6 @@ Unity ve C# odaklı, aynı zamanda Unreal Engine ve sıfırdan HTML5/JavaScript 
     <td width="50%">
       <h3>📱 Cubix Path (iOS)</h3>
       <a href="https://apps.apple.com/tr/app/cubix-path-puzzle-match/id6478001225">
-        <img src="[PROJE_GIF_LİNKİ_1]" alt="Cubix Path Gameplay">
       </a>
       <p>App Store'da yayınlanmış, Unity ile geliştirilmiş bir mobil bulmaca oyunu. Bu projede oyun mekaniklerinden arayüze tüm geliştirmeyi üstlendim.</p>
       <p>
@@ -50,7 +49,6 @@ Unity ve C# odaklı, aynı zamanda Unreal Engine ve sıfırdan HTML5/JavaScript 
     <td width="50%">
       <h3>🚜 Farm Connect Match (iOS)</h3>
       <a href="https://apps.apple.com/us/app/farm-connect-match-3d-puzzle/id6503044105">
-        <img src="[PROJE_GIF_LİNKİ_2]" alt="Farm Connect Match Gameplay">
       </a>
       <p>Unity ile geliştirdiğim, App Store'da yayınlanmış bir 3D "match" türü bulmaca oyunu. 3D varlık yönetimi ve oyun döngüsü üzerine çalıştım.</p>
       <p>
@@ -62,7 +60,6 @@ Unity ve C# odaklı, aynı zamanda Unreal Engine ve sıfırdan HTML5/JavaScript 
     <td width="50%">
       <h3>🔫 Third Person Shooter (Unity)</h3>
       <a href="https://lirnith.itch.io/thirdpersonshooter">
-        <img src="[PROJE_GIF_LİNKİ_3]" alt="Third Person Shooter Gameplay">
       </a>
       <p>Karakter kontrolcüleri, kamera mekanikleri ve temel düşman yapay zekası içeren bir prototip. Unity yeteneklerimi sergilemek için geliştirdim.</p>
       <p>
@@ -73,7 +70,6 @@ Unity ve C# odaklı, aynı zamanda Unreal Engine ve sıfırdan HTML5/JavaScript 
     <td width="50%">
       <h3>⚔️ Nightfall Warriors (HTML5/JS)</h3>
        <a href="https://lirnith.itch.io/html5">
-        <img src="[PROJE_GIF_LİNKİ_4]" alt="Nightfall Warriors Gameplay">
       </a>
       <p>Hiçbir oyun motoru kullanmadan, tamamen saf HTML5 ve JavaScript ile yazdığım bir oyun. Core programlama ve oyun döngüsü mantığındaki yetkinliğimi gösterir.</p>
       <p>
