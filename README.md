@@ -2,8 +2,8 @@
 
 Unity ve C# odaklı, aynı zamanda Unreal Engine ve sıfırdan HTML5/JavaScript ile oyun geliştirme tecrübesine sahip bir **Oyun Geliştiricisiyim**. Hyper Casual türünden 3D Puzzle ve RPG'lere kadar geniş bir yelpazede, hem mobil hem de WebGL platformlarında projeler üretiyorum. Oyuncular için keyifli ve akıcı deneyimler yaratmak en büyük tutkum.
 
-- 📧 **İletişim:** [SENİN_EPOSTA_ADRESİN]
-- 💼 **LinkedIn:** [SENİN_LINKEDIN_PROFİL_LİNKİN]
+- 📧 **İletişim:** kum.mustafa96@gmail.com
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/mustafa-kum/](https://www.linkedin.com/in/mustafa-kum/)
 - 🎮 **itch.io Projelerim:** [https://lirnith.itch.io/](https://lirnith.itch.io/)
 
 ---
