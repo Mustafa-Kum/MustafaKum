@@ -44,7 +44,7 @@ Unity ve C# odaklı, aynı zamanda Unreal Engine ve sıfırdan HTML5/JavaScript 
       <p>App Store'da yayınlanmış, Unity ile geliştirilmiş bir mobil bulmaca oyunu. Bu projede oyun mekaniklerinden arayüze tüm geliştirmeyi üstlendim.</p>
       <p>
         <a href="https://apps.apple.com/tr/app/cubix-path-puzzle-match/id6478001225"><strong>App Store'da İncele →</strong></a><br>
-        <a href="https://youtube.com/watch?v=8uXDCiigb3o"><strong>Gameplay Videosunu İzle →</strong></a>
+        <a href="https://youtube.com/watch?v=8uXDCiigb3o"><strong>Gameplay Videosunu İzle →</strong></a><br>
         <a href="https://github.com/Mustafa-Kum/PuzzleCode"><strong>Code Sample →</strong></a>
       </p>
     </td>
