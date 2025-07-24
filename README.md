@@ -79,6 +79,7 @@ Unity ve C# odaklı, aynı zamanda Unreal Engine ve sıfırdan HTML5/JavaScript 
       </p>
     </td>
   </tr>
+  <tr>
   <td width="50%">
       <h3>🔫 Third Person Shooter (Unity)</h3>
       <a href="https://lirnith.itch.io/thirdpersonshooter">
@@ -89,6 +90,19 @@ Unity ve C# odaklı, aynı zamanda Unreal Engine ve sıfırdan HTML5/JavaScript 
         <a href="https://www.youtube.com/watch?v=HaTiYeD7i1I"><strong>Gameplay Videosunu İzle →</strong></a>
       </p>
     </td>
+  </tr>
+  <tr>
+  <td width="50%">
+      <h3>🔫 Third Person Shooter (Unity)</h3>
+      <a href="https://lirnith.itch.io/thirdpersonshooter">
+      </a>
+      <p>Karakter kontrolcüleri, kamera mekanikleri ve temel düşman yapay zekası içeren bir prototip. Unity yeteneklerimi sergilemek için geliştirdim.</p>
+      <p>
+        <a href="https://lirnith.itch.io/thirdpersonshooter"><strong>itch.io'da Oyna (Şifre: Lirn) →</strong></a><br>
+        <a href="https://www.youtube.com/watch?v=HaTiYeD7i1I"><strong>Gameplay Videosunu İzle →</strong></a>
+      </p>
+    </td>
+  </tr>
 </table>
 
 ---
