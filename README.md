@@ -93,13 +93,12 @@ Unity ve C# odaklı, aynı zamanda Unreal Engine ve sıfırdan HTML5/JavaScript 
   </tr>
   <tr>
   <td width="50%">
-      <h3>🔫 Third Person Shooter (Unity)</h3>
-      <a href="https://lirnith.itch.io/thirdpersonshooter">
+      <h3>⚔️ Nightfall Warriors (HTML5/JS)</h3>
+       <a href="https://lirnith.itch.io/html5">
       </a>
-      <p>Karakter kontrolcüleri, kamera mekanikleri ve temel düşman yapay zekası içeren bir prototip. Unity yeteneklerimi sergilemek için geliştirdim.</p>
+      <p>Hiçbir oyun motoru kullanmadan, tamamen saf HTML5 ve JavaScript ile yazdığım bir oyun. Core programlama ve oyun döngüsü mantığındaki yetkinliğimi gösterir.</p>
       <p>
-        <a href="https://lirnith.itch.io/thirdpersonshooter"><strong>itch.io'da Oyna (Şifre: Lirn) →</strong></a><br>
-        <a href="https://www.youtube.com/watch?v=HaTiYeD7i1I"><strong>Gameplay Videosunu İzle →</strong></a>
+        <a href="https://lirnith.itch.io/html5"><strong>itch.io'da Oyna →</strong></a>
       </p>
     </td>
   </tr>
