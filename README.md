@@ -1,6 +1,6 @@
 # Merhaba, ben Mustafa Kum 👋
 
-Unity ve C# odaklı, aynı zamanda Unreal Engine ve sıfırdan HTML5/JavaScript ile oyun geliştirme tecrübesine sahip bir **Oyun Geliştiricisiyim**. Hyper Casual türünden 3D Puzzle ve RPG'lere kadar geniş bir yelpazede, hem mobil hem de WebGL platformlarında projeler üretiyorum. Oyuncular için keyifli ve akıcı deneyimler yaratmak en büyük tutkum.
+Unity ve C# odaklı, aynı zamanda Unreal Engine ve sıfırdan HTML5/JavaScript ile oyun geliştirme tecrübesine sahip bir **Oyun Geliştiricisiyim**. Oyuncular için keyifli ve akıcı deneyimler yaratmak en büyük tutkum.
 
 - 📧 **İletişim:** kum.mustafa96@gmail.com
 - 💼 **LinkedIn:** [https://www.linkedin.com/in/mustafa-kum/](https://www.linkedin.com/in/mustafa-kum/)
