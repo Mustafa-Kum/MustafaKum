@@ -54,6 +54,7 @@ Unity ve C# odaklı, aynı zamanda Unreal Engine ve sıfırdan HTML5/JavaScript 
       <p>Unity ile geliştirdiğim, App Store'da yayınlanmış bir 3D "match" türü bulmaca oyunu. 3D varlık yönetimi ve oyun döngüsü üzerine çalıştım.</p>
       <p>
         <a href="https://apps.apple.com/us/app/farm-connect-match-3d-puzzle/id6503044105"><strong>App Store'da İncele →</strong></a>
+        <a href="https://www.youtube.com/watch?v=HaTiYeD7i1I"><strong>Gameplay Videosunu İzle →</strong></a>
       </p>
     </td>
   </tr>
@@ -78,6 +79,16 @@ Unity ve C# odaklı, aynı zamanda Unreal Engine ve sıfırdan HTML5/JavaScript 
       </p>
     </td>
   </tr>
+  <td width="50%">
+      <h3>🔫 Third Person Shooter (Unity)</h3>
+      <a href="https://lirnith.itch.io/thirdpersonshooter">
+      </a>
+      <p>Karakter kontrolcüleri, kamera mekanikleri ve temel düşman yapay zekası içeren bir prototip. Unity yeteneklerimi sergilemek için geliştirdim.</p>
+      <p>
+        <a href="https://lirnith.itch.io/thirdpersonshooter"><strong>itch.io'da Oyna (Şifre: Lirn) →</strong></a><br>
+        <a href="https://www.youtube.com/watch?v=HaTiYeD7i1I"><strong>Gameplay Videosunu İzle →</strong></a>
+      </p>
+    </td>
 </table>
 
 ---
