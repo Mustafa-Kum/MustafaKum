@@ -104,7 +104,7 @@ Unity ve C# odaklı, aynı zamanda Unreal Engine ve sıfırdan HTML5/JavaScript 
 ## 🎮 Diğer Projeler ve Prototip Çalışmaları
 
 ### Yayınlanmış Projeler
-- **Polytari Web App**: Sadece HTML/JavaScript ile oluşturulmuş 70+ oyun içeren bir web uygulaması. [**Link**](https://polytari.web.app/)
+- **Pizza Path**: Sadece HTML/JavaScript ile oluşturulmuş 70+ oyun içeren bir web uygulaması. [**Link**](https://polytari.web.app/)
 - **CrawRunners (Google Play)**: AdMob entegrasyonu içeren Hyper Casual türündeki ilk oyunum. [**Gameplay Videosu**](https://www.youtube.com/watch?v=S0lXaOML5Pw)
 
 ### WebGL Oyunları (itch.io)
