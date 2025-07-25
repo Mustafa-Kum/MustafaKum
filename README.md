@@ -109,6 +109,18 @@ Unity ve C# odaklı, aynı zamanda Unreal Engine ve sıfırdan HTML5/JavaScript 
 
 ---
 
+## ✨ Oynanabilir Reklamlar (Playable Ads)
+Oyun motoru kullanmadan HTML/JS ile geliştirdiğim interaktif reklam demoları.
+- [NVDIA Ad](https://lirnith.itch.io/playable-ad--test) | [Merge Ad](https://lirnith.itch.io/playable-ad) | [Ball Ad](https://lirnith.itch.io/playable-ad-baloon) | [Zeplin Ad](https://lirnith.itch.io/playable-ad-zeplin)
+
+---
+
+### HTML5 / JavaScript
+- **Child Game (HTML5/JavaScript)**: Sadece HTML/JavaScript ile oluşturulmuş 70+ oyun içeren bir web uygulaması. [**Oyna**](https://lirnith.itch.io/childgame) | [**Code Sample**](https://github.com/Mustafa-Kum/CrawRunner)
+- **Vampire Survivor Copy (HTML5/JavaScript)**: Sadece HTML/JavaScript ile oluşturulmuş 70+ oyun içeren bir web uygulaması. [**Oyna**](https://lirnith.itch.io/html5) | [**Code Sample**](https://github.com/Mustafa-Kum/VampireSurvivorCopy)
+
+---
+
 ### Unity Prototip ve Denemeler
 - **CrawRunner (Unity)**: Unity ile geliştirilmiş 2D Rol Yapma Oyunu. [**Oyna**](https://lirnith.itch.io/crawrunner) | [**Video**](https://www.youtube.com/watch?v=S0lXaOML5Pw) | [**Code Sample**](https://github.com/Mustafa-Kum/CrawRunner)
 - **Flowers Needle (Unity)**: Unity ile geliştirilmiş 2D Rol Yapma Oyunu. [**Oyna**](https://lirnith.itch.io/flowers-needle) | [**Video**](https://www.youtube.com/watch?v=OOyf2Ugnms4) | [**Code Sample**](https://github.com/Mustafa-Kum/Flowers-Needle-Game-4)
@@ -116,12 +128,6 @@ Unity ve C# odaklı, aynı zamanda Unreal Engine ve sıfırdan HTML5/JavaScript 
 - **The Great Fleece (Unity)**: Stealth oyunu prototipi. [**Oyna**](https://lirnith.itch.io/the-great-fleece) | [**Code Sample**](https://github.com/Mustafa-Kum/The-Great-Fleece-Game-3)
 - **Dungeon Escape (Unity)**: 2D puzzle/platformer. [**Oyna**](https://lirnith.itch.io/dungeon-escape) | [**Code Sample**](https://github.com/Mustafa-Kum/Dungeon-Escape-Game-2)
 - **Infinity Shooter (Unity)**: Mobil endless shooter. [**Oyna**](https://lirnith.itch.io/infinity-shooter) | [**Code Sample**](https://github.com/Mustafa-Kum/Infinity-Shooter-Game-1)
-
----
-
-## ✨ Oynanabilir Reklamlar (Playable Ads)
-Oyun motoru kullanmadan HTML/JS ile geliştirdiğim interaktif reklam demoları.
-- [NVDIA Ad](https://lirnith.itch.io/playable-ad--test) | [Merge Ad](https://lirnith.itch.io/playable-ad) | [Ball Ad](https://lirnith.itch.io/playable-ad-baloon) | [Zeplin Ad](https://lirnith.itch.io/playable-ad-zeplin)
 
 ---
 
