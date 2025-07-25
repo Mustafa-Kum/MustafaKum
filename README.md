@@ -118,6 +118,7 @@ Oyun motoru kullanmadan HTML/JS ile geliştirdiğim interaktif reklam demoları.
 ### HTML5 / JavaScript
 - **Child Game (HTML5/JavaScript)**: Sadece HTML/JavaScript ile oluşturulmuş 70+ oyun içeren bir web uygulaması. [**Oyna**](https://lirnith.itch.io/childgame) | [**Code Sample**](https://github.com/Mustafa-Kum/CrawRunner)
 - **Vampire Survivor Copy (HTML5/JavaScript)**: Sadece HTML/JavaScript ile oluşturulmuş 70+ oyun içeren bir web uygulaması. [**Oyna**](https://lirnith.itch.io/html5) | [**Code Sample**](https://github.com/Mustafa-Kum/VampireSurvivorCopy)
+- **Hafıza Oyunu (HTML5/JavaScript)**: Sadece HTML/JavaScript ile oluşturulmuş 70+ oyun içeren bir web uygulaması. [**Oyna**](https://lirnith.itch.io/hafza-oyunu-html) | [**Code Sample**](https://github.com/Mustafa-Kum/MemoryGame)
 
 ---
 
