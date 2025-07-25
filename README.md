@@ -69,7 +69,7 @@ Unity ve C# odaklı, aynı zamanda Unreal Engine ve sıfırdan HTML5/JavaScript 
       </p>
     </td>
     <td width="50%">
-      <h3>⚔️ Merge Valley (HTML5/JS)</h3>
+      <h3>⚔️ Merge Valley (Unity)</h3>
       <p>Hiçbir oyun motoru kullanmadan, tamamen saf HTML5 ve JavaScript ile yazdığım bir oyun. Core programlama ve oyun döngüsü mantığındaki yetkinliğimi gösterir.</p>
       <p>
         <a href="https://lirnith.itch.io/merge-valley"><strong>itch.io'da Oyna →</strong></a><br>
@@ -88,7 +88,7 @@ Unity ve C# odaklı, aynı zamanda Unreal Engine ve sıfırdan HTML5/JavaScript 
       </p>
     </td>
     <td width="50%">
-      <h3>🔫 Third Person Shooter (HTML5/JS)</h3>
+      <h3>🔫 Third Person Shooter (Unity)</h3>
       <p>Sadece HTML/JavaScript kullanarak oluşturduğum, içerisinde 70'ten fazla klasik oyun barındıran bir web uygulaması.</p>
       <p>
         <a href="https://lirnith.itch.io/thirdpersonshooter"><strong>itch.io'da Oyna →</strong></a><br>
@@ -104,16 +104,18 @@ Unity ve C# odaklı, aynı zamanda Unreal Engine ve sıfırdan HTML5/JavaScript 
 ## 🎮 Diğer Projeler ve Prototip Çalışmaları
 
 ### Diğer Projeler
-- **Pizza Path**: Sadece HTML/JavaScript ile oluşturulmuş 70+ oyun içeren bir web uygulaması. [**Gameplay Videosu**](https://youtube.com/shorts/1HCB7iJKOvM)
-- **Passenger Puzzle**: AdMob entegrasyonu içeren Hyper Casual türündeki ilk oyunum. [**Gameplay Videosu**](https://youtu.be/KGkw-92USvs)
+- **Pizza Path (Unity)**: Sadece HTML/JavaScript ile oluşturulmuş 70+ oyun içeren bir web uygulaması. [**Gameplay Videosu**](https://youtube.com/shorts/1HCB7iJKOvM)
+- **Passenger Puzzle (Unity)**: AdMob entegrasyonu içeren Hyper Casual türündeki ilk oyunum. [**Gameplay Videosu**](https://youtu.be/KGkw-92USvs)
+
+---
 
 ### Unity Prototip ve Denemeler
-- **CrawRunner**: Unity ile geliştirilmiş 2D Rol Yapma Oyunu. [**Oyna**](https://lirnith.itch.io/crawrunner) | [**Video**](https://www.youtube.com/watch?v=S0lXaOML5Pw)
-- **Flowers Needle**: Unity ile geliştirilmiş 2D Rol Yapma Oyunu. [**Oyna**](https://lirnith.itch.io/flowers-needle) | [**Video**](https://www.youtube.com/watch?v=OOyf2Ugnms4)
-- **3D Adventurer**: Aksiyon oyunu prototipi. [**Oyna**](https://lirnith.itch.io/3d-adventurer)
-- **The Great Fleece**: Stealth oyunu prototipi. [**Oyna**](https://lirnith.itch.io/the-great-fleece)
-- **Dungeon Escape**: 2D puzzle/platformer. [**Oyna**](https://lirnith.itch.io/dungeon-escape)
-- **Infinity Shooter**: Mobil endless shooter. [**Oyna**](https://lirnith.itch.io/infinity-shooter)
+- **CrawRunner (Unity)**: Unity ile geliştirilmiş 2D Rol Yapma Oyunu. [**Oyna**](https://lirnith.itch.io/crawrunner) | [**Video**](https://www.youtube.com/watch?v=S0lXaOML5Pw) | [**Code Sample**](https://github.com/Mustafa-Kum/CrawRunner)
+- **Flowers Needle (Unity)**: Unity ile geliştirilmiş 2D Rol Yapma Oyunu. [**Oyna**](https://lirnith.itch.io/flowers-needle) | [**Video**](https://www.youtube.com/watch?v=OOyf2Ugnms4) | [**Code Sample**](https://github.com/Mustafa-Kum/Flowers-Needle-Game-4)
+- **3D Adventurer (Unity)**: Aksiyon oyunu prototipi. [**Oyna**](https://lirnith.itch.io/3d-adventurer) | [**Code Sample**](https://github.com/Mustafa-Kum/Experimental-Game)
+- **The Great Fleece (Unity)**: Stealth oyunu prototipi. [**Oyna**](https://lirnith.itch.io/the-great-fleece) | [**Code Sample**](https://github.com/Mustafa-Kum/The-Great-Fleece-Game-3)
+- **Dungeon Escape (Unity)**: 2D puzzle/platformer. [**Oyna**](https://lirnith.itch.io/dungeon-escape) | [**Code Sample**](https://github.com/Mustafa-Kum/Dungeon-Escape-Game-2)
+- **Infinity Shooter (Unity)**: Mobil endless shooter. [**Oyna**](https://lirnith.itch.io/infinity-shooter) | [**Code Sample**](https://github.com/Mustafa-Kum/Infinity-Shooter-Game-1)
 
 ---
 
