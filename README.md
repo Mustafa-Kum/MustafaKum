@@ -160,10 +160,9 @@ Unity ve C# odaklı, aynı zamanda Unreal Engine ve sıfırdan HTML5/JavaScript 
 
 ---
 
-## 💻 HTML5 / JavaScript Projelerim
-
 <table>
-    <td width="50%">
+  <tr>
+    <td colspan="2">
       <h3>👧 Child Game</h3>
       <p>Sadece HTML/JavaScript ile oluşturulmuş 70+ oyun içeren bir web uygulaması.</p>
       <p>
@@ -209,7 +208,6 @@ Unity ve C# odaklı, aynı zamanda Unreal Engine ve sıfırdan HTML5/JavaScript 
     </td>
   </tr>
 </table>
-
 ---
 
 ## 🎮 Diğer Projeler ve Prototip Çalışmaları
