@@ -104,13 +104,11 @@ Unity ve C# odaklı, aynı zamanda Unreal Engine ve sıfırdan HTML5/JavaScript 
 ## 🎮 Diğer Projeler ve Prototip Çalışmaları
 
 ### Diğer Projeler
-- **Pizza Path**: Sadece HTML/JavaScript ile oluşturulmuş 70+ oyun içeren bir web uygulaması. [**Link**](https://polytari.web.app/)
-- **Passenger Puzzle**: AdMob entegrasyonu içeren Hyper Casual türündeki ilk oyunum. [**Gameplay Videosu**](https://www.youtube.com/watch?v=S0lXaOML5Pw)
-
-### WebGL Oyunları (itch.io)
-- **BulletStrike**: Saf HTML5/JavaScript ile yapılmış bir oyun. [**Oyna**](https://lirnith.itch.io/html-5-2)
+- **Pizza Path**: Sadece HTML/JavaScript ile oluşturulmuş 70+ oyun içeren bir web uygulaması. [**Gameplay Videosu**](https://youtube.com/shorts/1HCB7iJKOvM)
+- **Passenger Puzzle**: AdMob entegrasyonu içeren Hyper Casual türündeki ilk oyunum. [**Gameplay Videosu**](https://youtu.be/KGkw-92USvs)
 
 ### Unity Prototip ve Denemeler
+- **CrawRunner**: Unity ile geliştirilmiş 2D Rol Yapma Oyunu. [**Oyna**](https://lirnith.itch.io/crawrunner) | [**Video**](https://www.youtube.com/watch?v=S0lXaOML5Pw)
 - **Flowers Needle**: Unity ile geliştirilmiş 2D Rol Yapma Oyunu. [**Oyna**](https://lirnith.itch.io/flowers-needle) | [**Video**](https://www.youtube.com/watch?v=OOyf2Ugnms4)
 - **3D Adventurer**: Aksiyon oyunu prototipi. [**Oyna**](https://lirnith.itch.io/3d-adventurer)
 - **The Great Fleece**: Stealth oyunu prototipi. [**Oyna**](https://lirnith.itch.io/the-great-fleece)
