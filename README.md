@@ -231,14 +231,8 @@ Unity ve C# odaklı, aynı zamanda Unreal Engine ve sıfırdan HTML5/JavaScript 
 
 ---
 
-## 🔥 Üzerinde Çalıştığım Proje
-- **God of War Clone (Unreal Engine 5)**: Unreal Engine 5 yeteneklerimi geliştirmek için üzerinde çalıştığım, dövüş mekaniklerine odaklanan bir proje.
-
----
-
 ## 📊 GitHub İstatistiklerim
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mustafa-Kum&show_icons=true&theme=dracula&rank_icon=github" alt="Mustafa-Kum's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mustafa-Kum&layout=compact&theme=dracula" alt="Top Langs" />
 </p>
