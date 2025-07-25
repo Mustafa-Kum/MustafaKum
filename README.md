@@ -103,17 +103,15 @@ Unity ve C# odaklı, aynı zamanda Unreal Engine ve sıfırdan HTML5/JavaScript 
 
 ## 🎮 Diğer Projeler ve Prototip Çalışmaları
 
-### Yayınlanmış Projeler
+### Diğer Projeler
 - **Pizza Path**: Sadece HTML/JavaScript ile oluşturulmuş 70+ oyun içeren bir web uygulaması. [**Link**](https://polytari.web.app/)
-- **CrawRunners (Google Play)**: AdMob entegrasyonu içeren Hyper Casual türündeki ilk oyunum. [**Gameplay Videosu**](https://www.youtube.com/watch?v=S0lXaOML5Pw)
+- **Passenger Puzzle**: AdMob entegrasyonu içeren Hyper Casual türündeki ilk oyunum. [**Gameplay Videosu**](https://www.youtube.com/watch?v=S0lXaOML5Pw)
 
 ### WebGL Oyunları (itch.io)
-- **Flowers Needle**: Unity ile geliştirilmiş 2D Rol Yapma Oyunu. [**Oyna**](https://lirnith.itch.io/flowers-needle) | [**Video**](https://www.youtube.com/watch?v=OOyf2Ugnms4)
-- **Merge Valley**: Unity ile geliştirilmiş bir birleştirme oyunu. [**Oyna**](https://lirnith.itch.io/merge-valley)
-- **Cooking Live**: Unity ile geliştirilmiş bir WebGL oyunu. [**Oyna**](https://lirnith.itch.io/cook)
 - **BulletStrike**: Saf HTML5/JavaScript ile yapılmış bir oyun. [**Oyna**](https://lirnith.itch.io/html-5-2)
 
 ### Unity Prototip ve Denemeler
+- **Flowers Needle**: Unity ile geliştirilmiş 2D Rol Yapma Oyunu. [**Oyna**](https://lirnith.itch.io/flowers-needle) | [**Video**](https://www.youtube.com/watch?v=OOyf2Ugnms4)
 - **3D Adventurer**: Aksiyon oyunu prototipi. [**Oyna**](https://lirnith.itch.io/3d-adventurer)
 - **The Great Fleece**: Stealth oyunu prototipi. [**Oyna**](https://lirnith.itch.io/the-great-fleece)
 - **Dungeon Escape**: 2D puzzle/platformer. [**Oyna**](https://lirnith.itch.io/dungeon-escape)
