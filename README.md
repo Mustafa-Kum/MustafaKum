@@ -109,9 +109,13 @@ Unity ve C# odaklı, aynı zamanda Unreal Engine ve sıfırdan HTML5/JavaScript 
 
 ---
 
-## ✨ Oynanabilir Reklamlar (Playable Ads)
+## ✨ Playable Ads
 Oyun motoru kullanmadan HTML/JS ile geliştirdiğim interaktif reklam demoları.
-- [NVDIA Ad](https://lirnith.itch.io/playable-ad--test) | [Merge Ad](https://lirnith.itch.io/playable-ad) | [Ball Ad](https://lirnith.itch.io/playable-ad-baloon) | [Zeplin Ad](https://lirnith.itch.io/playable-ad-zeplin)
+- [NVDIA Ad](https://lirnith.itch.io/playable-ad--test)
+- [Merge Ad](https://lirnith.itch.io/playable-ad)
+- [Ball Ad](https://lirnith.itch.io/playable-ad-baloon)
+- [Zeplin Ad](https://lirnith.itch.io/playable-ad-zeplin)
+  
 
 ---
 
@@ -119,12 +123,14 @@ Oyun motoru kullanmadan HTML/JS ile geliştirdiğim interaktif reklam demoları.
 - **Child Game (HTML5/JavaScript)**: Sadece HTML/JavaScript ile oluşturulmuş 70+ oyun içeren bir web uygulaması. [**Oyna**](https://lirnith.itch.io/childgame) | [**Code Sample**](https://github.com/Mustafa-Kum/CrawRunner)
 - **Vampire Survivor Copy (HTML5/JavaScript)**: Sadece HTML/JavaScript ile oluşturulmuş 70+ oyun içeren bir web uygulaması. [**Oyna**](https://lirnith.itch.io/html5) | [**Code Sample**](https://github.com/Mustafa-Kum/VampireSurvivorCopy)
 - **Hafıza Oyunu (HTML5/JavaScript)**: Sadece HTML/JavaScript ile oluşturulmuş 70+ oyun içeren bir web uygulaması. [**Oyna**](https://lirnith.itch.io/hafza-oyunu-html) | [**Code Sample**](https://github.com/Mustafa-Kum/MemoryGame)
+- **BulletStrike (HTML5/JavaScript)**: Sadece HTML/JavaScript ile oluşturulmuş 70+ oyun içeren bir web uygulaması. [**Oyna**](https://lirnith.itch.io/html-5-2) | [**Code Sample**](https://github.com/Mustafa-Kum/BulletStrike)
 
 ---
 
 ### Unity Prototip ve Denemeler
 - **CrawRunner (Unity)**: Unity ile geliştirilmiş 2D Rol Yapma Oyunu. [**Oyna**](https://lirnith.itch.io/crawrunner) | [**Video**](https://www.youtube.com/watch?v=S0lXaOML5Pw) | [**Code Sample**](https://github.com/Mustafa-Kum/CrawRunner)
 - **Flowers Needle (Unity)**: Unity ile geliştirilmiş 2D Rol Yapma Oyunu. [**Oyna**](https://lirnith.itch.io/flowers-needle) | [**Video**](https://www.youtube.com/watch?v=OOyf2Ugnms4) | [**Code Sample**](https://github.com/Mustafa-Kum/Flowers-Needle-Game-4)
+- **CrawShooter (Unity)**: Aksiyon oyunu prototipi. [**Oyna**](https://lirnith.itch.io/crawshooter) | [**Code Sample**](https://github.com/Mustafa-Kum/CrawShooter)
 - **3D Adventurer (Unity)**: Aksiyon oyunu prototipi. [**Oyna**](https://lirnith.itch.io/3d-adventurer) | [**Code Sample**](https://github.com/Mustafa-Kum/Experimental-Game)
 - **The Great Fleece (Unity)**: Stealth oyunu prototipi. [**Oyna**](https://lirnith.itch.io/the-great-fleece) | [**Code Sample**](https://github.com/Mustafa-Kum/The-Great-Fleece-Game-3)
 - **Dungeon Escape (Unity)**: 2D puzzle/platformer. [**Oyna**](https://lirnith.itch.io/dungeon-escape) | [**Code Sample**](https://github.com/Mustafa-Kum/Dungeon-Escape-Game-2)
