@@ -73,33 +73,29 @@ Unity ve C# odaklı, aynı zamanda Unreal Engine ve sıfırdan HTML5/JavaScript 
       </p>
     </td>
     <td width="50%">
-      <h3>⚔️ Nightfall Warriors (HTML5/JS)</h3>
-       <a href="https://lirnith.itch.io/html5">
-      </a>
+      <h3>⚔️ Merge Valley (HTML5/JS)</h3>
       <p>Hiçbir oyun motoru kullanmadan, tamamen saf HTML5 ve JavaScript ile yazdığım bir oyun. Core programlama ve oyun döngüsü mantığındaki yetkinliğimi gösterir.</p>
       <p>
-        <a href="https://lirnith.itch.io/html5"><strong>itch.io'da Oyna →</strong></a>
+        <a href="https://lirnith.itch.io/merge-valley"><strong>itch.io'da Oyna →</strong></a><br>
+        <a href="https://youtu.be/zLaT6ParDjk"><strong>Gameplay Videosunu İzle →</strong></a><br>
+        <a href="https://github.com/Mustafa-Kum/MergeCode"><strong>Code Sample →</strong></a>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>🌸 Flowers Needle (Unity)</h3>
-      <a href="https://lirnith.itch.io/flowers-needle">
-      </a>
+      <h3>🚜 Car Game (Unity)</h3>
       <p>Unity ile geliştirilmiş, sıra tabanlı dövüş mekaniklerine sahip bir 2D Rol Yapma Oyunu prototipi.</p>
       <p>
-        <a href="https://lirnith.itch.io/flowers-needle"><strong>itch.io'da Oyna →</strong></a><br>
-        <a href="https://www.youtube.com/watch?v=OOyf2Ugnms4"><strong>Gameplay Videosunu İzle →</strong></a>
+        <a href="https://youtube.com/shorts/WedWieVoF70"><strong>Gameplay Videosunu İzle →</strong></a><br>
+        <a href="https://github.com/Mustafa-Kum/CarGame"><strong>Code Sample →</strong></a>
       </p>
     </td>
     <td width="50%">
-      <h3>🌐 Polytari Web App (HTML5/JS)</h3>
-       <a href="https://polytari.web.app/">
-      </a>
+      <h3>🌐 Passenger Puzzle Game (HTML5/JS)</h3>
       <p>Sadece HTML/JavaScript kullanarak oluşturduğum, içerisinde 70'ten fazla klasik oyun barındıran bir web uygulaması.</p>
       <p>
-        <a href="https://polytari.web.app/"><strong>Uygulamayı İncele →</strong></a>
+        <a href="https://youtube.com/shorts/WedWieVoF70"><strong>Gameplay Videosunu İzle →</strong></a><br>
       </p>
     </td>
   </tr>
