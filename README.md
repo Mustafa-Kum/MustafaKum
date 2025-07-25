@@ -39,8 +39,6 @@ Unity ve C# odaklı, aynı zamanda Unreal Engine ve sıfırdan HTML5/JavaScript 
   <tr>
     <td width="50%">
       <h3>👾 Cubix Path (iOS)</h3>
-      <a href="https://apps.apple.com/tr/app/cubix-path-puzzle-match/id6478001225">
-      </a>
       <p>App Store'da yayınlanmış, Unity ile geliştirilmiş bir mobil bulmaca oyunu. Bu projede oyun mekaniklerinden arayüze tüm geliştirmeyi üstlendim.</p>
       <p>
         <a href="https://apps.apple.com/tr/app/cubix-path-puzzle-match/id6478001225"><strong>App Store'da İncele →</strong></a><br>
@@ -63,8 +61,6 @@ Unity ve C# odaklı, aynı zamanda Unreal Engine ve sıfırdan HTML5/JavaScript 
   <tr>
     <td width="50%">
       <h3>🔫 Cooking Live (Unity)</h3>
-      <a href="https://lirnith.itch.io/cook">
-      </a>
       <p>Karakter kontrolcüleri, kamera mekanikleri ve temel düşman yapay zekası içeren bir prototip. Unity yeteneklerimi sergilemek için geliştirdim.</p>
       <p>
         <a href="https://lirnith.itch.io/cook"><strong>itch.io'da Oyna →</strong></a><br>
@@ -92,10 +88,12 @@ Unity ve C# odaklı, aynı zamanda Unreal Engine ve sıfırdan HTML5/JavaScript 
       </p>
     </td>
     <td width="50%">
-      <h3>🌐 Passenger Puzzle Game (HTML5/JS)</h3>
+      <h3>🔫 Third Person Shooter (HTML5/JS)</h3>
       <p>Sadece HTML/JavaScript kullanarak oluşturduğum, içerisinde 70'ten fazla klasik oyun barındıran bir web uygulaması.</p>
       <p>
-        <a href="https://youtube.com/shorts/WedWieVoF70"><strong>Gameplay Videosunu İzle →</strong></a><br>
+        <a href="https://lirnith.itch.io/thirdpersonshooter"><strong>itch.io'da Oyna →</strong></a><br>
+        <a href="https://www.youtube.com/watch?v=HaTiYeD7i1I"><strong>Gameplay Videosunu İzle →</strong></a><br>
+        <a href="https://github.com/Mustafa-Kum/ThirdPersonShooter"><strong>Code Sample →</strong></a>
       </p>
     </td>
   </tr>
