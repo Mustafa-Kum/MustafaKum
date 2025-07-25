@@ -35,41 +35,69 @@ Unity ve C# odaklı, aynı zamanda Unreal Engine ve sıfırdan HTML5/JavaScript 
 
 ## 🚀 Öne Çıkan Projelerim
 
+---
+
+## 🚀 Unreal Engine Projelerim
+
+<table>
+  <tr>
+    <td width="100%">
+      <h3>🔥 God of War Clone (Unreal Engine 5)</h3>
+      <p>Unreal Engine 5 yeteneklerimi geliştirmek için üzerinde çalıştığım, dövüş mekaniklerine odaklanan bir proje.</p>
+      <p>
+        <i>Yakında daha fazla detay eklenecektir.</i>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## ✨ Playable Ads
+
 <table>
   <tr>
     <td width="50%">
-      <h3>👾 Cubix Path (iOS)</h3>
-      <p>App Store'da yayınlanmış, Unity ile geliştirilmiş bir mobil bulmaca oyunu. Bu projede oyun mekaniklerinden arayüze tüm geliştirmeyi üstlendim.</p>
+      <h3>NVDIA Ad</h3>
+      <p>Oyun motoru kullanmadan HTML/JS ile geliştirdiğim interaktif reklam demosu.</p>
       <p>
-        <a href="https://apps.apple.com/tr/app/cubix-path-puzzle-match/id6478001225"><strong>App Store'da İncele →</strong></a><br>
-        <a href="https://youtube.com/watch?v=8uXDCiigb3o"><strong>Gameplay Videosunu İzle →</strong></a><br>
-        <a href="https://github.com/Mustafa-Kum/PuzzleCode"><strong>Code Sample →</strong></a>
+        <a href="https://lirnith.itch.io/playable-ad--test"><strong>itch.io'da Oyna →</strong></a>
       </p>
     </td>
     <td width="50%">
-      <h3>🚜 Farm Connect Match (iOS)</h3>
-      <a href="https://apps.apple.com/us/app/farm-connect-match-3d-puzzle/id6503044105">
-      </a>
-      <p>Unity ile geliştirdiğim, App Store'da yayınlanmış bir 3D "match" türü bulmaca oyunu. 3D varlık yönetimi ve oyun döngüsü üzerine çalıştım.</p>
+      <h3>Merge Ad</h3>
+      <p>Oyun motoru kullanmadan HTML/JS ile geliştirdiğim interaktif reklam demosu.</p>
       <p>
-        <a href="https://apps.apple.com/us/app/farm-connect-match-3d-puzzle/id6503044105"><strong>App Store'da İncele →</strong></a><br>
-        <a href="https://youtu.be/t4rGmqsmI0I"><strong>Gameplay Videosunu İzle →</strong></a><br>
-        <a href="https://github.com/Mustafa-Kum/FarmPuzzleCode"><strong>Code Sample →</strong></a>
+        <a href="https://lirnith.itch.io/playable-ad"><strong>itch.io'da Oyna →</strong></a>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>🔫 Cooking Live (Unity)</h3>
-      <p>Karakter kontrolcüleri, kamera mekanikleri ve temel düşman yapay zekası içeren bir prototip. Unity yeteneklerimi sergilemek için geliştirdim.</p>
+      <h3>Ball Ad</h3>
+      <p>Oyun motoru kullanmadan HTML/JS ile geliştirdiğim interaktif reklam demosu.</p>
       <p>
-        <a href="https://lirnith.itch.io/cook"><strong>itch.io'da Oyna →</strong></a><br>
-        <a href="https://youtu.be/1nN6eWOxZDQ"><strong>Gameplay Videosunu İzle →</strong></a><br>
-        <a href="https://github.com/Mustafa-Kum/CookCode"><strong>Code Sample →</strong></a>
+        <a href="https://lirnith.itch.io/playable-ad-baloon"><strong>itch.io'da Oyna →</strong></a>
       </p>
     </td>
     <td width="50%">
-      <h3>⚔️ Merge Valley (Unity)</h3>
+      <h3>Zeplin Ad</h3>
+      <p>Oyun motoru kullanmadan HTML/JS ile geliştirdiğim interaktif reklam demosu.</p>
+      <p>
+        <a href="https://lirnith.itch.io/playable-ad-zeplin"><strong>itch.io'da Oyna →</strong></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 💻 HTML5 / JavaScript Projelerim
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>⚔️ Merge Valley</h3>
       <p>Hiçbir oyun motoru kullanmadan, tamamen saf HTML5 ve JavaScript ile yazdığım bir oyun. Core programlama ve oyun döngüsü mantığındaki yetkinliğimi gösterir.</p>
       <p>
         <a href="https://lirnith.itch.io/merge-valley"><strong>itch.io'da Oyna →</strong></a><br>
@@ -77,23 +105,48 @@ Unity ve C# odaklı, aynı zamanda Unreal Engine ve sıfırdan HTML5/JavaScript 
         <a href="https://github.com/Mustafa-Kum/MergeCode"><strong>Code Sample →</strong></a>
       </p>
     </td>
+    <td width="50%">
+      <h3>👧 Child Game</h3>
+      <p>Sadece HTML/JavaScript ile oluşturulmuş 70+ oyun içeren bir web uygulaması.</p>
+      <p>
+        <a href="https://lirnith.itch.io/childgame"><strong>Oyna →</strong></a><br>
+        <a href="https://github.com/Mustafa-Kum/CrawRunner"><strong>Code Sample →</strong></a>
+      </p>
+    </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>🚜 Car Game (Unity)</h3>
-      <p>Unity ile geliştirilmiş, sıra tabanlı dövüş mekaniklerine sahip bir 2D Rol Yapma Oyunu prototipi.</p>
+      <h3>🧛 Vampire Survivor Copy</h3>
+      <p>Sadece HTML/JavaScript ile oluşturulmuş 70+ oyun içeren bir web uygulaması.</p>
       <p>
-        <a href="https://youtube.com/shorts/WedWieVoF70"><strong>Gameplay Videosunu İzle →</strong></a><br>
-        <a href="https://github.com/Mustafa-Kum/CarGame"><strong>Code Sample →</strong></a>
+        <a href="https://lirnith.itch.io/html5"><strong>Oyna →</strong></a><br>
+        <a href="https://github.com/Mustafa-Kum/VampireSurvivorCopy"><strong>Code Sample →</strong></a>
       </p>
     </td>
     <td width="50%">
-      <h3>🔫 Third Person Shooter (Unity)</h3>
-      <p>Sadece HTML/JavaScript kullanarak oluşturduğum, içerisinde 70'ten fazla klasik oyun barındıran bir web uygulaması.</p>
+      <h3>🧠 Hafıza Oyunu</h3>
+      <p>Sadece HTML/JavaScript ile oluşturulmuş 70+ oyun içeren bir web uygulaması.</p>
       <p>
-        <a href="https://lirnith.itch.io/thirdpersonshooter"><strong>itch.io'da Oyna →</strong></a><br>
-        <a href="https://www.youtube.com/watch?v=HaTiYeD7i1I"><strong>Gameplay Videosunu İzle →</strong></a><br>
-        <a href="https://github.com/Mustafa-Kum/ThirdPersonShooter"><strong>Code Sample →</strong></a>
+        <a href="https://lirnith.itch.io/hafza-oyunu-html"><strong>Oyna →</strong></a><br>
+        <a href="https://github.com/Mustafa-Kum/MemoryGame"><strong>Code Sample →</strong></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>💥 BulletStrike</h3>
+      <p>Sadece HTML/JavaScript ile oluşturulmuş 70+ oyun içeren bir web uygulaması.</p>
+      <p>
+        <a href="https://lirnith.itch.io/html-5-2"><strong>Oyna →</strong></a><br>
+        <a href="https://github.com/Mustafa-Kum/BulletStrike"><strong>Code Sample →</strong></a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3>💀 Necromancer3D</h3>
+      <p>Sadece HTML/JavaScript ile oluşturulmuş 70+ oyun içeren bir web uygulaması.</p>
+      <p>
+        <a href="https://lirnith.itch.io/necromancer"><strong>Oyna →</strong></a><br>
+        <a href="https://github.com/Mustafa-Kum/Necromancer3D"><strong>Code Sample →</strong></a>
       </p>
     </td>
   </tr>
@@ -124,6 +177,7 @@ Oyun motoru kullanmadan HTML/JS ile geliştirdiğim interaktif reklam demoları.
 - **Vampire Survivor Copy (HTML5/JavaScript)**: Sadece HTML/JavaScript ile oluşturulmuş 70+ oyun içeren bir web uygulaması. [**Oyna**](https://lirnith.itch.io/html5) | [**Code Sample**](https://github.com/Mustafa-Kum/VampireSurvivorCopy)
 - **Hafıza Oyunu (HTML5/JavaScript)**: Sadece HTML/JavaScript ile oluşturulmuş 70+ oyun içeren bir web uygulaması. [**Oyna**](https://lirnith.itch.io/hafza-oyunu-html) | [**Code Sample**](https://github.com/Mustafa-Kum/MemoryGame)
 - **BulletStrike (HTML5/JavaScript)**: Sadece HTML/JavaScript ile oluşturulmuş 70+ oyun içeren bir web uygulaması. [**Oyna**](https://lirnith.itch.io/html-5-2) | [**Code Sample**](https://github.com/Mustafa-Kum/BulletStrike)
+- **Necromancer3D (HTML5/JavaScript)**: Sadece HTML/JavaScript ile oluşturulmuş 70+ oyun içeren bir web uygulaması. [**Oyna**](https://lirnith.itch.io/necromancer) | [**Code Sample**](https://github.com/Mustafa-Kum/Necromancer3D)
 
 ---
 
