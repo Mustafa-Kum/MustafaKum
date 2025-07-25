@@ -37,6 +37,72 @@ Unity ve C# odaklı, aynı zamanda Unreal Engine ve sıfırdan HTML5/JavaScript 
 
 ---
 
+<table>
+  <tr>
+    <td width="50%">
+      <h3>👾 Cubix Path (iOS)</h3>
+      <p>App Store'da yayınlanmış, Unity ile geliştirilmiş bir mobil bulmaca oyunu. Bu projede oyun mekaniklerinden arayüze tüm geliştirmeyi üstlendim.</p>
+      <p>
+        <a href="https://apps.apple.com/tr/app/cubix-path-puzzle-match/id6478001225"><strong>App Store'da İncele →</strong></a><br>
+        <a href="https://youtube.com/watch?v=8uXDCiigb3o"><strong>Gameplay Videosunu İzle →</strong></a><br>
+        <a href="https://github.com/Mustafa-Kum/PuzzleCode"><strong>Code Sample →</strong></a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3>🚜 Farm Connect Match (iOS)</h3>
+      <a href="https://apps.apple.com/us/app/farm-connect-match-3d-puzzle/id6503044105">
+      </a>
+      <p>Unity ile geliştirdiğim, App Store'da yayınlanmış bir 3D "match" türü bulmaca oyunu. 3D varlık yönetimi ve oyun döngüsü üzerine çalıştım.</p>
+      <p>
+        <a href="https://apps.apple.com/us/app/farm-connect-match-3d-puzzle/id6503044105"><strong>App Store'da İncele →</strong></a><br>
+        <a href="https://youtu.be/t4rGmqsmI0I"><strong>Gameplay Videosunu İzle →</strong></a><br>
+        <a href="https://github.com/Mustafa-Kum/FarmPuzzleCode"><strong>Code Sample →</strong></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🔫 Cooking Live (Unity)</h3>
+      <p>Karakter kontrolcüleri, kamera mekanikleri ve temel düşman yapay zekası içeren bir prototip. Unity yeteneklerimi sergilemek için geliştirdim.</p>
+      <p>
+        <a href="https://lirnith.itch.io/cook"><strong>itch.io'da Oyna →</strong></a><br>
+        <a href="https://youtu.be/1nN6eWOxZDQ"><strong>Gameplay Videosunu İzle →</strong></a><br>
+        <a href="https://github.com/Mustafa-Kum/CookCode"><strong>Code Sample →</strong></a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3>⚔️ Merge Valley (Unity)</h3>
+      <p>Hiçbir oyun motoru kullanmadan, tamamen saf HTML5 ve JavaScript ile yazdığım bir oyun. Core programlama ve oyun döngüsü mantığındaki yetkinliğimi gösterir.</p>
+      <p>
+        <a href="https://lirnith.itch.io/merge-valley"><strong>itch.io'da Oyna →</strong></a><br>
+        <a href="https://youtu.be/zLaT6ParDjk"><strong>Gameplay Videosunu İzle →</strong></a><br>
+        <a href="https://github.com/Mustafa-Kum/MergeCode"><strong>Code Sample →</strong></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🚜 Car Game (Unity)</h3>
+      <p>Unity ile geliştirilmiş, sıra tabanlı dövüş mekaniklerine sahip bir 2D Rol Yapma Oyunu prototipi.</p>
+      <p>
+        <a href="https://youtube.com/shorts/WedWieVoF70"><strong>Gameplay Videosunu İzle →</strong></a><br>
+        <a href="https://github.com/Mustafa-Kum/CarGame"><strong>Code Sample →</strong></a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3>🔫 Third Person Shooter (Unity)</h3>
+      <p>Sadece HTML/JavaScript kullanarak oluşturduğum, içerisinde 70'ten fazla klasik oyun barındıran bir web uygulaması.</p>
+      <p>
+        <a href="https://lirnith.itch.io/thirdpersonshooter"><strong>itch.io'da Oyna →</strong></a><br>
+        <a href="https://www.youtube.com/watch?v=HaTiYeD7i1I"><strong>Gameplay Videosunu İzle →</strong></a><br>
+        <a href="https://github.com/Mustafa-Kum/ThirdPersonShooter"><strong>Code Sample →</strong></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🚀 Unreal Engine Projelerim
 
 <table>
