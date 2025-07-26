@@ -33,10 +33,6 @@ Unity ve C# odaklı, aynı zamanda Unreal Engine ve sıfırdan HTML5/JavaScript 
 
 ---
 
-## 🚀 Öne Çıkan Projelerim
-
----
-
 ## 🚀 Unity Projelerim
 
 <table>
