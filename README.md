@@ -244,9 +244,8 @@ A personal project developed in Unity to master the core mechanics of third-pers
 
 ---
 
-## 🎮 Diğer Projeler ve Prototip Çalışmaları
+### 🎮 Other Projects
 
-### Other Projects
 - **Pizza Path (Unity):** A casual mobile game where I was responsible for the entire front-end development, focusing on creating a satisfying and polished player experience through juicy animations and effects. [**Watch Gameplay →**](https://youtube.com/shorts/1HCB7iJKOvM)
 - **Passenger Puzzle (Unity):** A mobile puzzle game where I engineered the complete front-end, including the core puzzle mechanics, UI/UX, and all in-game feedback systems. [**Watch Gameplay →**](https://youtu.be/KGkw-92USvs)
 - **PolyTari (HTML5/JavaScript):** A large-scale web application featuring a collection of **over 70+ games**, all built from scratch with pure JavaScript. This project showcases rapid prototyping capabilities and a deep understanding of core web technologies. [**Explore the Collection →**](https://polytari.web.app/)
