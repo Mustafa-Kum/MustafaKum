@@ -39,7 +39,7 @@ Versatile Game Developer with professional experience in **Unity/C#** and a deep
   <tr>
     <td width="50%">
       <h3>👾 Cubix Path (iOS)</h3>
-      <p>A puzzle game published on the App Store for iOS. As the sole developer responsible for the entire front-end, I engineered the complete player experience, from core gameplay systems to the final user interface and in-game polish.</p>
+      <p>A puzzle game published on the App Store for iOS. As the sole developer responsible for the entire front-end, I engineered the complete player experience, from core gameplay systems to the final user interface and in-game polish.</p><br>
       <strong>Key Contributions:</strong>
 <ul>
     <li><strong>Core Gameplay Mechanics:</strong> Engineered the primary puzzle mechanics, including a dynamic Water Mechanic and a responsive Cube Jiggle effect to provide satisfying tactile feedback.</li>
