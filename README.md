@@ -1,6 +1,6 @@
-# Merhaba, ben Mustafa Kum 👋
+# Hello, I'm Mustafa Kum 👋
 
-Unity ve C# odaklı, aynı zamanda Unreal Engine ve sıfırdan HTML5/JavaScript ile oyun geliştirme tecrübesine sahip bir **Oyun Geliştiricisiyim**. Oyuncular için keyifli ve akıcı deneyimler yaratmak en büyük tutkum.
+Versatile Game Developer with professional experience in **Unity/C#** and a deep passion for mastering **Unreal Engine & C++**. I specialize in building engaging gameplay systems from the ground up, with hands-on experience in creating games from scratch using **HTML5/JavaScript**. My core drive is to create enjoyable and fluid player experiences.
 
 - 📧 **İletişim:** kum.mustafa96@gmail.com
 - 💼 **LinkedIn:** [https://www.linkedin.com/in/mustafa-kum/](https://www.linkedin.com/in/mustafa-kum/)
@@ -39,7 +39,14 @@ Unity ve C# odaklı, aynı zamanda Unreal Engine ve sıfırdan HTML5/JavaScript 
   <tr>
     <td width="50%">
       <h3>👾 Cubix Path (iOS)</h3>
-      <p>App Store'da yayınlanmış, Unity ile geliştirilmiş bir mobil bulmaca oyunu. Tamemen çeşitli AI'ları kullanarak projede daha çok frontend geliştirmelerde bulundum ( Tüm frontend mechaniclerini yaptım (Water Mechanic, Cube Jiggle Mechanic, All DoTweens Mechanics, All Particles Mechanics, Game Optimization, Level Design, All UI Design, UX, All Sound Effects, All Gameplay Effects, Camera Settings, All Animations).</p>
+      <p>A puzzle game published on the App Store for iOS. As the sole developer responsible for the entire front-end, I engineered the complete player experience, from core gameplay systems to the final user interface and in-game polish.</p>
+      <strong>Key Contributions:</strong>
+<ul>
+    <li><strong>Core Gameplay Mechanics:</strong> Engineered the primary puzzle mechanics, including a dynamic Water Mechanic and a responsive Cube Jiggle effect to provide satisfying tactile feedback.</li>
+    <li><strong>UI/UX Design & Implementation:</strong> Designed and implemented the complete User Interface (UI) and User Experience (UX) flow, from initial concepts to the final, polished in-game menus and responsive screen layouts.</li>
+    <li><strong>Game Feel & Polish:</strong> Implemented all audiovisual feedback systems ("juice") to create a lively and engaging experience, including all in-game animations, particle effects (VFX), and sound effects (SFX).</li>
+    <li><strong>Technical Systems & Optimization:</strong> Managed critical technical tasks, including game performance optimization for a smooth experience on mobile devices and fine-tuning all camera behaviors for optimal gameplay visibility.</li>
+</ul>
       <p>
         <a href="https://apps.apple.com/tr/app/cubix-path-puzzle-match/id6478001225"><strong>App Store'da İncele →</strong></a><br>
         <a href="https://www.youtube.com/watch?v=0eXOciigD3o"><strong>Gameplay Videosunu İzle →</strong></a><br>
