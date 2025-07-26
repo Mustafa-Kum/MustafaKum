@@ -39,18 +39,16 @@ Unity ve C# odaklı, aynı zamanda Unreal Engine ve sıfırdan HTML5/JavaScript 
   <tr>
     <td width="50%">
       <h3>👾 Cubix Path (iOS)</h3>
-      <p>App Store'da yayınlanmış, Unity ile geliştirilmiş bir mobil bulmaca oyunu. Bu projede oyun mekaniklerinden arayüze tüm geliştirmeyi üstlendim.</p>
+      <p>App Store'da yayınlanmış, Unity ile geliştirilmiş bir mobil bulmaca oyunu. Tamemen çeşitli AI'ları kullanarak projede daha çok frontend geliştirmelerde bulundum ( Tüm frontend mechaniclerini yaptım (Water Mechanic, Cube Jiggle Mechanic, All DoTweens Mechanics, All Particles Mechanics, Game Optimization, Level Design, All UI Design, UX, All Sound Effects, All Gameplay Effects, Camera Settings, All Animations).</p>
       <p>
         <a href="https://apps.apple.com/tr/app/cubix-path-puzzle-match/id6478001225"><strong>App Store'da İncele →</strong></a><br>
-        <a href="https://youtube.com/watch?v=8uXDCiigb3o"><strong>Gameplay Videosunu İzle →</strong></a><br>
+        <a href="https://www.youtube.com/watch?v=0eXOciigD3o"><strong>Gameplay Videosunu İzle →</strong></a><br>
         <a href="https://github.com/Mustafa-Kum/PuzzleCode"><strong>Code Sample →</strong></a>
       </p>
     </td>
     <td width="50%">
       <h3>🚜 Farm Connect Match (iOS)</h3>
-      <a href="https://apps.apple.com/us/app/farm-connect-match-3d-puzzle/id6503044105">
-      </a>
-      <p>Unity ile geliştirdiğim, App Store'da yayınlanmış bir 3D "match" türü bulmaca oyunu. 3D varlık yönetimi ve oyun döngüsü üzerine çalıştım.</p>
+      <p>App Store'da yayınlanmış, Unity ile geliştirilmiş bir mobil bulmaca oyunu. Tamemen çeşitli AI'ları kullanarak projede daha çok frontend geliştirmelerde bulundum ( Tüm frontend mechaniclerini yaptım ( Connect Mechanic, Cube Jiggle Mechanic, All DoTweens Mechanics, All Particles Mechanics, Game Optimization, Level Design, All UI Design, UX, All Sound Effects, All Gameplay Effects, Camera Settings, All Animations).</p>
       <p>
         <a href="https://apps.apple.com/us/app/farm-connect-match-3d-puzzle/id6503044105"><strong>App Store'da İncele →</strong></a><br>
         <a href="https://youtu.be/t4rGmqsmI0I"><strong>Gameplay Videosunu İzle →</strong></a><br>
@@ -61,7 +59,7 @@ Unity ve C# odaklı, aynı zamanda Unreal Engine ve sıfırdan HTML5/JavaScript 
   <tr>
     <td width="50%">
       <h3>🔫 Cooking Live (Unity)</h3>
-      <p>Karakter kontrolcüleri, kamera mekanikleri ve temel düşman yapay zekası içeren bir prototip. Unity yeteneklerimi sergilemek için geliştirdim.</p>
+      <p>Unity ile geliştirilmiş bir mobil casual oyunu. Tamemen çeşitli AI'ları kullanarak projede daha çok frontend geliştirmelerde bulundum ( Tüm frontend mechaniclerini yaptım (All DoTweens Mechanics, All Particles Mechanics, Game Optimization, Level Design, All UI Design, UX, All Sound Effects, All Gameplay Effects, Camera Settings, All Animations).</p>
       <p>
         <a href="https://lirnith.itch.io/cook"><strong>itch.io'da Oyna →</strong></a><br>
         <a href="https://youtu.be/1nN6eWOxZDQ"><strong>Gameplay Videosunu İzle →</strong></a><br>
@@ -70,7 +68,7 @@ Unity ve C# odaklı, aynı zamanda Unreal Engine ve sıfırdan HTML5/JavaScript 
     </td>
     <td width="50%">
       <h3>⚔️ Merge Valley (Unity)</h3>
-      <p>Hiçbir oyun motoru kullanmadan, tamamen saf HTML5 ve JavaScript ile yazdığım bir oyun. Core programlama ve oyun döngüsü mantığındaki yetkinliğimi gösterir.</p>
+      <p>Unity ile geliştirilmiş bir WebGL casual oyunu. Tamemen çeşitli AI'ları kullanarak projede daha çok frontend geliştirmelerde bulundum ( Tüm frontend mechaniclerini yaptım (All DoTweens Mechanics, All Particles Mechanics, Game Optimization, Level Design, All UI Design, UX, All Sound Effects, All Gameplay Effects, Camera Settings, All Animations).</p>
       <p>
         <a href="https://lirnith.itch.io/merge-valley"><strong>itch.io'da Oyna →</strong></a><br>
         <a href="https://youtu.be/zLaT6ParDjk"><strong>Gameplay Videosunu İzle →</strong></a><br>
@@ -81,7 +79,7 @@ Unity ve C# odaklı, aynı zamanda Unreal Engine ve sıfırdan HTML5/JavaScript 
   <tr>
     <td width="50%">
       <h3>🚜 Car Game (Unity)</h3>
-      <p>Unity ile geliştirilmiş, sıra tabanlı dövüş mekaniklerine sahip bir 2D Rol Yapma Oyunu prototipi.</p>
+      <p>Unity ile geliştirilmiş bir mobil oyunu. Tamemen çeşitli AI'ları kullanarak projede daha çok frontend geliştirmelerde bulundum ( Tüm frontend mechaniclerini yaptım (All DoTweens Mechanics, All Particles Mechanics, Game Optimization, Level Design, All UI Design, UX, All Sound Effects, All Gameplay Effects, All Camera Effects, All Animations).</p>
       <p>
         <a href="https://youtube.com/shorts/WedWieVoF70"><strong>Gameplay Videosunu İzle →</strong></a><br>
         <a href="https://github.com/Mustafa-Kum/CarGame"><strong>Code Sample →</strong></a>
@@ -89,7 +87,7 @@ Unity ve C# odaklı, aynı zamanda Unreal Engine ve sıfırdan HTML5/JavaScript 
     </td>
     <td width="50%">
       <h3>🔫 Third Person Shooter (Unity)</h3>
-      <p>Sadece HTML/JavaScript kullanarak oluşturduğum, içerisinde 70'ten fazla klasik oyun barındıran bir web uygulaması.</p>
+      <p>Boş zamanlarımda geliştirmiş olduğum Third Person Shooter Windows oyunu.</p>
       <p>
         <a href="https://lirnith.itch.io/thirdpersonshooter"><strong>itch.io'da Oyna →</strong></a><br>
         <a href="https://www.youtube.com/watch?v=HaTiYeD7i1I"><strong>Gameplay Videosunu İzle →</strong></a><br>
@@ -162,7 +160,7 @@ Unity ve C# odaklı, aynı zamanda Unreal Engine ve sıfırdan HTML5/JavaScript 
   <tr>
     <td colspan="2">
       <h3>👧 Child Game</h3>
-      <p>Sadece HTML/JavaScript ile oluşturulmuş 70+ oyun içeren bir web uygulaması.</p>
+      <p>Sadece HTML/JavaScript ile geliştirdiğim bir çocuk eğitim oyunu.</p>
       <p>
         <a href="https://lirnith.itch.io/childgame"><strong>Oyna →</strong></a><br>
         <a href="https://github.com/Mustafa-Kum/CrawRunner"><strong>Code Sample →</strong></a>
@@ -172,7 +170,7 @@ Unity ve C# odaklı, aynı zamanda Unreal Engine ve sıfırdan HTML5/JavaScript 
   <tr>
     <td width="50%">
       <h3>🧛 Vampire Survivor Copy</h3>
-      <p>Sadece HTML/JavaScript ile oluşturulmuş 70+ oyun içeren bir web uygulaması.</p>
+      <p>Sadece HTML/JavaScript ile geliştirdiğim 2D Vampire Survivors oyununun başka bir clonu.</p>
       <p>
         <a href="https://lirnith.itch.io/html5"><strong>Oyna →</strong></a><br>
         <a href="https://github.com/Mustafa-Kum/VampireSurvivorCopy"><strong>Code Sample →</strong></a>
@@ -180,7 +178,7 @@ Unity ve C# odaklı, aynı zamanda Unreal Engine ve sıfırdan HTML5/JavaScript 
     </td>
     <td width="50%">
       <h3>🧠 Hafıza Oyunu</h3>
-      <p>Sadece HTML/JavaScript ile oluşturulmuş 70+ oyun içeren bir web uygulaması.</p>
+      <p>Sadece HTML/JavaScript ile geliştirdiğim mobil app için yapmış olduğum oyun.</p>
       <p>
         <a href="https://lirnith.itch.io/hafza-oyunu-html"><strong>Oyna →</strong></a><br>
         <a href="https://github.com/Mustafa-Kum/MemoryGame"><strong>Code Sample →</strong></a>
@@ -190,7 +188,7 @@ Unity ve C# odaklı, aynı zamanda Unreal Engine ve sıfırdan HTML5/JavaScript 
   <tr>
     <td width="50%">
       <h3>💥 BulletStrike</h3>
-      <p>Sadece HTML/JavaScript ile oluşturulmuş 70+ oyun içeren bir web uygulaması.</p>
+      <p>Sadece HTML/JavaScript ile geliştirdiğim 2D WebGL shooter oyun.</p>
       <p>
         <a href="https://lirnith.itch.io/html-5-2"><strong>Oyna →</strong></a><br>
         <a href="https://github.com/Mustafa-Kum/BulletStrike"><strong>Code Sample →</strong></a>
@@ -198,7 +196,7 @@ Unity ve C# odaklı, aynı zamanda Unreal Engine ve sıfırdan HTML5/JavaScript 
     </td>
     <td width="50%">
       <h3>💀 Necromancer3D</h3>
-      <p>Sadece HTML/JavaScript ile oluşturulmuş 70+ oyun içeren bir web uygulaması.</p>
+      <p>Sadece HTML/JavaScript ile geliştirdiğim 3D Vampire Survivor tarzı oyun demosu.</p>
       <p>
         <a href="https://lirnith.itch.io/necromancer"><strong>Oyna →</strong></a><br>
         <a href="https://github.com/Mustafa-Kum/Necromancer3D"><strong>Code Sample →</strong></a>
@@ -212,13 +210,14 @@ Unity ve C# odaklı, aynı zamanda Unreal Engine ve sıfırdan HTML5/JavaScript 
 ## 🎮 Diğer Projeler ve Prototip Çalışmaları
 
 ### Diğer Projeler
-- **Pizza Path (Unity)**: Sadece HTML/JavaScript ile oluşturulmuş 70+ oyun içeren bir web uygulaması. [**Gameplay Videosu**](https://youtube.com/shorts/1HCB7iJKOvM)
-- **Passenger Puzzle (Unity)**: AdMob entegrasyonu içeren Hyper Casual türündeki ilk oyunum. [**Gameplay Videosu**](https://youtu.be/KGkw-92USvs)
+- **Pizza Path (Unity)**: Unity ile geliştirilmiş bir mobil casual oyunu. Tamemen çeşitli AI'ları kullanarak projede daha çok frontend geliştirmelerde bulundum ( Tüm frontend mechaniclerini yaptım (All DoTweens Mechanics, All Particles Mechanics, Game Optimization, Level Design, All UI Design, UX, All Sound Effects, All Gameplay Effects, Camera Settings, All Animations). [**Gameplay Videosu**](https://youtube.com/shorts/1HCB7iJKOvM)
+- **Passenger Puzzle (Unity)**: Unity ile geliştirilmiş bir mobil puzzle oyunu. Tamemen çeşitli AI'ları kullanarak projede daha çok frontend geliştirmelerde bulundum ( Tüm frontend mechaniclerini yaptım (All DoTweens Mechanics, All Particles Mechanics, Game Optimization, Level Design, All UI Design, UX, All Sound Effects, All Gameplay Effects, Camera Settings, All Animations). [**Gameplay Videosu**](https://youtu.be/KGkw-92USvs)
+- ""PolyTari**:Sadece HTML/JavaScript ile oluşturulmuş 70+ oyun içeren bir web uygulaması. [**Oyunları oyna.**](https://polytari.web.app/)
   
 ---
 
 ### Unity Prototip ve Denemeler
-- **CrawRunner (Unity)**: Unity ile geliştirilmiş 2D Rol Yapma Oyunu. [**Oyna**](https://lirnith.itch.io/crawrunner) | [**Video**](https://www.youtube.com/watch?v=S0lXaOML5Pw) | [**Code Sample**](https://github.com/Mustafa-Kum/CrawRunner)
+- **CrawRunner (Unity)**: Unity ile geliştirilmiş 2D Rol Yapma Oyunu. AdMob ve GooglePlay için gerekli SDK'leri yükledim ve belirli bir zaman Google Play'de yayınladım. [**Oyna**](https://lirnith.itch.io/crawrunner) | [**Video**](https://www.youtube.com/watch?v=S0lXaOML5Pw) | [**Code Sample**](https://github.com/Mustafa-Kum/CrawRunner)
 - **Flowers Needle (Unity)**: Unity ile geliştirilmiş 2D Rol Yapma Oyunu. [**Oyna**](https://lirnith.itch.io/flowers-needle) | [**Video**](https://www.youtube.com/watch?v=OOyf2Ugnms4) | [**Code Sample**](https://github.com/Mustafa-Kum/Flowers-Needle-Game-4)
 - **CrawShooter (Unity)**: Aksiyon oyunu prototipi. [**Oyna**](https://lirnith.itch.io/crawshooter) | [**Code Sample**](https://github.com/Mustafa-Kum/CrawShooter)
 - **3D Adventurer (Unity)**: Aksiyon oyunu prototipi. [**Oyna**](https://lirnith.itch.io/3d-adventurer) | [**Code Sample**](https://github.com/Mustafa-Kum/Experimental-Game)
