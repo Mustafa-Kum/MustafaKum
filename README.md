@@ -45,7 +45,7 @@ A puzzle game published on the App Store for iOS. As the sole developer responsi
 * **Technical Systems & Optimization:** Managed critical technical tasks, including game performance optimization for a smooth experience on mobile devices and fine-tuning all camera behaviors for optimal gameplay visibility.
 
 <a href="https://apps.apple.com/tr/app/cubix-path-puzzle-match/id6478001225"><strong>View on App Store →</strong></a><br>
-<a href="YOUTUBE_LINKI"><strong>Watch Gameplay →</strong></a><br>
+<a href="https://www.youtube.com/watch?v=0eXOciigD3o"><strong>Watch Gameplay →</strong></a><br>
 <a href="https://github.com/Mustafa-Kum/PuzzleCode"><strong>View Code →</strong></a>
 
 ---
@@ -60,7 +60,7 @@ A 3D puzzle game published on the App Store for iOS. In this project, I was the 
 * **Technical Systems & Optimization:** Managed critical technical aspects such as game performance optimization, level design implementation, and fine-tuning all camera systems to ensure a smooth and enjoyable gameplay experience.
 
 <a href="https://apps.apple.com/us/app/farm-connect-match-3d-puzzle/id6503044105"><strong>View on App Store →</strong></a><br>
-<a href="YOUTUBE_LINKI"><strong>Watch Gameplay →</strong></a><br>
+<a href="https://www.youtube.com/watch?v=t4rGmqsmI0I"><strong>Watch Gameplay →</strong></a><br>
 <a href="https://github.com/Mustafa-Kum/FarmPuzzleCode"><strong>View Code →</strong></a>
 
 ---
@@ -75,7 +75,7 @@ A fast-paced casual game developed in Unity for mobile platforms. For this proje
 * **Technical Systems & Optimization:** Managed the implementation of level designs, fine-tuned all camera behaviors for clarity, and performed critical game performance optimization to ensure a smooth experience.
 
 <a href="https://lirnith.itch.io/cook"><strong>Play on itch.io →</strong></a><br>
-<a href="YOUTUBE_LINKI"><strong>Watch Gameplay →</strong></a><br>
+<a href="https://www.youtube.com/watch?v=1nN6eWOxZDQ"><strong>Watch Gameplay →</strong></a><br>
 <a href="https://github.com/Mustafa-Kum/CookCode"><strong>View Code →</strong></a>
 
 ---
@@ -90,7 +90,7 @@ A casual merge game developed in Unity and deployed for WebGL. I was responsible
 * **Technical Systems & Optimization:** Handled critical technical aspects, including game performance optimization specifically for the WebGL platform, and fine-tuned all camera systems for a smooth and stable gameplay experience.
 
 <a href="https://lirnith.itch.io/merge-valley"><strong>Play on itch.io →</strong></a><br>
-<a href="YOUTUBE_LINKI"><strong>Watch Gameplay →</strong></a><br>
+<a href="https://www.youtube.com/watch?v=zLaT6ParDjk"><strong>Watch Gameplay →</strong></a><br>
 <a href="https://github.com/Mustafa-Kum/MergeCode"><strong>View Code →</strong></a>
 
 ---
@@ -104,7 +104,7 @@ A mobile driving game developed in Unity. For this project, I was responsible fo
 * **Game Feel & Visual Effects:** Implemented all audiovisual feedback systems to enhance the driving immersion. This included all vehicle animations, particle effects (VFX) for speed and impacts, sound effects (SFX), and dynamic camera effects.
 * **Technical Systems & Optimization:** Handled critical technical aspects, including game performance optimization for a smooth framerate on mobile devices and ensuring all systems worked together seamlessly.
 
-<a href="YOUTUBE_LINKI"><strong>Watch Gameplay →</strong></a><br>
+<a href="https://www.youtube.com/shorts/Uxj482VLfBA"><strong>Watch Gameplay →</strong></a><br>
 <a href="https://github.com/Mustafa-Kum/CarGame"><strong>View Code →</strong></a>
 
 ---
@@ -119,7 +119,7 @@ A personal project developed in Unity to master the core mechanics of third-pers
 * **Enemy AI:** Programmed basic enemy AI behaviors to create a challenging and interactive combat experience for the player.
 
 <a href="https://lirnith.itch.io/thirdpersonshooter"><strong>Play on itch.io →</strong></a><br>
-<a href="YOUTUBE_LINKI"><strong>Watch Gameplay →</strong></a><br>
+<a href="https://www.youtube.com/watch?v=HaTiYeD7i1I"><strong>Watch Gameplay →</strong></a><br>
 <a href="https://github.com/Mustafa-Kum/ThirdPersonShooter"><strong>View Code →</strong></a>
 
 ---
@@ -258,9 +258,9 @@ A personal project developed in Unity to master the core mechanics of third-pers
 ### 🎮 Unity Prototypes & Experiments
 
 - **CrawRunner (Unity):** A 2D RPG prototype that was previously published on the Google Play Store, featuring AdMob and Google Play SDK integration.
-  <br>[**Play on itch.io →**](https://lirnith.itch.io/crawrunner) | [**Watch Gameplay →**](YOUTUBE_VIDEO_LINKINIZI_BURAYA_EKLEYIN) | [**View Code →**](https://github.com/Mustafa-Kum/CrawRunner)<br>
+  <br>[**Play on itch.io →**](https://lirnith.itch.io/crawrunner) | [**Watch Gameplay →**](https://www.youtube.com/watch?v=jNo36mdWnEo) | [**View Code →**](https://github.com/Mustafa-Kum/CrawRunner)<br>
 - **Flowers Needle (Unity):** A prototype for a 2D RPG, exploring narrative systems and basic quest mechanics.
-  <br>[**Play on itch.io →**](https://lirnith.itch.io/flowers-needle) | [**Watch Gameplay →**](YOUTUBE_VIDEO_LINKINIZI_BURAYA_EKLEYIN) | [**View Code →**](https://github.com/Mustafa-Kum/Flowers-Needle-Game-4)<br>
+  <br>[**Play on itch.io →**](https://lirnith.itch.io/flowers-needle) | [**Watch Gameplay →**](https://www.youtube.com/watch?v=OOyf2Ugnms4) | [**View Code →**](https://github.com/Mustafa-Kum/Flowers-Needle-Game-4)<br>
 - **CrawShooter (Unity):** An early action game prototype focused on top-down shooter mechanics and player controls.
   <br>[**Play on itch.io →**](https://lirnith.itch.io/crawshooter) | [**View Code →**](https://github.com/Mustafa-Kum/CrawShooter)<br>
 - **Infinity Shooter (Unity):** A mobile endless shooter prototype focused on creating a satisfying core game loop and scoring system.
