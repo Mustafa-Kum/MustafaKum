@@ -246,15 +246,16 @@ A personal project developed in Unity to master the core mechanics of third-pers
 
 ### 🎮 Other Projects
 
-- **Pizza Path (Unity):** A casual mobile game where I was responsible for the entire front-end development, focusing on creating a satisfying and polished player experience through juicy animations and effects. [**Watch Gameplay →**](https://youtube.com/shorts/1HCB7iJKOvM)
-- **Passenger Puzzle (Unity):** A mobile puzzle game where I engineered the complete front-end, including the core puzzle mechanics, UI/UX, and all in-game feedback systems. [**Watch Gameplay →**](https://youtu.be/KGkw-92USvs)
-- **PolyTari (HTML5/JavaScript):** A large-scale web application featuring a collection of **over 70+ games**, all built from scratch with pure JavaScript. This project showcases rapid prototyping capabilities and a deep understanding of core web technologies. [**Explore the Collection →**](https://polytari.web.app/)
+- **Pizza Path (Unity):** A casual mobile game where I was responsible for the entire front-end development, focusing on creating a satisfying and polished player experience through juicy animations and effects.
+<br>[**Watch Gameplay →**](https://youtube.com/shorts/1HCB7iJKOvM)
+- **Passenger Puzzle (Unity):** AA mobile puzzle game where I engineered the complete front-end, including the core puzzle mechanics, UI/UX, and all in-game feedback systems.
+<br>[**Watch Gameplay →**](https://youtu.be/KGkw-92USvs)
+- **PolyTari (HTML5/JavaScript):** A large-scale web application featuring a collection of **over 70+ games**, all built from scratch with pure JavaScript. This project showcases rapid prototyping capabilities and a deep understanding of core web technologies.
+<br>[**Explore the Collection →**](https://polytari.web.app/)
   
 ---
 
 ### 🎮 Unity Prototypes & Experiments
-
-### Unity Prototypes & Experiments
 
 - **CrawRunner (Unity):** A 2D RPG prototype that was previously published on the Google Play Store, featuring AdMob and Google Play SDK integration.
   <br>[**Play on itch.io →**](https://lirnith.itch.io/crawrunner) | [**Watch Gameplay →**](YOUTUBE_VIDEO_LINKINIZI_BURAYA_EKLEYIN) | [**View Code →**](https://github.com/Mustafa-Kum/CrawRunner)<br>
