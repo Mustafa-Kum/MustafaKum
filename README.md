@@ -35,109 +35,92 @@ Versatile Game Developer with professional experience in **Unity/C#** and a deep
 
 ## 🚀 Unity Projelerim
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>👾 Cubix Path (iOS)</h3>
-      <p>A puzzle game published on the App Store for iOS. As the sole developer responsible for the entire front-end, I engineered the complete player experience, from core gameplay systems to the final user interface and in-game polish.</p><br>
-      <strong>Key Contributions:</strong>
-<ul>
-    <li><strong>Core Gameplay Mechanics:</strong> Engineered the primary puzzle mechanics, including a dynamic Water Mechanic and a responsive Cube Jiggle effect to provide satisfying tactile feedback.</li>
-    <li><strong>UI/UX Design & Implementation:</strong> Designed and implemented the complete User Interface (UI) and User Experience (UX) flow, from initial concepts to the final, polished in-game menus and responsive screen layouts.</li>
-    <li><strong>Game Feel & Polish:</strong> Implemented all audiovisual feedback systems ("juice") to create a lively and engaging experience, including all in-game animations, particle effects (VFX), and sound effects (SFX).</li>
-    <li><strong>Technical Systems & Optimization:</strong> Managed critical technical tasks, including game performance optimization for a smooth experience on mobile devices and fine-tuning all camera behaviors for optimal gameplay visibility.</li>
-</ul>
-      <p>
-        <a href="https://apps.apple.com/tr/app/cubix-path-puzzle-match/id6478001225"><strong>View on App Store →</strong></a><br>
-        <a href="https://www.youtube.com/watch?v=0eXOciigD3o"><strong>Watch Gameplay →</strong></a><br>
-        <a href="https://github.com/Mustafa-Kum/PuzzleCode"><strong>View Code →</strong></a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3>🚜 Farm Connect Match (iOS)</h3>
-      <p>A 3D puzzle game published on the App Store for iOS. In this project, I was the sole developer for the entire front-end, responsible for building the complete player experience from the ground up, including all core mechanics, UI/UX, and in-game polish.</p><br>
-      <strong>Key Contributions:</strong>
-<ul>
-    <li><strong>Core Gameplay Mechanics:</strong> Engineered the main "Connect Mechanic" as the central puzzle element, ensuring it was both intuitive and challenging. Also implemented a responsive "Cube Jiggle" effect for satisfying tactile feedback.</li>
-    <li><strong>UI/UX Design & Implementation:</strong> Designed and implemented the complete User Interface (UI) and User Experience (UX) flow, including all menus, game progression screens, and responsive layouts for various mobile devices.</li>
-    <li><strong>Game Feel & Polish:</strong> Created a vibrant and engaging atmosphere through the implementation of all audiovisual feedback systems, including all in-game animations, particle effects (VFX), sound effects (SFX), and UI transitions using DOTween.</li>
-    <li><strong>Technical Systems & Optimization:</strong> Managed critical technical aspects such as game performance optimization, level design implementation, and fine-tuning all camera systems to ensure a smooth and enjoyable gameplay experience.</li>
-</ul>
-      <p>
-        <a href="https://apps.apple.com/us/app/farm-connect-match-3d-puzzle/id6503044105"><strong>View on App Store →</strong></a><br>
-        <a href="https://youtu.be/t4rGmqsmI0I"><strong>Watch Gameplay →</strong></a><br>
-        <a href="https://github.com/Mustafa-Kum/FarmPuzzleCode"><strong>View Code →</strong></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🔫 Cooking Live (Unity)</h3>
-      <p>A fast-paced casual game developed in Unity for mobile platforms. For this project, I was responsible for the entire front-end development, focusing on creating a highly responsive and satisfying player experience through dynamic feedback and polished UI.</p><br>
-      <strong>Key Contributions:</strong>
-<ul>
-    <li><strong>Core Gameplay Loop:</strong> Engineered the central cooking and serving mechanics, ensuring a fast-paced and engaging game loop that is easy to learn but challenging to master.</li>
-    <li><strong>UI/UX Design & Implementation:</strong> Designed and implemented the complete User Interface (UI) and User Experience (UX) flow, creating intuitive controls and clear visual feedback essential for a fast-paced casual game.</li>
-    <li><strong>Game Feel & "Juice":</strong> Implemented all audiovisual feedback systems to create a lively and satisfying experience. This included all in-game animations, particle effects (VFX), sound effects (SFX), and juicy UI transitions using DOTween.</li>
-    <li><strong>Technical Systems & Optimization:</strong> Managed the implementation of level designs, fine-tuned all camera behaviors for clarity, and performed critical game performance optimization to ensure a smooth experience.</li>
-</ul>
-      <p>
-        <a href="https://lirnith.itch.io/cook"><strong>Play on itch.io →</strong></a><br>
-        <a href="https://youtu.be/1nN6eWOxZDQ"><strong>Watch Gameplay →</strong></a><br>
-        <a href="https://github.com/Mustafa-Kum/CookCode"><strong>View Code →</strong></a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3>⚔️ Merge Valley (Unity)</h3>
-      <p>A casual merge game developed in Unity and deployed for WebGL. I was responsible for the entire front-end development, building a seamless and satisfying player experience from the core merge mechanic to the final polished product.</p><br>
-      <strong>Key Contributions:</strong>
-<ul>
-    <li><strong>Core Gameplay Mechanics:</strong> Engineered the central "Merge" mechanic, creating an intuitive and addictive core loop. Also managed the implementation of all level designs and progression systems.</li>
-    <li><strong>UI/UX Design & Implementation:</strong> Designed and implemented the complete User Interface (UI) and User Experience (UX) flow, ensuring clear visual communication and easy navigation for players on a web platform.</li>
-    li><strong>Game Feel & "Juice":</strong> Implemented all audiovisual feedback systems to create a responsive and engaging experience, including all in-game animations, particle effects (VFX), sound effects (SFX), and UI transitions using DOTween.</li>
-    <li><strong>Technical Systems & Optimization:</strong> Handled critical technical aspects, including game performance optimization specifically for the WebGL platform, and fine-tuned all camera systems for a smooth and stable gameplay experience.</li>
-</ul>
-      <p>
-        <a href="https://lirnith.itch.io/merge-valley"><strong>Play on itch.io →</strong></a><br>
-        <a href="https://youtu.be/zLaT6ParDjk"><strong>Watch Gameplay →</strong></a><br>
-        <a href="https://github.com/Mustafa-Kum/MergeCode"><strong>View Code →</strong></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🚜 Car Game (Unity)</h3>
-      <p>A mobile driving game developed in Unity. For this project, I was responsible for the entire front-end development, focusing on creating a responsive and engaging driving experience through dynamic physics, visual effects, and a polished user interface.</p><br>
-      <strong>Key Contributions:</strong>
-<ul>
-    <li><strong>Core Gameplay & Driving Mechanics:</strong> Engineered the central vehicle controls and physics to create a responsive and fun driving experience. Also managed the implementation of all level designs and game progression.</li>
-    <li><strong>UI/UX Design & Implementation:</strong> Designed and implemented the complete User Interface (UI) and User Experience (UX) flow, including the main menu, in-game HUD (Heads-Up Display), and progression screens.</li>
-    <li><strong>Game Feel & Visual Effects:</strong> Implemented all audiovisual feedback systems to enhance the driving immersion. This included all vehicle animations, particle effects (VFX) for speed and impacts, sound effects (SFX), and dynamic camera effects.</li>
-    <li><strong>Technical Systems & Optimization:</strong> Handled critical technical aspects, including game performance optimization for a smooth framerate on mobile devices and ensuring all systems worked together seamlessly.</li>
-</ul>
-      <p>
-        <a href="https://youtube.com/shorts/WedWieVoF70"><strong>Watch Gameplay →</strong></a><br>
-        <a href="https://github.com/Mustafa-Kum/CarGame"><strong>View Code →</strong></a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3>🔫 Third Person Shooter (Unity)</h3>
-      <p>A personal project developed in Unity to master the core mechanics of third-person action games. This project served as a deep dive into creating responsive character controls, dynamic camera systems, and satisfying combat mechanics for the shooter genre.</p><br>
-      <strong>Key Contributions:</strong>
-<ul>
-    <li><strong>Character & Camera Systems:</strong> Engineered a fluid third-person character controller from the ground up and implemented a dynamic camera system that supports both exploration and precise aiming.</li>
-    <li><strong>Combat & Weapon Mechanics:</strong> Developed the core shooting mechanics, including weapon handling, projectile physics, hit detection, and a basic enemy health system.</li>
-    <li><strong>Gameplay Loop & UI:</strong> Created a complete gameplay loop with clear objectives and implemented a functional in-game HUD (Heads-Up Display) to provide essential player feedback (e.g., health, ammo).</li>
-    <li><strong>Enemy AI:</strong> Programmed basic enemy AI behaviors to create a challenging and interactive combat experience for the player.</li>
-</ul>
-      <p>
-        <a href="https://lirnith.itch.io/thirdpersonshooter"><strong>Play on itch.io →</strong></a><br>
-        <a href="https://www.youtube.com/watch?v=HaTiYeD7i1I"><strong>Watch Gameplay →</strong></a><br>
-        <a href="https://github.com/Mustafa-Kum/ThirdPersonShooter"><strong>View Code →</strong></a>
-      </p>
-    </td>
-  </tr>
-</table>
+### 👾 Cubix Path (iOS)
+A puzzle game published on the App Store for iOS. As the sole developer responsible for the entire front-end, I engineered the complete player experience, from core gameplay systems to the final user interface and in-game polish.
+
+**Key Contributions:**
+* **Core Gameplay Mechanics:** Engineered the primary puzzle mechanics, including a dynamic Water Mechanic and a responsive Cube Jiggle effect to provide satisfying tactile feedback.
+* **UI/UX Design & Implementation:** Designed and implemented the complete User Interface (UI) and User Experience (UX) flow, from initial concepts to the final, polished in-game menus and responsive screen layouts.
+* **Game Feel & Polish:** Implemented all audiovisual feedback systems ("juice") to create a lively and engaging experience, including all in-game animations, particle effects (VFX), and sound effects (SFX).
+* **Technical Systems & Optimization:** Managed critical technical tasks, including game performance optimization for a smooth experience on mobile devices and fine-tuning all camera behaviors for optimal gameplay visibility.
+
+<a href="https://apps.apple.com/tr/app/cubix-path-puzzle-match/id6478001225"><strong>View on App Store →</strong></a><br>
+<a href="YOUTUBE_LINKI"><strong>Watch Gameplay →</strong></a><br>
+<a href="https://github.com/Mustafa-Kum/PuzzleCode"><strong>View Code →</strong></a>
+
+---
+
+### 🚜 Farm Connect Match (iOS)
+A 3D puzzle game published on the App Store for iOS. In this project, I was the sole developer for the entire front-end, responsible for building the complete player experience from the ground up, including all core mechanics, UI/UX, and in-game polish.
+
+**Key Contributions:**
+* **Core Gameplay Mechanics:** Engineered the main "Connect Mechanic" as the central puzzle element, ensuring it was both intuitive and challenging. Also implemented a responsive "Cube Jiggle" effect for satisfying tactile feedback.
+* **UI/UX Design & Implementation:** Designed and implemented the complete User Interface (UI) and User Experience (UX) flow, including all menus, game progression screens, and responsive layouts for various mobile devices.
+* **Game Feel & Polish:** Created a vibrant and engaging atmosphere through the implementation of all audiovisual feedback systems, including all in-game animations, particle effects (VFX), sound effects (SFX), and UI transitions using DOTween.
+* **Technical Systems & Optimization:** Managed critical technical aspects such as game performance optimization, level design implementation, and fine-tuning all camera systems to ensure a smooth and enjoyable gameplay experience.
+
+<a href="https://apps.apple.com/us/app/farm-connect-match-3d-puzzle/id6503044105"><strong>View on App Store →</strong></a><br>
+<a href="YOUTUBE_LINKI"><strong>Watch Gameplay →</strong></a><br>
+<a href="https://github.com/Mustafa-Kum/FarmPuzzleCode"><strong>View Code →</strong></a>
+
+---
+
+### 🔫 Cooking Live (Unity)
+A fast-paced casual game developed in Unity for mobile platforms. For this project, I was responsible for the entire front-end development, focusing on creating a highly responsive and satisfying player experience through dynamic feedback and polished UI.
+
+**Key Contributions:**
+* **Core Gameplay Loop:** Engineered the central cooking and serving mechanics, ensuring a fast-paced and engaging game loop that is easy to learn but challenging to master.
+* **UI/UX Design & Implementation:** Designed and implemented the complete User Interface (UI) and User Experience (UX) flow, creating intuitive controls and clear visual feedback essential for a fast-paced casual game.
+* **Game Feel & "Juice":** Implemented all audiovisual feedback systems to create a lively and satisfying experience. This included all in-game animations, particle effects (VFX), sound effects (SFX), and juicy UI transitions using DOTween.
+* **Technical Systems & Optimization:** Managed the implementation of level designs, fine-tuned all camera behaviors for clarity, and performed critical game performance optimization to ensure a smooth experience.
+
+<a href="https://lirnith.itch.io/cook"><strong>Play on itch.io →</strong></a><br>
+<a href="YOUTUBE_LINKI"><strong>Watch Gameplay →</strong></a><br>
+<a href="https://github.com/Mustafa-Kum/CookCode"><strong>View Code →</strong></a>
+
+---
+
+### ⚔️ Merge Valley (Unity)
+A casual merge game developed in Unity and deployed for WebGL. I was responsible for the entire front-end development, building a seamless and satisfying player experience from the core merge mechanic to the final polished product.
+
+**Key Contributions:**
+* **Core Gameplay Mechanics:** Engineered the central "Merge" mechanic, creating an intuitive and addictive core loop. Also managed the implementation of all level designs and progression systems.
+* **UI/UX Design & Implementation:** Designed and implemented the complete User Interface (UI) and User Experience (UX) flow, ensuring clear visual communication and easy navigation for players on a web platform.
+* **Game Feel & "Juice":** Implemented all audiovisual feedback systems to create a responsive and engaging experience, including all in-game animations, particle effects (VFX), sound effects (SFX), and UI transitions using DOTween.
+* **Technical Systems & Optimization:** Handled critical technical aspects, including game performance optimization specifically for the WebGL platform, and fine-tuned all camera systems for a smooth and stable gameplay experience.
+
+<a href="https://lirnith.itch.io/merge-valley"><strong>Play on itch.io →</strong></a><br>
+<a href="YOUTUBE_LINKI"><strong>Watch Gameplay →</strong></a><br>
+<a href="https://github.com/Mustafa-Kum/MergeCode"><strong>View Code →</strong></a>
+
+---
+
+### 🚗 Car Game (Unity)
+A mobile driving game developed in Unity. For this project, I was responsible for the entire front-end development, focusing on creating a responsive and engaging driving experience through dynamic physics, visual effects, and a polished user interface.
+
+**Key Contributions:**
+* **Core Gameplay & Driving Mechanics:** Engineered the central vehicle controls and physics to create a responsive and fun driving experience. Also managed the implementation of all level designs and game progression.
+* **UI/UX Design & Implementation:** Designed and implemented the complete User Interface (UI) and User Experience (UX) flow, including the main menu, in-game HUD (Heads-Up Display), and progression screens.
+* **Game Feel & Visual Effects:** Implemented all audiovisual feedback systems to enhance the driving immersion. This included all vehicle animations, particle effects (VFX) for speed and impacts, sound effects (SFX), and dynamic camera effects.
+* **Technical Systems & Optimization:** Handled critical technical aspects, including game performance optimization for a smooth framerate on mobile devices and ensuring all systems worked together seamlessly.
+
+<a href="YOUTUBE_LINKI"><strong>Watch Gameplay →</strong></a><br>
+<a href="https://github.com/Mustafa-Kum/CarGame"><strong>View Code →</strong></a>
+
+---
+
+### 🔫 Third Person Shooter (Unity)
+A personal project developed in Unity to master the core mechanics of third-person action games. This project served as a deep dive into creating responsive character controls, dynamic camera systems, and satisfying combat mechanics for the shooter genre.
+
+**Key Contributions:**
+* **Character & Camera Systems:** Engineered a fluid third-person character controller from the ground up and implemented a dynamic camera system that supports both exploration and precise aiming.
+* **Combat & Weapon Mechanics:** Developed the core shooting mechanics, including weapon handling, projectile physics, hit detection, and a basic enemy health system.
+* **Gameplay Loop & UI:** Created a complete gameplay loop with clear objectives and implemented a functional in-game HUD (Heads-Up Display) to provide essential player feedback (e.g., health, ammo).
+* **Enemy AI:** Programmed basic enemy AI behaviors to create a challenging and interactive combat experience for the player.
+
+<a href="https://lirnith.itch.io/thirdpersonshooter"><strong>Play on itch.io →</strong></a><br>
+<a href="YOUTUBE_LINKI"><strong>Watch Gameplay →</strong></a><br>
+<a href="https://github.com/Mustafa-Kum/ThirdPersonShooter"><strong>View Code →</strong></a>
 
 ---
 
@@ -168,8 +151,6 @@ Versatile Game Developer with professional experience in **Unity/C#** and a deep
 </table>
 
 ---
-
-## ✨ Playable Ads
 
 ## ✨ Playable Ads
 
