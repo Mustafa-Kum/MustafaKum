@@ -55,7 +55,14 @@ Versatile Game Developer with professional experience in **Unity/C#** and a deep
     </td>
     <td width="50%">
       <h3>🚜 Farm Connect Match (iOS)</h3>
-      <p>App Store'da yayınlanmış, Unity ile geliştirilmiş bir mobil bulmaca oyunu. Tamemen çeşitli AI'ları kullanarak projede daha çok frontend geliştirmelerde bulundum ( Tüm frontend mechaniclerini yaptım ( Connect Mechanic, Cube Jiggle Mechanic, All DoTweens Mechanics, All Particles Mechanics, Game Optimization, Level Design, All UI Design, UX, All Sound Effects, All Gameplay Effects, Camera Settings, All Animations).</p>
+      <p>A 3D puzzle game published on the App Store for iOS. In this project, I was the sole developer for the entire front-end, responsible for building the complete player experience from the ground up, including all core mechanics, UI/UX, and in-game polish.</p><br>
+      <strong>Key Contributions:</strong>
+<ul>
+    <li><strong>Core Gameplay Mechanics:</strong> Engineered the main "Connect Mechanic" as the central puzzle element, ensuring it was both intuitive and challenging. Also implemented a responsive "Cube Jiggle" effect for satisfying tactile feedback.</li>
+    <li><strong>UI/UX Design & Implementation:</strong> Designed and implemented the complete User Interface (UI) and User Experience (UX) flow, including all menus, game progression screens, and responsive layouts for various mobile devices.</li>
+    <li><strong>Game Feel & Polish:</strong> Created a vibrant and engaging atmosphere through the implementation of all audiovisual feedback systems, including all in-game animations, particle effects (VFX), sound effects (SFX), and UI transitions using DOTween.</li>
+    <li><strong>Technical Systems & Optimization:</strong> Managed critical technical aspects such as game performance optimization, level design implementation, and fine-tuning all camera systems to ensure a smooth and enjoyable gameplay experience.</li>
+</ul>
       <p>
         <a href="https://apps.apple.com/us/app/farm-connect-match-3d-puzzle/id6503044105"><strong>App Store'da İncele →</strong></a><br>
         <a href="https://youtu.be/t4rGmqsmI0I"><strong>Gameplay Videosunu İzle →</strong></a><br>
@@ -66,7 +73,14 @@ Versatile Game Developer with professional experience in **Unity/C#** and a deep
   <tr>
     <td width="50%">
       <h3>🔫 Cooking Live (Unity)</h3>
-      <p>Unity ile geliştirilmiş bir mobil casual oyunu. Tamemen çeşitli AI'ları kullanarak projede daha çok frontend geliştirmelerde bulundum ( Tüm frontend mechaniclerini yaptım (All DoTweens Mechanics, All Particles Mechanics, Game Optimization, Level Design, All UI Design, UX, All Sound Effects, All Gameplay Effects, Camera Settings, All Animations).</p>
+      <p>A fast-paced casual game developed in Unity for mobile platforms. For this project, I was responsible for the entire front-end development, focusing on creating a highly responsive and satisfying player experience through dynamic feedback and polished UI.</p><br>
+      <strong>Key Contributions:</strong>
+<ul>
+    <li><strong>Core Gameplay Loop:</strong> Engineered the central cooking and serving mechanics, ensuring a fast-paced and engaging game loop that is easy to learn but challenging to master.</li>
+    <li><strong>UI/UX Design & Implementation:</strong> Designed and implemented the complete User Interface (UI) and User Experience (UX) flow, creating intuitive controls and clear visual feedback essential for a fast-paced casual game.</li>
+    <li><strong>Game Feel & "Juice":</strong> Implemented all audiovisual feedback systems to create a lively and satisfying experience. This included all in-game animations, particle effects (VFX), sound effects (SFX), and juicy UI transitions using DOTween.</li>
+    <li><strong>Technical Systems & Optimization:</strong> Managed the implementation of level designs, fine-tuned all camera behaviors for clarity, and performed critical game performance optimization to ensure a smooth experience.</li>
+</ul>
       <p>
         <a href="https://lirnith.itch.io/cook"><strong>itch.io'da Oyna →</strong></a><br>
         <a href="https://youtu.be/1nN6eWOxZDQ"><strong>Gameplay Videosunu İzle →</strong></a><br>
@@ -75,7 +89,14 @@ Versatile Game Developer with professional experience in **Unity/C#** and a deep
     </td>
     <td width="50%">
       <h3>⚔️ Merge Valley (Unity)</h3>
-      <p>Unity ile geliştirilmiş bir WebGL casual oyunu. Tamemen çeşitli AI'ları kullanarak projede daha çok frontend geliştirmelerde bulundum ( Tüm frontend mechaniclerini yaptım (All DoTweens Mechanics, All Particles Mechanics, Game Optimization, Level Design, All UI Design, UX, All Sound Effects, All Gameplay Effects, Camera Settings, All Animations).</p>
+      <p>A casual merge game developed in Unity and deployed for WebGL. I was responsible for the entire front-end development, building a seamless and satisfying player experience from the core merge mechanic to the final polished product.</p><br>
+      <strong>Key Contributions:</strong>
+<ul>
+    <li><strong>Core Gameplay Mechanics:</strong> Engineered the central "Merge" mechanic, creating an intuitive and addictive core loop. Also managed the implementation of all level designs and progression systems.</li>
+    <li><strong>UI/UX Design & Implementation:</strong> Designed and implemented the complete User Interface (UI) and User Experience (UX) flow, ensuring clear visual communication and easy navigation for players on a web platform.</li>
+    li><strong>Game Feel & "Juice":</strong> Implemented all audiovisual feedback systems to create a responsive and engaging experience, including all in-game animations, particle effects (VFX), sound effects (SFX), and UI transitions using DOTween.</li>
+    <li><strong>Technical Systems & Optimization:</strong> Handled critical technical aspects, including game performance optimization specifically for the WebGL platform, and fine-tuned all camera systems for a smooth and stable gameplay experience.</li>
+</ul>
       <p>
         <a href="https://lirnith.itch.io/merge-valley"><strong>itch.io'da Oyna →</strong></a><br>
         <a href="https://youtu.be/zLaT6ParDjk"><strong>Gameplay Videosunu İzle →</strong></a><br>
