@@ -252,22 +252,24 @@ A personal project developed in Unity to master the core mechanics of third-pers
   
 ---
 
+### 🎮 Unity Prototypes & Experiments
+
 ### Unity Prototypes & Experiments
 
-- **CrawRunner (Unity):** AdMob ve Google Play SDK entegrasyonu içeren, daha önce Play Store'da yayınlanmış bir 2D RPG prototipi.
-  <br>[**Play on itch.io →**](https://lirnith.itch.io/crawrunner) | [**Watch Gameplay →**](YOUTUBE_VIDEO_LINKINIZI_BURAYA_EKLEYIN) | [**View Code →**](https://github.com/Mustafa-Kum/CrawRunner)
-- **Flowers Needle (Unity):** Anlatı sistemlerini ve temel görev mekaniklerini araştıran bir 2D RPG prototipi.
-  <br>[**Play on itch.io →**](https://lirnith.itch.io/flowers-needle) | [**Watch Gameplay →**](YOUTUBE_VIDEO_LINKINIZI_BURAYA_EKLEYIN) | [**View Code →**](https://github.com/Mustafa-Kum/Flowers-Needle-Game-4)
-- **CrawShooter (Unity):** Top-down nişancı mekaniklerine ve oyuncu kontrollerine odaklanan erken bir aksiyon oyunu prototipi.
-  <br>[**Play on itch.io →**](https://lirnith.itch.io/crawshooter) | [**View Code →**](https://github.com/Mustafa-Kum/CrawShooter)
-- **Infinity Shooter (Unity):** Tatmin edici bir oyun döngüsü ve skorlama sistemine odaklanan mobil bir sonsuz nişancı prototipi.
-  <br>[**Play on itch.io →**](https://lirnith.itch.io/infinity-shooter) | [**View Code →**](https://github.com/Mustafa-Kum/Infinity-Shooter-Game-1)
-- **3D Adventurer (Unity):** 3D karakter hareketi, kamera kontrolleri ve çevresel etkileşimi araştıran bir aksiyon prototipi.
-  <br>[**Play on itch.io →**](https://lirnith.itch.io/3d-adventurer) | [**View Code →**](https://github.com/Mustafa-Kum/Experimental-Game)
-- **The Great Fleece (Unity):** Gizlilik mekanikleri, temel yapay zeka ve tespit sistemlerine odaklanan bir prototip.
-  <br>[**Play on itch.io →**](https://lirnith.itch.io/the-great-fleece) | [**View Code →**](https://github.com/Mustafa-Kum/The-Great-Fleece-Game-3)
-- **Dungeon Escape (Unity):** Döşeme tabanlı seviye tasarımı ve bulmaca mantığını araştıran bir 2D bulmaca-platform oyunu prototipi.
-  <br>[**Play on itch.io →**](https://lirnith.itch.io/dungeon-escape) | [**View Code →**](https://github.com/Mustafa-Kum/Dungeon-Escape-Game-2)
+- **CrawRunner (Unity):** A 2D RPG prototype that was previously published on the Google Play Store, featuring AdMob and Google Play SDK integration.
+  <br>[**Play on itch.io →**](https://lirnith.itch.io/crawrunner) | [**Watch Gameplay →**](YOUTUBE_VIDEO_LINKINIZI_BURAYA_EKLEYIN) | [**View Code →**](https://github.com/Mustafa-Kum/CrawRunner)<br>
+- **Flowers Needle (Unity):** A prototype for a 2D RPG, exploring narrative systems and basic quest mechanics.
+  <br>[**Play on itch.io →**](https://lirnith.itch.io/flowers-needle) | [**Watch Gameplay →**](YOUTUBE_VIDEO_LINKINIZI_BURAYA_EKLEYIN) | [**View Code →**](https://github.com/Mustafa-Kum/Flowers-Needle-Game-4)<br>
+- **CrawShooter (Unity):** An early action game prototype focused on top-down shooter mechanics and player controls.
+  <br>[**Play on itch.io →**](https://lirnith.itch.io/crawshooter) | [**View Code →**](https://github.com/Mustafa-Kum/CrawShooter)<br>
+- **Infinity Shooter (Unity):** A mobile endless shooter prototype focused on creating a satisfying core game loop and scoring system.
+  <br>[**Play on itch.io →**](https://lirnith.itch.io/infinity-shooter) | [**View Code →**](https://github.com/Mustafa-Kum/Infinity-Shooter-Game-1)<br>
+- **3D Adventurer (Unity):** An action prototype exploring 3D character movement, camera controls, and environmental interaction.
+  <br>[**Play on itch.io →**](https://lirnith.itch.io/3d-adventurer) | [**View Code →**](https://github.com/Mustafa-Kum/Experimental-Game)<br>
+- **The Great Fleece (Unity):** A prototype focused on implementing stealth mechanics, basic guard AI, and detection systems.
+  <br>[**Play on itch.io →**](https://lirnith.itch.io/the-great-fleece) | [**View Code →**](https://github.com/Mustafa-Kum/The-Great-Fleece-Game-3)<br>
+- **Dungeon Escape (Unity):** A 2D puzzle-platformer prototype exploring tile-based level design and puzzle logic.
+  <br>[**Play on itch.io →**](https://lirnith.itch.io/dungeon-escape) | [**View Code →**](https://github.com/Mustafa-Kum/Dungeon-Escape-Game-2)<br>
   
 ---
 
