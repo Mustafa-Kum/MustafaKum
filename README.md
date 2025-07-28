@@ -33,7 +33,7 @@ Versatile Game Developer with professional experience in **Unity/C#** and a deep
 
 ---
 
-## 🚀 Unity Projelerim
+## 🚀 Unity Projects
 
 ### 👾 Cubix Path (iOS)
 A puzzle game published on the App Store for iOS. As the sole developer responsible for the entire front-end, I engineered the complete player experience, from core gameplay systems to the final user interface and in-game polish.
@@ -124,7 +124,7 @@ A personal project developed in Unity to master the core mechanics of third-pers
 
 ---
 
-## 🚀 Unreal Engine Projelerim
+## 🚀 Unreal Engine Projects
 
 <table>
   <tr>
