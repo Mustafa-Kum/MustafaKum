@@ -143,7 +143,7 @@ A personal project developed in Unity to master the core mechanics of third-pers
           <li><strong>Core Technical Systems:</strong> Utilized Curve Tables for data-driven difficulty balancing, managed all sound effect integrations, and performed continuous game optimization to ensure a stable framerate.</li>
       </ul>
       <p>
-        <a href="YOUTUBE_VIDEO_LINKINIZI_BURAYA_EKLEYIN"><strong>Watch Gameplay Demo →</strong></a><br>
+        <a href="https://youtu.be/8BcLFCZjd8s"><strong>Watch Gameplay Demo →</strong></a><br>
         <a href="https://github.com/Mustafa-Kum/GodOfWarClone"><strong>View Code on GitHub →</strong></a>
       </p>
     </td>
