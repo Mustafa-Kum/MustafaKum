@@ -33,6 +33,34 @@ Versatile Game Developer with professional experience in **Unity/C#** and a deep
 
 ---
 
+## 🚀 Unreal Engine Projects ( In Development )
+
+<table>
+  <tr>
+    <td width="100%">
+      <h3>🔥 Third-Person Action Game (Unreal Engine 5)</h3>
+      <p>
+        A personal project focused on mastering AAA development standards in Unreal Engine 5 and C++. This project serves as a deep dive into creating complex, satisfying, and responsive third-person combat systems inspired by titles like God of War.
+      </p>
+      <strong>Key Features & Systems Implemented:</strong>
+      <ul>
+          <li><strong>Advanced Combat System:</strong> Engineered a flexible, state-machine based combo system in C++. It features animation canceling, defensive maneuvers (dodge, block, parry), and two unique player abilities for dynamic gameplay.</li>
+          <li><strong>Dynamic Enemy AI:</strong> Developed challenging enemy AI using Behavior Trees, encompassing two distinct enemy types and a unique boss encounter with multiple attack phases and patterns.</li>
+          <li><strong>Character Animation & Retargeting:</strong> Implemented a comprehensive animation system using Animation Blueprints and Montages for fluid character movement and combat. Handled complex animation retargeting to adapt various animation sets to the character skeleton.</li>
+          <li><strong>VFX with Niagara & Game Feel:</strong> Created all visual effects from scratch using the Niagara System to enhance abilities, impacts, and environmental interactions. Focused heavily on "game feel" through systems like camera shakes, hit-stops, and procedural animations (DoTween-style effects).</li>
+          <li><strong>UI/UX & Game Loop:</strong> Designed and implemented the complete UI/UX flow, including the Main Menu, a dynamic in-game HUD, and settings options. Created a fully functional "Arena Mode" with a wave-based enemy spawning system for a complete gameplay loop.</li>
+          <li><strong>Core Technical Systems:</strong> Utilized Curve Tables for data-driven difficulty balancing, managed all sound effect integrations, and performed continuous game optimization to ensure a stable framerate.</li>
+      </ul>
+      <p>
+        <a href="https://youtu.be/8BcLFCZjd8s"><strong>Watch Gameplay Demo →</strong></a><br>
+        <a href="https://github.com/Mustafa-Kum/GodOfWarClone"><strong>View Code on GitHub →</strong></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🚀 Unity Projects
 
 ### 👾 Cubix Path (iOS)
@@ -121,34 +149,6 @@ A personal project developed in Unity to master the core mechanics of third-pers
 <a href="https://lirnith.itch.io/thirdpersonshooter"><strong>Play on itch.io →</strong></a><br>
 <a href="https://www.youtube.com/watch?v=HaTiYeD7i1I"><strong>Watch Gameplay →</strong></a><br>
 <a href="https://github.com/Mustafa-Kum/ThirdPersonShooter"><strong>View Code →</strong></a>
-
----
-
-## 🚀 Unreal Engine Projects
-
-<table>
-  <tr>
-    <td width="100%">
-      <h3>🔥 Third-Person Action Game (Unreal Engine 5)</h3>
-      <p>
-        A personal project focused on mastering AAA development standards in Unreal Engine 5 and C++. This project serves as a deep dive into creating complex, satisfying, and responsive third-person combat systems inspired by titles like God of War.
-      </p>
-      <strong>Key Features & Systems Implemented:</strong>
-      <ul>
-          <li><strong>Advanced Combat System:</strong> Engineered a flexible, state-machine based combo system in C++. It features animation canceling, defensive maneuvers (dodge, block, parry), and two unique player abilities for dynamic gameplay.</li>
-          <li><strong>Dynamic Enemy AI:</strong> Developed challenging enemy AI using Behavior Trees, encompassing two distinct enemy types and a unique boss encounter with multiple attack phases and patterns.</li>
-          <li><strong>Character Animation & Retargeting:</strong> Implemented a comprehensive animation system using Animation Blueprints and Montages for fluid character movement and combat. Handled complex animation retargeting to adapt various animation sets to the character skeleton.</li>
-          <li><strong>VFX with Niagara & Game Feel:</strong> Created all visual effects from scratch using the Niagara System to enhance abilities, impacts, and environmental interactions. Focused heavily on "game feel" through systems like camera shakes, hit-stops, and procedural animations (DoTween-style effects).</li>
-          <li><strong>UI/UX & Game Loop:</strong> Designed and implemented the complete UI/UX flow, including the Main Menu, a dynamic in-game HUD, and settings options. Created a fully functional "Arena Mode" with a wave-based enemy spawning system for a complete gameplay loop.</li>
-          <li><strong>Core Technical Systems:</strong> Utilized Curve Tables for data-driven difficulty balancing, managed all sound effect integrations, and performed continuous game optimization to ensure a stable framerate.</li>
-      </ul>
-      <p>
-        <a href="https://youtu.be/8BcLFCZjd8s"><strong>Watch Gameplay Demo →</strong></a><br>
-        <a href="https://github.com/Mustafa-Kum/GodOfWarClone"><strong>View Code on GitHub →</strong></a>
-      </p>
-    </td>
-  </tr>
-</table>
 
 ---
 
