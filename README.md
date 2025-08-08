@@ -1,281 +1,179 @@
-# Hello, I'm Mustafa Kum 👋
+# Mustafa Kum — Gameplay Developer
 
-Versatile Game Developer with professional experience in **Unity/C#** and a deep passion for mastering **Unreal Engine & C++**. I specialize in building engaging gameplay systems from the ground up, with hands-on experience in creating games from scratch using **HTML5/JavaScript**. My core drive is to create enjoyable and fluid player experiences.
+Versatile **Gameplay Developer** with professional experience in **Unity/C#** and a deep focus on mastering **Unreal Engine 5/C++** (combat & AI). I build responsive, polished gameplay systems and ship to **iOS** and **WebGL**. I’ve also created high-performance **HTML5/JavaScript playable ads** (bundles **<1 MB**, **up to +15% CTR**).
 
-- 📧 **Contact:** kum.mustafa96@gmail.com
-- 💼 **LinkedIn:** [https://www.linkedin.com/in/mustafa-kum/](https://www.linkedin.com/in/mustafa-kum/)
-- 🎮 **itch.io Profile:** [https://lirnith.itch.io/](https://lirnith.itch.io/)
+- 📧 **Email:** kum.mustafa96@gmail.com  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/mustafa-kum/  
+- 🎮 **itch.io:** https://lirnith.itch.io/
 
 ---
 
-### 🛠️ Skills & Technologies
+### Top Projects
+1. **UE5 Third-Person Action Prototype** — C++ combo state machine, BT/EQS boss AI, Niagara  
+   ▶️ **Gameplay:** https://youtu.be/8BcLFCZjd8s • 💻 **Code:** https://github.com/Mustafa-Kum/GodOfWarClone
+2. **Cubix Path (iOS)** — Shipped | Core puzzles, UI/HUD, polish, 60 FPS  
+   🍎 **App Store:** https://apps.apple.com/tr/app/cubix-path-puzzle-match/id6478001225 • 💻 **Code:** https://github.com/Mustafa-Kum/PuzzleCode
+3. **Farm Connect Match (iOS)** — Shipped | 3D puzzles, camera systems, optimization  
+   🍎 **App Store:** https://apps.apple.com/us/app/farm-connect-match-3d-puzzle/id6503044105 • 💻 **Code:** https://github.com/Mustafa-Kum/FarmPuzzleCode
+4. **Playable Ads (HTML5/JS)** — Pure JS/Canvas, **<1 MB** bundles, **+15% CTR**  
+   ▶️ **Demos:** https://lirnith.itch.io/
+
+---
+
+## 🛠️ Skills & Technologies
+
+**Engines/Languages:** Unity/C#, Unreal Engine 5/C++, HTML5/JavaScript  
+**Gameplay & Systems:** State machines, combat, abilities (**GAS/Tags**), BT/EQS AI, UI/HUD, camera systems  
+**Animation & VFX:** Animation Blueprints, Montages/Notifies, retargeting, **Niagara**, DOTween, Cinemachine  
+**Optimization:** Unreal Insights/`STAT`, async asset/level streaming, object pooling, Addressables, profiling/GC, draw-call/overdraw reduction  
+**Release:** iOS (TestFlight/App Store), WebGL, HTML5 playable ads, Git (Perforce familiar)
 
 <p align="left">
-  <a href="https://unity.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
-  </a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-  </a>
-  <a href="https://www.unrealengine.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/EpicKiwi/unreal-engine-editor-icons/refs/heads/master/imgs/NewLevels/NewLevelDefault.png" alt="unrealengine" width="50" height="50"/> 
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a>
-  <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a>
+  <a href="https://unity.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="36" alt="Unity"/></a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="36" alt="C#"/></a>
+  <a href="https://www.unrealengine.com/" target="_blank"><img src="https://raw.githubusercontent.com/EpicKiwi/unreal-engine-editor-icons/refs/heads/master/imgs/NewLevels/NewLevelDefault.png" width="46" alt="Unreal Engine"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="36" alt="JavaScript"/></a>
+  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="36" alt="HTML5"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="36" alt="Git"/></a>
 </p>
 
 ---
 
-## 🚀 Unreal Engine Projects ( In Development )
+## 🚀 Unreal Engine Projects (in development)
 
-<table>
-  <tr>
-    <td width="100%">
-      <h3>🔥 Third-Person Action Game (Unreal Engine 5)</h3>
-      <p>
-        A personal project focused on mastering AAA development standards in Unreal Engine 5 and C++. This project serves as a deep dive into creating complex, satisfying, and responsive third-person combat systems inspired by titles like God of War.
-      </p>
-      <strong>Key Features & Systems Implemented:</strong>
-      <ul>
-          <li><strong>Advanced Combat System:</strong> Engineered a flexible, state-machine based combo system in C++. It features animation canceling, defensive maneuvers (dodge, block, parry), and two unique player abilities for dynamic gameplay.</li>
-          <li><strong>Dynamic Enemy AI:</strong> Developed challenging enemy AI using Behavior Trees, encompassing two distinct enemy types and a unique boss encounter with multiple attack phases and patterns.</li>
-          <li><strong>Character Animation & Retargeting:</strong> Implemented a comprehensive animation system using Animation Blueprints and Montages for fluid character movement and combat. Handled complex animation retargeting to adapt various animation sets to the character skeleton.</li>
-          <li><strong>VFX with Niagara & Game Feel:</strong> Created all visual effects from scratch using the Niagara System to enhance abilities, impacts, and environmental interactions. Focused heavily on "game feel" through systems like camera shakes, hit-stops, and procedural animations (DoTween-style effects).</li>
-          <li><strong>UI/UX & Game Loop:</strong> Designed and implemented the complete UI/UX flow, including the Main Menu, a dynamic in-game HUD, and settings options. Created a fully functional "Arena Mode" with a wave-based enemy spawning system for a complete gameplay loop.</li>
-          <li><strong>Core Technical Systems:</strong> Utilized Curve Tables for data-driven difficulty balancing, managed all sound effect integrations, and performed continuous game optimization to ensure a stable framerate.</li>
-      </ul>
-      <p>
-        <a href="https://youtu.be/8BcLFCZjd8s"><strong>Watch Gameplay Demo →</strong></a><br>
-        <a href="https://github.com/Mustafa-Kum/GodOfWarClone"><strong>View Code on GitHub →</strong></a>
-      </p>
-    </td>
-  </tr>
-</table>
+### 🔥 Third-Person Action Game (UE5)
+Personal project to master AAA-style third-person combat and AI in **UE5/C++** (inspired by *God of War*).
+
+**Key Features**
+- **Advanced Combat:** C++ **cancelable combo state machine**; dodge, block, parry; two unique abilities  
+- **Enemy AI:** Behavior Trees + Blackboard; **EQS** positioning; multi-phase **boss** encounter  
+- **Animation:** Animation Blueprints, **Montages/Notifies**, root-motion, **retargeting**  
+- **VFX & Feel:** **Niagara** effects; camera shake; hit-stops; time dilation; DOTween-style procedural feel  
+- **UI/Loop:** Main menu, in-game HUD, settings; **Arena Mode** with wave spawner  
+- **Data & Perf:** Curve Tables for tuning; SFX integration; continuous optimization
+
+▶️ **Gameplay Demo:** https://youtu.be/8BcLFCZjd8s  
+💻 **Repository:** https://github.com/Mustafa-Kum/GodOfWarClone
 
 ---
 
-## 🚀 Unity Projects
+## 🎮 Unity Projects
 
 ### 👾 Cubix Path (iOS)
-A puzzle game published on the App Store for iOS. As the sole developer responsible for the entire front-end, I engineered the complete player experience, from core gameplay systems to the final user interface and in-game polish.
+Shipped puzzle game. Sole front-end developer responsible for core gameplay, **UI/UX**, polish, and optimization.
 
-**Key Contributions:**
-* **Core Gameplay Mechanics:** Engineered the primary puzzle mechanics, including a dynamic Water Mechanic and a responsive Cube Jiggle effect to provide satisfying tactile feedback.
-* **UI/UX Design & Implementation:** Designed and implemented the complete User Interface (UI) and User Experience (UX) flow, from initial concepts to the final, polished in-game menus and responsive screen layouts.
-* **Game Feel & Polish:** Implemented all audiovisual feedback systems ("juice") to create a lively and engaging experience, including all in-game animations, particle effects (VFX), and sound effects (SFX).
-* **Technical Systems & Optimization:** Managed critical technical tasks, including game performance optimization for a smooth experience on mobile devices and fine-tuning all camera behaviors for optimal gameplay visibility.
+- Water mechanic, responsive **cube jiggle** feedback  
+- Full **UI/HUD/menus** and responsive layouts  
+- **60 FPS** on target devices
 
-<a href="https://apps.apple.com/tr/app/cubix-path-puzzle-match/id6478001225"><strong>View on App Store →</strong></a><br>
-<a href="https://www.youtube.com/watch?v=0eXOciigD3o"><strong>Watch Gameplay →</strong></a><br>
-<a href="https://github.com/Mustafa-Kum/PuzzleCode"><strong>View Code →</strong></a>
+🍎 **App Store** · https://apps.apple.com/tr/app/cubix-path-puzzle-match/id6478001225  
+▶️ **Gameplay** · https://www.youtube.com/watch?v=0eXOciigD3o  
+💻 **Code** · https://github.com/Mustafa-Kum/PuzzleCode
 
 ---
 
 ### 🚜 Farm Connect Match (iOS)
-A 3D puzzle game published on the App Store for iOS. In this project, I was the sole developer for the entire front-end, responsible for building the complete player experience from the ground up, including all core mechanics, UI/UX, and in-game polish.
+Shipped 3D puzzle game; built the entire front-end (mechanics, UI/UX, polish, cameras, optimization).
 
-**Key Contributions:**
-* **Core Gameplay Mechanics:** Engineered the main "Connect Mechanic" as the central puzzle element, ensuring it was both intuitive and challenging. Also implemented a responsive "Cube Jiggle" effect for satisfying tactile feedback.
-* **UI/UX Design & Implementation:** Designed and implemented the complete User Interface (UI) and User Experience (UX) flow, including all menus, game progression screens, and responsive layouts for various mobile devices.
-* **Game Feel & Polish:** Created a vibrant and engaging atmosphere through the implementation of all audiovisual feedback systems, including all in-game animations, particle effects (VFX), sound effects (SFX), and UI transitions using DOTween.
-* **Technical Systems & Optimization:** Managed critical technical aspects such as game performance optimization, level design implementation, and fine-tuning all camera systems to ensure a smooth and enjoyable gameplay experience.
-
-<a href="https://apps.apple.com/us/app/farm-connect-match-3d-puzzle/id6503044105"><strong>View on App Store →</strong></a><br>
-<a href="https://www.youtube.com/watch?v=t4rGmqsmI0I"><strong>Watch Gameplay →</strong></a><br>
-<a href="https://github.com/Mustafa-Kum/FarmPuzzleCode"><strong>View Code →</strong></a>
+🍎 **App Store** · https://apps.apple.com/us/app/farm-connect-match-3d-puzzle/id6503044105  
+▶️ **Gameplay** · https://www.youtube.com/watch?v=t4rGmqsmI0I  
+💻 **Code** · https://github.com/Mustafa-Kum/FarmPuzzleCode
 
 ---
 
 ### 🔫 Cooking Live (Unity)
-A fast-paced casual game developed in Unity for mobile platforms. For this project, I was responsible for the entire front-end development, focusing on creating a highly responsive and satisfying player experience through dynamic feedback and polished UI.
+Fast-paced casual prototype focused on responsive input, juicy UI, and clear feedback.
 
-**Key Contributions:**
-* **Core Gameplay Loop:** Engineered the central cooking and serving mechanics, ensuring a fast-paced and engaging game loop that is easy to learn but challenging to master.
-* **UI/UX Design & Implementation:** Designed and implemented the complete User Interface (UI) and User Experience (UX) flow, creating intuitive controls and clear visual feedback essential for a fast-paced casual game.
-* **Game Feel & "Juice":** Implemented all audiovisual feedback systems to create a lively and satisfying experience. This included all in-game animations, particle effects (VFX), sound effects (SFX), and juicy UI transitions using DOTween.
-* **Technical Systems & Optimization:** Managed the implementation of level designs, fine-tuned all camera behaviors for clarity, and performed critical game performance optimization to ensure a smooth experience.
-
-<a href="https://lirnith.itch.io/cook"><strong>Play on itch.io →</strong></a><br>
-<a href="https://www.youtube.com/watch?v=1nN6eWOxZDQ"><strong>Watch Gameplay →</strong></a><br>
-<a href="https://github.com/Mustafa-Kum/CookCode"><strong>View Code →</strong></a>
+▶️ **Play** · https://lirnith.itch.io/cook  
+▶️ **Gameplay** · https://www.youtube.com/watch?v=1nN6eWOxZDQ  
+💻 **Code** · https://github.com/Mustafa-Kum/CookCode
 
 ---
 
-### ⚔️ Merge Valley (Unity)
-A casual merge game developed in Unity and deployed for WebGL. I was responsible for the entire front-end development, building a seamless and satisfying player experience from the core merge mechanic to the final polished product.
+### ⚔️ Merge Valley (Unity/WebGL)
+Casual merge game deployed to WebGL; built core loop, UI/UX, and WebGL optimization.
 
-**Key Contributions:**
-* **Core Gameplay Mechanics:** Engineered the central "Merge" mechanic, creating an intuitive and addictive core loop. Also managed the implementation of all level designs and progression systems.
-* **UI/UX Design & Implementation:** Designed and implemented the complete User Interface (UI) and User Experience (UX) flow, ensuring clear visual communication and easy navigation for players on a web platform.
-* **Game Feel & "Juice":** Implemented all audiovisual feedback systems to create a responsive and engaging experience, including all in-game animations, particle effects (VFX), sound effects (SFX), and UI transitions using DOTween.
-* **Technical Systems & Optimization:** Handled critical technical aspects, including game performance optimization specifically for the WebGL platform, and fine-tuned all camera systems for a smooth and stable gameplay experience.
-
-<a href="https://lirnith.itch.io/merge-valley"><strong>Play on itch.io →</strong></a><br>
-<a href="https://www.youtube.com/watch?v=zLaT6ParDjk"><strong>Watch Gameplay →</strong></a><br>
-<a href="https://github.com/Mustafa-Kum/MergeCode"><strong>View Code →</strong></a>
+▶️ **Play** · https://lirnith.itch.io/merge-valley  
+▶️ **Gameplay** · https://www.youtube.com/watch?v=zLaT6ParDjk  
+💻 **Code** · https://github.com/Mustafa-Kum/MergeCode
 
 ---
 
 ### 🚗 Car Game (Unity)
-A mobile driving game developed in Unity. For this project, I was responsible for the entire front-end development, focusing on creating a responsive and engaging driving experience through dynamic physics, visual effects, and a polished user interface.
+Mobile driving prototype — vehicle controls & physics, VFX/SFX, polished UI.
 
-**Key Contributions:**
-* **Core Gameplay & Driving Mechanics:** Engineered the central vehicle controls and physics to create a responsive and fun driving experience. Also managed the implementation of all level designs and game progression.
-* **UI/UX Design & Implementation:** Designed and implemented the complete User Interface (UI) and User Experience (UX) flow, including the main menu, in-game HUD (Heads-Up Display), and progression screens.
-* **Game Feel & Visual Effects:** Implemented all audiovisual feedback systems to enhance the driving immersion. This included all vehicle animations, particle effects (VFX) for speed and impacts, sound effects (SFX), and dynamic camera effects.
-* **Technical Systems & Optimization:** Handled critical technical aspects, including game performance optimization for a smooth framerate on mobile devices and ensuring all systems worked together seamlessly.
-
-<a href="https://www.youtube.com/shorts/Uxj482VLfBA"><strong>Watch Gameplay →</strong></a><br>
-<a href="https://github.com/Mustafa-Kum/CarGame"><strong>View Code →</strong></a>
+▶️ **Gameplay** · https://www.youtube.com/shorts/Uxj482VLfBA  
+💻 **Code** · https://github.com/Mustafa-Kum/CarGame
 
 ---
 
-### 🔫 Third Person Shooter (Unity)
-A personal project developed in Unity to master the core mechanics of third-person action games. This project served as a deep dive into creating responsive character controls, dynamic camera systems, and satisfying combat mechanics for the shooter genre.
+### 🔫 Third-Person Shooter (Unity)
+Personal shooter project — third-person controller, combat loop, basic enemy AI.
 
-**Key Contributions:**
-* **Character & Camera Systems:** Engineered a fluid third-person character controller from the ground up and implemented a dynamic camera system that supports both exploration and precise aiming.
-* **Combat & Weapon Mechanics:** Developed the core shooting mechanics, including weapon handling, projectile physics, hit detection, and a basic enemy health system.
-* **Gameplay Loop & UI:** Created a complete gameplay loop with clear objectives and implemented a functional in-game HUD (Heads-Up Display) to provide essential player feedback (e.g., health, ammo).
-* **Enemy AI:** Programmed basic enemy AI behaviors to create a challenging and interactive combat experience for the player.
-
-<a href="https://lirnith.itch.io/thirdpersonshooter"><strong>Play on itch.io →</strong></a><br>
-<a href="https://www.youtube.com/watch?v=HaTiYeD7i1I"><strong>Watch Gameplay →</strong></a><br>
-<a href="https://github.com/Mustafa-Kum/ThirdPersonShooter"><strong>View Code →</strong></a>
+▶️ **Play** · https://lirnith.itch.io/thirdpersonshooter  
+▶️ **Gameplay** · https://www.youtube.com/watch?v=HaTiYeD7i1I  
+💻 **Code** · https://github.com/Mustafa-Kum/ThirdPersonShooter
 
 ---
 
-## ✨ Playable Ads
+## ✨ Playable Ads (HTML5/JavaScript)
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>NVDIA Ad</h3>
-      <p>A lightweight and performant interactive ad demo, built from the ground up using pure <strong>HTML5, CSS, and JavaScript</strong> without any external game engine.</p>
-      <p>
-        <a href="https://lirnith.itch.io/playable-ad--test"><strong>Play on itch.io →</strong></a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3>Merge Ad</h3>
-      <p>A lightweight and performant interactive ad demo, built from the ground up using pure <strong>HTML5, CSS, and JavaScript</strong> without any external game engine.</p>
-      <p>
-        <a href="https://lirnith.itch.io/playable-ad"><strong>Play on itch.io →</strong></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>Ball Ad</h3>
-      <p>A lightweight and performant interactive ad demo, built from the ground up using pure <strong>HTML5, CSS, and JavaScript</strong> without any external game engine.</p>
-      <p>
-        <a href="https://lirnith.itch.io/playable-ad-baloon"><strong>Play on itch.io →</strong></a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3>Zeplin Ad</h3>
-      <p>A lightweight and performant interactive ad demo, built from the ground up using pure <strong>HTML5, CSS, and JavaScript</strong> without any external game engine.</p>
-      <p>
-        <a href="https://lirnith.itch.io/playable-ad-zeplin"><strong>Play on itch.io →</strong></a>
-      </p>
-    </td>
-  </tr>
-</table>
+- **NVIDIA Ad** — Pure HTML5/CSS/JS. ▶️ https://lirnith.itch.io/playable-ad--test  
+- **Merge Ad** — Pure HTML5/CSS/JS. ▶️ https://lirnith.itch.io/playable-ad  
+- **Ball Ad** — Pure HTML5/CSS/JS. ▶️ https://lirnith.itch.io/playable-ad-baloon  
+- **Zeppelin Ad** — Pure HTML5/CSS/JS. ▶️ https://lirnith.itch.io/playable-ad-zeplin
+
+> Built without any game engine; bundle sizes **<1 MB**; campaigns achieved **up to +15% CTR** uplift.
 
 ---
 
-## ✨ HTML5/JavaScript Games
+## 🕹️ HTML5/JavaScript Games
 
-<table>
-  <tr>
-    <td colspan="2">
-      <h3>👧 Child Game</h3>
-      <p>An educational game for children, developed from scratch with pure HTML5/JavaScript. This project focuses on creating simple, intuitive interactions and a friendly user interface suitable for a young audience.</p>
-      <p>
-        <a href="https://lirnith.itch.io/childgame"><strong>Play on itch.io →</strong></a><br>
-        <a href="https://github.com/Mustafa-Kum/ChildGame"><strong>View Code →</strong></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🧛 Vampire Survivor Copy</h3>
-      <p>A 2D clone of the popular title 'Vampire Survivors', built entirely in HTML5/JavaScript. This project was a technical challenge in managing and rendering a large number of dynamic objects and projectiles efficiently without a game engine.</p>
-      <p>
-        <a href="https://lirnith.itch.io/html5"><strong>Play on itch.io →</strong></a><br>
-        <a href="https://github.com/Mustafa-Kum/VampireSurvivorCopy"><strong>View Code →</strong></a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3>🧠 Memory Game</h3>
-      <p>A classic memory matching game developed in pure HTML5/JavaScript, designed to be embedded within a mobile application. The focus was on creating a clean, responsive, and reusable game component.</p>
-      <p>
-        <a href="https://lirnith.itch.io/hafza-oyunu-html"><strong>Play on itch.io →</strong></a><br>
-        <a href="https://github.com/Mustafa-Kum/MemoryGame"><strong>View Code →</strong></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>💥 BulletStrike</h3>
-      <p>A 2D top-down shooter utilizing WebGL for rendering, built with pure JavaScript. This project explores real-time player input, projectile physics, and collision detection in a web environment.</p>
-      <p>
-        <a href="https://lirnith.itch.io/html-5-2"><strong>Play on itch.io →</strong></a><br>
-        <a href="https://github.com/Mustafa-Kum/BulletStrike"><strong>View Code →</strong></a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3>💀 Necromancer3D</h3>
-      <p>A 3D game demo in the style of 'Vampire Survivors', developed entirely in HTML5/JavaScript. This project showcases the ability to create and manage a 3D environment, camera, and gameplay logic without relying on a dedicated Three.js.</p>
-      <p>
-        <a href="https://lirnith.itch.io/necromancer"><strong>Play on itch.io →</strong></a><br>
-        <a href="https://github.com/Mustafa-Kum/Necromancer3D"><strong>View Code →</strong></a>
-      </p>
-    </td>
-  </tr>
-</table>
+- **Child Game** — Educational game with simple UX  
+  ▶️ https://lirnith.itch.io/childgame • 💻 https://github.com/Mustafa-Kum/ChildGame  
+- **Vampire Survivors Clone (2D)** — Engine-less clone focusing on performant projectile management  
+  ▶️ https://lirnith.itch.io/html5 • 💻 https://github.com/Mustafa-Kum/VampireSurvivorCopy  
+- **Memory Game** — Embeddable, responsive component  
+  ▶️ https://lirnith.itch.io/hafza-oyunu-html • 💻 https://github.com/Mustafa-Kum/MemoryGame  
+- **BulletStrike (WebGL)** — Top-down shooter in pure JS  
+  ▶️ https://lirnith.itch.io/html-5-2 • 💻 https://github.com/Mustafa-Kum/BulletStrike  
+- **Necromancer3D** — 3D “Vampire Survivors”-style demo without Three.js  
+  ▶️ https://lirnith.itch.io/necromancer • 💻 https://github.com/Mustafa-Kum/Necromancer3D
 
 ---
 
-### 🎮 Other Projects
+## 🎮 Other Projects
 
-- **Pizza Path (Unity):** A casual mobile game where I was responsible for the entire front-end development, focusing on creating a satisfying and polished player experience through juicy animations and effects.
-<br>[**Watch Gameplay →**](https://youtube.com/shorts/1HCB7iJKOvM)
-- **Passenger Puzzle (Unity):** AA mobile puzzle game where I engineered the complete front-end, including the core puzzle mechanics, UI/UX, and all in-game feedback systems.
-<br>[**Watch Gameplay →**](https://youtu.be/KGkw-92USvs)
-- **PolyTari (HTML5/JavaScript):** A large-scale web application featuring a collection of **over 70+ games**, all built from scratch with pure JavaScript. This project showcases rapid prototyping capabilities and a deep understanding of core web technologies.
-<br>[**Explore the Collection →**](https://polytari.web.app/)
-  
+- **Pizza Path (Unity)** — Casual mobile game; full front-end, juicy polish  
+  ▶️ https://youtube.com/shorts/1HCB7iJKOvM  
+- **Passenger Puzzle (Unity)** — AA mobile puzzle; core mechanics + UI/UX + feedback systems  
+  ▶️ https://youtu.be/KGkw-92USvs  
+- **PolyTari (HTML5/JS)** — Collection of **70+** mini-games built from scratch  
+  ▶️ https://polytari.web.app/
+
 ---
 
-### 🎮 Unity Prototypes & Experiments
+## 🧪 Unity Prototypes & Experiments
 
-- **CrawRunner (Unity):** A 2D RPG prototype that was previously published on the Google Play Store, featuring AdMob and Google Play SDK integration.
-  <br>[**Play on itch.io →**](https://lirnith.itch.io/crawrunner) | [**Watch Gameplay →**](https://www.youtube.com/watch?v=jNo36mdWnEo) | [**View Code →**](https://github.com/Mustafa-Kum/CrawRunner)<br>
-- **Flowers Needle (Unity):** A prototype for a 2D RPG, exploring narrative systems and basic quest mechanics.
-  <br>[**Play on itch.io →**](https://lirnith.itch.io/flowers-needle) | [**Watch Gameplay →**](https://www.youtube.com/watch?v=OOyf2Ugnms4) | [**View Code →**](https://github.com/Mustafa-Kum/Flowers-Needle-Game-4)<br>
-- **CrawShooter (Unity):** An early action game prototype focused on top-down shooter mechanics and player controls.
-  <br>[**Play on itch.io →**](https://lirnith.itch.io/crawshooter) | [**View Code →**](https://github.com/Mustafa-Kum/CrawShooter)<br>
-- **Infinity Shooter (Unity):** A mobile endless shooter prototype focused on creating a satisfying core game loop and scoring system.
-  <br>[**Play on itch.io →**](https://lirnith.itch.io/infinity-shooter) | [**View Code →**](https://github.com/Mustafa-Kum/Infinity-Shooter-Game-1)<br>
-- **3D Adventurer (Unity):** An action prototype exploring 3D character movement, camera controls, and environmental interaction.
-  <br>[**Play on itch.io →**](https://lirnith.itch.io/3d-adventurer) | [**View Code →**](https://github.com/Mustafa-Kum/Experimental-Game)<br>
-- **The Great Fleece (Unity):** A prototype focused on implementing stealth mechanics, basic guard AI, and detection systems.
-  <br>[**Play on itch.io →**](https://lirnith.itch.io/the-great-fleece) | [**View Code →**](https://github.com/Mustafa-Kum/The-Great-Fleece-Game-3)<br>
-- **Dungeon Escape (Unity):** A 2D puzzle-platformer prototype exploring tile-based level design and puzzle logic.
-  <br>[**Play on itch.io →**](https://lirnith.itch.io/dungeon-escape) | [**View Code →**](https://github.com/Mustafa-Kum/Dungeon-Escape-Game-2)<br>
-  
+- **CrawRunner** — 2D RPG; previously on Google Play (AdMob & Google Play SDK)  
+  ▶️ https://lirnith.itch.io/crawrunner • ▶️ https://www.youtube.com/watch?v=jNo36mdWnEo • 💻 https://github.com/Mustafa-Kum/CrawRunner  
+- **Flowers Needle** — 2D RPG prototype with narrative/quests  
+  ▶️ https://lirnith.itch.io/flowers-needle • ▶️ https://www.youtube.com/watch?v=OOyf2Ugnms4 • 💻 https://github.com/Mustafa-Kum/Flowers-Needle-Game-4  
+- **CrawShooter** — Top-down shooter prototype  
+  ▶️ https://lirnith.itch.io/crawshooter • 💻 https://github.com/Mustafa-Kum/CrawShooter  
+- **Infinity Shooter** — Endless shooter prototype  
+  ▶️ https://lirnith.itch.io/infinity-shooter • 💻 https://github.com/Mustafa-Kum/Infinity-Shooter-Game-1  
+- **3D Adventurer** — Movement, camera, environmental interaction  
+  ▶️ https://lirnith.itch.io/3d-adventurer • 💻 https://github.com/Mustafa-Kum/Experimental-Game  
+- **The Great Fleece** — Stealth mechanics and guard AI  
+  ▶️ https://lirnith.itch.io/the-great-fleece • 💻 https://github.com/Mustafa-Kum/The-Great-Fleece-Game-3  
+- **Dungeon Escape** — 2D puzzle-platformer with tile-based design  
+  ▶️ https://lirnith.itch.io/dungeon-escape • 💻 https://github.com/Mustafa-Kum/Dungeon-Escape-Game-2
+
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mustafa-Kum&layout=compact&theme=dracula" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mustafa-Kum&layout=compact&theme=dracula" alt="Top Langs"/>
 </p>
