@@ -15,8 +15,8 @@ Versatile **Gameplay Developer** with professional experience in **Unity/C#** an
    🍎 **App Store:** https://apps.apple.com/tr/app/cubix-path-puzzle-match/id6478001225 • 💻 **Code:** https://github.com/Mustafa-Kum/PuzzleCode
 3. **Farm Connect Match (iOS)** — Shipped | 3D puzzles, camera systems, optimization  
    🍎 **App Store:** https://apps.apple.com/us/app/farm-connect-match-3d-puzzle/id6503044105 • 💻 **Code:** https://github.com/Mustafa-Kum/FarmPuzzleCode
-4. **Playable Ads (HTML5/JS)** — Pure JS/Canvas, **<1 MB** bundles, **+15% CTR**  
-   ▶️ **Demos:** https://lirnith.itch.io/
+4. **Third-Person Shooter (Unity)** — Personal shooter project — third-person controller, combat loop, basic enemy AI.  
+   ▶️ **Play** · https://lirnith.itch.io/thirdpersonshooter ▶️ **Gameplay** · https://www.youtube.com/watch?v=HaTiYeD7i1I 💻 **Code** · https://github.com/Mustafa-Kum/ThirdPersonShooter
 
 ---
 
