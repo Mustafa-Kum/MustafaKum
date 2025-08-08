@@ -135,45 +135,59 @@ Personal shooter project — third-person controller, combat loop, basic enemy A
 ## 🕹️ HTML5/JavaScript Games
 
 - **Child Game** — Educational game with simple UX  
-  ▶️ https://lirnith.itch.io/childgame • 💻 https://github.com/Mustafa-Kum/ChildGame  
+  - ▶️ https://lirnith.itch.io/childgame
+  - 💻 https://github.com/Mustafa-Kum/ChildGame  
 - **Vampire Survivors Clone (2D)** — Engine-less clone focusing on performant projectile management  
-  ▶️ https://lirnith.itch.io/html5 • 💻 https://github.com/Mustafa-Kum/VampireSurvivorCopy  
+  - ▶️ https://lirnith.itch.io/html5
+  - 💻 https://github.com/Mustafa-Kum/VampireSurvivorCopy  
 - **Memory Game** — Embeddable, responsive component  
-  ▶️ https://lirnith.itch.io/hafza-oyunu-html • 💻 https://github.com/Mustafa-Kum/MemoryGame  
+  - ▶️ https://lirnith.itch.io/hafza-oyunu-html
+  - 💻 https://github.com/Mustafa-Kum/MemoryGame  
 - **BulletStrike (WebGL)** — Top-down shooter in pure JS  
-  ▶️ https://lirnith.itch.io/html-5-2 • 💻 https://github.com/Mustafa-Kum/BulletStrike  
+  - ▶️ https://lirnith.itch.io/html-5-2
+  - 💻 https://github.com/Mustafa-Kum/BulletStrike  
 - **Necromancer3D** — 3D “Vampire Survivors”-style demo without Three.js  
-  ▶️ https://lirnith.itch.io/necromancer • 💻 https://github.com/Mustafa-Kum/Necromancer3D
+  - ▶️ https://lirnith.itch.io/necromancer
+  - 💻 https://github.com/Mustafa-Kum/Necromancer3D
 
 ---
 
 ## 🎮 Other Projects
 
 - **Pizza Path (Unity)** — Casual mobile game; full front-end, juicy polish  
-  ▶️ https://youtube.com/shorts/1HCB7iJKOvM  
+  - ▶️ https://youtube.com/shorts/1HCB7iJKOvM  
 - **Passenger Puzzle (Unity)** — AA mobile puzzle; core mechanics + UI/UX + feedback systems  
-  ▶️ https://youtu.be/KGkw-92USvs  
+  - ▶️ https://youtu.be/KGkw-92USvs  
 - **PolyTari (HTML5/JS)** — Collection of **70+** mini-games built from scratch  
-  ▶️ https://polytari.web.app/
+  - ▶️ https://polytari.web.app/
 
 ---
 
 ## 🧪 Unity Prototypes & Experiments
 
 - **CrawRunner** — 2D RPG; previously on Google Play (AdMob & Google Play SDK)  
-  ▶️ https://lirnith.itch.io/crawrunner • ▶️ https://www.youtube.com/watch?v=jNo36mdWnEo • 💻 https://github.com/Mustafa-Kum/CrawRunner  
+  - ▶️ https://lirnith.itch.io/crawrunner
+  - ▶️ https://www.youtube.com/watch?v=jNo36mdWnEo
+  - 💻 https://github.com/Mustafa-Kum/CrawRunner  
 - **Flowers Needle** — 2D RPG prototype with narrative/quests  
-  ▶️ https://lirnith.itch.io/flowers-needle • ▶️ https://www.youtube.com/watch?v=OOyf2Ugnms4 • 💻 https://github.com/Mustafa-Kum/Flowers-Needle-Game-4  
+  - ▶️ https://lirnith.itch.io/flowers-needle
+  - ▶️ https://www.youtube.com/watch?v=OOyf2Ugnms4
+  - 💻 https://github.com/Mustafa-Kum/Flowers-Needle-Game-4  
 - **CrawShooter** — Top-down shooter prototype  
-  ▶️ https://lirnith.itch.io/crawshooter • 💻 https://github.com/Mustafa-Kum/CrawShooter  
+  - ▶️ https://lirnith.itch.io/crawshooter
+  - 💻 https://github.com/Mustafa-Kum/CrawShooter  
 - **Infinity Shooter** — Endless shooter prototype  
-  ▶️ https://lirnith.itch.io/infinity-shooter • 💻 https://github.com/Mustafa-Kum/Infinity-Shooter-Game-1  
+  - ▶️ https://lirnith.itch.io/infinity-shooter
+  - 💻 https://github.com/Mustafa-Kum/Infinity-Shooter-Game-1  
 - **3D Adventurer** — Movement, camera, environmental interaction  
-  ▶️ https://lirnith.itch.io/3d-adventurer • 💻 https://github.com/Mustafa-Kum/Experimental-Game  
+  - ▶️ https://lirnith.itch.io/3d-adventurer
+  - 💻 https://github.com/Mustafa-Kum/Experimental-Game  
 - **The Great Fleece** — Stealth mechanics and guard AI  
-  ▶️ https://lirnith.itch.io/the-great-fleece • 💻 https://github.com/Mustafa-Kum/The-Great-Fleece-Game-3  
+  - ▶️ https://lirnith.itch.io/the-great-fleece
+  - 💻 https://github.com/Mustafa-Kum/The-Great-Fleece-Game-3  
 - **Dungeon Escape** — 2D puzzle-platformer with tile-based design  
-  ▶️ https://lirnith.itch.io/dungeon-escape • 💻 https://github.com/Mustafa-Kum/Dungeon-Escape-Game-2
+  - ▶️ https://lirnith.itch.io/dungeon-escape
+  - 💻 https://github.com/Mustafa-Kum/Dungeon-Escape-Game-2
 
 ---
 
