@@ -10,13 +10,18 @@ Versatile **Gameplay Developer** with professional experience in **Unity/C#** an
 
 ### Top Projects
 1. **UE5 Third-Person Action Prototype** — C++ combo state machine, BT/EQS boss AI, Niagara  
-   ▶️ **Gameplay:** https://youtu.be/8BcLFCZjd8s • 💻 **Code:** https://github.com/Mustafa-Kum/GodOfWarClone
-2. **Cubix Path (iOS)** — Shipped | Core puzzles, UI/HUD, polish, 60 FPS  
-   🍎 **App Store:** https://apps.apple.com/tr/app/cubix-path-puzzle-match/id6478001225 • 💻 **Code:** https://github.com/Mustafa-Kum/PuzzleCode
-3. **Farm Connect Match (iOS)** — Shipped | 3D puzzles, camera systems, optimization  
-   🍎 **App Store:** https://apps.apple.com/us/app/farm-connect-match-3d-puzzle/id6503044105 • 💻 **Code:** https://github.com/Mustafa-Kum/FarmPuzzleCode
-4. **Third-Person Shooter (Unity)** — Personal shooter project — third-person controller, combat loop, basic enemy AI.  
-   ▶️ **Play** · https://lirnith.itch.io/thirdpersonshooter ▶️ **Gameplay** · https://www.youtube.com/watch?v=HaTiYeD7i1I 💻 **Code** · https://github.com/Mustafa-Kum/ThirdPersonShooter
+   ▶️ **Gameplay:** https://youtu.be/8BcLFCZjd8s
+   💻 **Code:** https://github.com/Mustafa-Kum/GodOfWarClone
+3. **Cubix Path (iOS)** — Shipped | Core puzzles, UI/HUD, polish, 60 FPS  
+   🍎 **App Store:** https://apps.apple.com/tr/app/cubix-path-puzzle-match/id6478001225
+   💻 **Code:** https://github.com/Mustafa-Kum/PuzzleCode
+4. **Farm Connect Match (iOS)** — Shipped | 3D puzzles, camera systems, optimization  
+   🍎 **App Store:** https://apps.apple.com/us/app/farm-connect-match-3d-puzzle/id6503044105
+   💻 **Code:** https://github.com/Mustafa-Kum/FarmPuzzleCode
+6. **Third-Person Shooter (Unity)** — Personal shooter project — third-person controller, combat loop, basic enemy AI.  
+   ▶️ **Play** · https://lirnith.itch.io/thirdpersonshooter
+   ▶️ **Gameplay** · https://www.youtube.com/watch?v=HaTiYeD7i1I
+   💻 **Code** · https://github.com/Mustafa-Kum/ThirdPersonShooter
 
 ---
 
