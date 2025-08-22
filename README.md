@@ -4,7 +4,7 @@ Versatile **Gameplay Developer** with professional experience in **Unity/C#** an
 
 - 📧 **Email:** kum.mustafa96@gmail.com  
 - 💼 **LinkedIn:** https://www.linkedin.com/in/mustafa-kum/  
-- 🎮 **itch.io:** https://lirnith.itch.io/
+- 🎮 **itch.io:** https://kumdev.itch.io
 
 ---
 
@@ -19,7 +19,7 @@ Versatile **Gameplay Developer** with professional experience in **Unity/C#** an
    - 🍎 **App Store:** https://apps.apple.com/us/app/farm-connect-match-3d-puzzle/id6503044105
    - 💻 **Code:** https://github.com/Mustafa-Kum/FarmPuzzleCode
 6. **Third-Person Shooter (Unity)** — Personal shooter project — third-person controller, combat loop, basic enemy AI.  
-   - ▶️ **Play** · https://lirnith.itch.io/thirdpersonshooter
+   - ▶️ **Play** · https://kumdev.itch.io/thirdpersonshooter
    - ▶️ **Gameplay** · https://www.youtube.com/watch?v=HaTiYeD7i1I
    - 💻 **Code** · https://github.com/Mustafa-Kum/ThirdPersonShooter
 
@@ -89,7 +89,7 @@ Shipped 3D puzzle game; built the entire front-end (mechanics, UI/UX, polish, ca
 ### 🔫 Cooking Live (Unity)
 Fast-paced casual prototype focused on responsive input, juicy UI, and clear feedback.
 
-▶️ **Play** · https://lirnith.itch.io/cook  
+▶️ **Play** · https://kumdev.itch.io/cook  
 ▶️ **Gameplay** · https://www.youtube.com/watch?v=1nN6eWOxZDQ  
 💻 **Code** · https://github.com/Mustafa-Kum/CookCode
 
@@ -98,7 +98,7 @@ Fast-paced casual prototype focused on responsive input, juicy UI, and clear fee
 ### ⚔️ Merge Valley (Unity/WebGL)
 Casual merge game deployed to WebGL; built core loop, UI/UX, and WebGL optimization.
 
-▶️ **Play** · https://lirnith.itch.io/merge-valley  
+▶️ **Play** · https://kumdev.itch.io/merge-valley  
 ▶️ **Gameplay** · https://www.youtube.com/watch?v=zLaT6ParDjk  
 💻 **Code** · https://github.com/Mustafa-Kum/MergeCode
 
@@ -115,7 +115,7 @@ Mobile driving prototype — vehicle controls & physics, VFX/SFX, polished UI.
 ### 🔫 Third-Person Shooter (Unity)
 Personal shooter project — third-person controller, combat loop, basic enemy AI.
 
-▶️ **Play** · https://lirnith.itch.io/thirdpersonshooter  
+▶️ **Play** · https://kumdev.itch.io/thirdpersonshooter  
 ▶️ **Gameplay** · https://www.youtube.com/watch?v=HaTiYeD7i1I  
 💻 **Code** · https://github.com/Mustafa-Kum/ThirdPersonShooter
 
@@ -123,10 +123,10 @@ Personal shooter project — third-person controller, combat loop, basic enemy A
 
 ## ✨ Playable Ads (HTML5/JavaScript)
 
-- **NVIDIA Ad** — Pure HTML5/CSS/JS. ▶️ https://lirnith.itch.io/playable-ad--test  
-- **Merge Ad** — Pure HTML5/CSS/JS. ▶️ https://lirnith.itch.io/playable-ad  
-- **Ball Ad** — Pure HTML5/CSS/JS. ▶️ https://lirnith.itch.io/playable-ad-baloon  
-- **Zeppelin Ad** — Pure HTML5/CSS/JS. ▶️ https://lirnith.itch.io/playable-ad-zeplin
+- **NVIDIA Ad** — Pure HTML5/CSS/JS. ▶️ https://kumdev.itch.io/playable-ad--test  
+- **Merge Ad** — Pure HTML5/CSS/JS. ▶️ https://kumdev.itch.io/playable-ad  
+- **Ball Ad** — Pure HTML5/CSS/JS. ▶️ https://kumdev.itch.io/playable-ad-baloon  
+- **Zeppelin Ad** — Pure HTML5/CSS/JS. ▶️ https://kumdev.itch.io/playable-ad-zeplin
 
 > Built without any game engine; bundle sizes **<1 MB**; campaigns achieved **up to +15% CTR** uplift.
 
@@ -135,19 +135,19 @@ Personal shooter project — third-person controller, combat loop, basic enemy A
 ## 🕹️ HTML5/JavaScript Games
 
 - **Child Game** — Educational game with simple UX  
-  - ▶️ https://lirnith.itch.io/childgame
+  - ▶️ https://kumdev.itch.io/childgame
   - 💻 https://github.com/Mustafa-Kum/ChildGame  
 - **Vampire Survivors Clone (2D)** — Engine-less clone focusing on performant projectile management  
-  - ▶️ https://lirnith.itch.io/html5
+  - ▶️ https://kumdev.itch.io/html5
   - 💻 https://github.com/Mustafa-Kum/VampireSurvivorCopy  
 - **Memory Game** — Embeddable, responsive component  
-  - ▶️ https://lirnith.itch.io/hafza-oyunu-html
+  - ▶️ https://kumdev.itch.io/hafza-oyunu-html
   - 💻 https://github.com/Mustafa-Kum/MemoryGame  
 - **BulletStrike (WebGL)** — Top-down shooter in pure JS  
-  - ▶️ https://lirnith.itch.io/html-5-2
+  - ▶️ https://kumdev.itch.io/html-5-2
   - 💻 https://github.com/Mustafa-Kum/BulletStrike  
 - **Necromancer3D** — 3D “Vampire Survivors”-style demo without Three.js  
-  - ▶️ https://lirnith.itch.io/necromancer
+  - ▶️ https://kumdev.itch.io/necromancer
   - 💻 https://github.com/Mustafa-Kum/Necromancer3D
 
 ---
@@ -166,27 +166,27 @@ Personal shooter project — third-person controller, combat loop, basic enemy A
 ## 🧪 Unity Prototypes & Experiments
 
 - **CrawRunner** — 2D RPG; previously on Google Play (AdMob & Google Play SDK)  
-  - ▶️ https://lirnith.itch.io/crawrunner
+  - ▶️ https://kumdev.itch.io/crawrunner
   - ▶️ https://www.youtube.com/watch?v=jNo36mdWnEo
   - 💻 https://github.com/Mustafa-Kum/CrawRunner  
 - **Flowers Needle** — 2D RPG prototype with narrative/quests  
-  - ▶️ https://lirnith.itch.io/flowers-needle
+  - ▶️ https://kumdev.itch.io/flowers-needle
   - ▶️ https://www.youtube.com/watch?v=OOyf2Ugnms4
   - 💻 https://github.com/Mustafa-Kum/Flowers-Needle-Game-4  
 - **CrawShooter** — Top-down shooter prototype  
-  - ▶️ https://lirnith.itch.io/crawshooter
+  - ▶️ https://kumdev.itch.io/crawshooter
   - 💻 https://github.com/Mustafa-Kum/CrawShooter  
 - **Infinity Shooter** — Endless shooter prototype  
-  - ▶️ https://lirnith.itch.io/infinity-shooter
+  - ▶️ https://kumdev.itch.io/infinity-shooter
   - 💻 https://github.com/Mustafa-Kum/Infinity-Shooter-Game-1  
 - **3D Adventurer** — Movement, camera, environmental interaction  
-  - ▶️ https://lirnith.itch.io/3d-adventurer
+  - ▶️ https://kumdev.itch.io/3d-adventurer
   - 💻 https://github.com/Mustafa-Kum/Experimental-Game  
 - **The Great Fleece** — Stealth mechanics and guard AI  
-  - ▶️ https://lirnith.itch.io/the-great-fleece
+  - ▶️ https://kumdev.itch.io/the-great-fleece
   - 💻 https://github.com/Mustafa-Kum/The-Great-Fleece-Game-3  
 - **Dungeon Escape** — 2D puzzle-platformer with tile-based design  
-  - ▶️ https://lirnith.itch.io/dungeon-escape
+  - ▶️ https://kumdev.itch.io/dungeon-escape
   - 💻 https://github.com/Mustafa-Kum/Dungeon-Escape-Game-2
 
 ---
