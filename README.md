@@ -145,7 +145,11 @@ Personal shooter project — third-person controller, combat loop, basic enemy A
   - 💻 https://github.com/Mustafa-Kum/MemoryGame  
 - **BulletStrike (WebGL)** — Top-down shooter in pure JS  
   - ▶️ https://kumdev.itch.io/html-5-2
-  - 💻 https://github.com/Mustafa-Kum/BulletStrike  
+  - 💻 https://github.com/Mustafa-Kum/BulletStrike
+- ** Blast ** - Basic Blast Game
+  - ▶️ https://kumdev.itch.io/blast
+- ** Puzzle ** - Connnect Puzzle Game
+  - ▶️ https://kumdev.itch.io/puzzle
 - **Necromancer3D** — 3D “Vampire Survivors”-style demo without Three.js  
   - ▶️ https://kumdev.itch.io/necromancer
   - 💻 https://github.com/Mustafa-Kum/Necromancer3D
