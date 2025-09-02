@@ -162,8 +162,6 @@ Personal shooter project — third-person controller, combat loop, basic enemy A
   - ▶️ https://youtube.com/shorts/1HCB7iJKOvM  
 - **Passenger Puzzle (Unity)** — AA mobile puzzle; core mechanics + UI/UX + feedback systems  
   - ▶️ https://youtu.be/KGkw-92USvs  
-- **PolyTari (HTML5/JS)** — Collection of **70+** mini-games built from scratch  
-  - ▶️ https://polytari.web.app/
 
 ---
 
