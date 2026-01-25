@@ -123,7 +123,8 @@ Personal shooter project — third-person controller, combat loop, basic enemy A
 
 ## ✨ Playable Ads (HTML5/JavaScript)
 
-- **NVIDIA Ad** — Pure HTML5/CSS/JS. ▶️ https://kumdev.itch.io/playable-ad--test  
+- **Puzzle Ad** * Pure HTML5/CSS/JS. ▶️ https://kumdev.itch.io/test
+- **NVIDIA Ad** — Pure HTML5/CSS/JS. ▶️ https://kumdev.itch.io/playable-ad--test
 - **Merge Ad** — Pure HTML5/CSS/JS. ▶️ https://kumdev.itch.io/playable-ad  
 - **Ball Ad** — Pure HTML5/CSS/JS. ▶️ https://kumdev.itch.io/playable-ad-baloon  
 - **Zeppelin Ad** — Pure HTML5/CSS/JS. ▶️ https://kumdev.itch.io/playable-ad-zeplin
@@ -133,10 +134,8 @@ Personal shooter project — third-person controller, combat loop, basic enemy A
 ---
 
 ## 🕹️ HTML5/JavaScript Games
-
-- **Child Game** — Educational game with simple UX  
-  - ▶️ https://kumdev.itch.io/childgame
-  - 💻 https://github.com/Mustafa-Kum/ChildGame  
+ - **Co-op Vampire Survivors Clone (2D)** — Engine-less clone focusing on performant projectile management  
+  - ▶️ https://sunny-faun-9a54d3.netlify.app/ 
 - **Vampire Survivors Clone (2D)** — Engine-less clone focusing on performant projectile management  
   - ▶️ https://kumdev.itch.io/html5
   - 💻 https://github.com/Mustafa-Kum/VampireSurvivorCopy  
@@ -146,10 +145,6 @@ Personal shooter project — third-person controller, combat loop, basic enemy A
 - **BulletStrike (WebGL)** — Top-down shooter in pure JS  
   - ▶️ https://kumdev.itch.io/html-5-2
   - 💻 https://github.com/Mustafa-Kum/BulletStrike
-- ** Blast ** - Basic Blast Game
-  - ▶️ https://kumdev.itch.io/blast
-- ** Puzzle ** - Connnect Puzzle Game
-  - ▶️ https://kumdev.itch.io/puzzle
 - **Necromancer3D** — 3D “Vampire Survivors”-style demo without Three.js  
   - ▶️ https://kumdev.itch.io/necromancer
   - 💻 https://github.com/Mustafa-Kum/Necromancer3D
