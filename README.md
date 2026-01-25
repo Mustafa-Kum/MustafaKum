@@ -123,7 +123,7 @@ Personal shooter project — third-person controller, combat loop, basic enemy A
 
 ## ✨ Playable Ads (HTML5/JavaScript)
 
-- **Puzzle Ad** * Pure HTML5/CSS/JS. ▶️ https://kumdev.itch.io/test
+- **Puzzle Ad** — Pure HTML5/CSS/JS. ▶️ https://kumdev.itch.io/test
 - **NVIDIA Ad** — Pure HTML5/CSS/JS. ▶️ https://kumdev.itch.io/playable-ad--test
 - **Merge Ad** — Pure HTML5/CSS/JS. ▶️ https://kumdev.itch.io/playable-ad  
 - **Ball Ad** — Pure HTML5/CSS/JS. ▶️ https://kumdev.itch.io/playable-ad-baloon  
@@ -134,8 +134,8 @@ Personal shooter project — third-person controller, combat loop, basic enemy A
 ---
 
 ## 🕹️ HTML5/JavaScript Games
- - **Co-op Vampire Survivors Clone (2D)** — Engine-less clone focusing on performant projectile management  
-  - ▶️ https://sunny-faun-9a54d3.netlify.app/ 
+- **Co-op Advanced Vampire Survivors Clone (2D)** — Engine-less clone focusing on performant projectile management
+   - ▶️ https://sunny-faun-9a54d3.netlify.app/
 - **Vampire Survivors Clone (2D)** — Engine-less clone focusing on performant projectile management  
   - ▶️ https://kumdev.itch.io/html5
   - 💻 https://github.com/Mustafa-Kum/VampireSurvivorCopy  
