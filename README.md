@@ -18,7 +18,7 @@ Versatile **Gameplay Developer** with professional experience in **Unity/C#** an
 4. **Farm Connect Match (iOS)** — Shipped | 3D puzzles, camera systems, optimization  
    - 🍎 **App Store:** https://apps.apple.com/us/app/farm-connect-match-3d-puzzle/id6503044105
    - 💻 **Code:** https://github.com/Mustafa-Kum/FarmPuzzleCode
-6. **Third-Person Shooter (Unity)** — Personal shooter project — third-person controller, combat loop, basic enemy AI.  
+6. **Third-Person Shooter (Unity)** — Personal shooter project, third-person controller, combat loop, basic enemy AI.  
    - ▶️ **Play** · https://kumdev.itch.io/thirdpersonshooter
    - ▶️ **Gameplay** · https://www.youtube.com/watch?v=HaTiYeD7i1I
    - 💻 **Code** · https://github.com/Mustafa-Kum/ThirdPersonShooter
@@ -125,6 +125,9 @@ Personal shooter project — third-person controller, combat loop, basic enemy A
 
 - **Puzzle Ad** — Pure HTML5/CSS/JS. ▶️ https://kumdev.itch.io/test
 - **NVIDIA Ad** — Pure HTML5/CSS/JS. ▶️ https://kumdev.itch.io/playable-ad--test
+- **Connect-Dots Ad** — Pure HTML5/CSS/JS. ▶️ https://kumdev.itch.io/playable-ad-connect-dots
+- **Twisted Tangle 2D Ad** — Pure HTML5/CSS/JS. ▶️ https://kumdev.itch.io/playable-ad-twisted-tangle-2d
+- **Fruit Ninja Ad** — Pure HTML5/CSS/JS. ▶️ https://kumdev.itch.io/playable-ad-fruit-ninja
 - **Merge Ad** — Pure HTML5/CSS/JS. ▶️ https://kumdev.itch.io/playable-ad  
 - **Ball Ad** — Pure HTML5/CSS/JS. ▶️ https://kumdev.itch.io/playable-ad-baloon  
 - **Zeppelin Ad** — Pure HTML5/CSS/JS. ▶️ https://kumdev.itch.io/playable-ad-zeplin
