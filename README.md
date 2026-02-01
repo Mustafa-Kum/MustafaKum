@@ -126,6 +126,8 @@ Personal shooter project — third-person controller, combat loop, basic enemy A
 - **Puzzle Ad** — Pure HTML5/CSS/JS. ▶️ https://kumdev.itch.io/test
 - **NVIDIA Ad** — Pure HTML5/CSS/JS. ▶️ https://kumdev.itch.io/playable-ad--test
 - **Connect-Dots Ad** — Pure HTML5/CSS/JS. ▶️ https://kumdev.itch.io/playable-ad-connect-dots
+- **Sand Balls Ad** — Pure HTML5/CSS/JS. ▶️ https://kumdev.itch.io/playable-ad-sand-balls
+- **Angry Birds Ad** — Pure HTML5/CSS/JS. ▶️ https://kumdev.itch.io/playable-ad-angry-birds
 - **Twisted Tangle 2D Ad** — Pure HTML5/CSS/JS. ▶️ https://kumdev.itch.io/playable-ad-twisted-tangle-2d
 - **Fruit Ninja Ad** — Pure HTML5/CSS/JS. ▶️ https://kumdev.itch.io/playable-ad-fruit-ninja
 - **Merge Ad** — Pure HTML5/CSS/JS. ▶️ https://kumdev.itch.io/playable-ad  
