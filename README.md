@@ -193,10 +193,3 @@ Personal shooter project — third-person controller, combat loop, basic enemy A
   - 💻 https://github.com/Mustafa-Kum/Dungeon-Escape-Game-2
 
 ---
-
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mustafa-Kum&layout=compact&theme=dracula&v=1" />
-
-
-
