@@ -196,6 +196,5 @@ Personal shooter project — third-person controller, combat loop, basic enemy A
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mustafa-Kum&layout=compact&theme=dracula" alt="Top Langs"/>
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mustafa-Kum&layout=compact&theme=dracula)
+
