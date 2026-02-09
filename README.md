@@ -123,7 +123,7 @@ Personal shooter project — third-person controller, combat loop, basic enemy A
 
 ## ✨ Playable Ads (HTML5/JavaScript)
 
-- **AppleGrappler Ad** — Unity Luna. ▶️ https://tranquil-bonbon-572e24.netlify.app/
+- **AppleGrappler Ad** — Unity Luna. ▶️ https://tranquil-bonbon-572e24.netlify.app/ - https://github.com/Mustafa-Kum/Apple-Grappler-Unity-Luna
 - **Puzzle Ad** — Pure HTML5/CSS/JS. ▶️ https://kumdev.itch.io/test
 - **NVIDIA Ad** — Pure HTML5/CSS/JS. ▶️ https://kumdev.itch.io/playable-ad--test
 - **Connect-Dots Ad** — Pure HTML5/CSS/JS. ▶️ https://kumdev.itch.io/playable-ad-connect-dots
