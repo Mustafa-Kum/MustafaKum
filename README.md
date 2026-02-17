@@ -60,6 +60,12 @@ Personal project to master AAA-style third-person combat and AI in **UE5/C++** (
 ▶️ **Gameplay Demo:** https://youtu.be/8BcLFCZjd8s  
 💻 **Repository:** https://github.com/Mustafa-Kum/GodOfWarClone
 
+# ⚔️ Modular GAS Weapon System for Unreal Engine 5
+This project implements a **Data-Driven, Component-Based Weapon System** utilizing Unreal Engine's **Gameplay Ability System (GAS)**. It decouples weapon logic from character classes using Interfaces and Data Assets, ensuring modularity and scalability.
+The system features **Input Buffering**, **Asynchronous Asset Loading**, and **Animation Notify** driven state changes, ensuring a smooth, "AAA-feel" combat experience.
+
+💻 **Repository:** https://github.com/Mustafa-Kum/UE-5.7.3-WeaponSystem-Equip-Unequip
+
 ---
 
 ## 🎮 Unity Projects
