@@ -132,6 +132,7 @@ Personal shooter project — third-person controller, combat loop, basic enemy A
 ## ✨ Playable Ads (HTML5/JavaScript)
 
 - **AppleGrappler Ad** — Unity Luna. ▶️ https://tranquil-bonbon-572e24.netlify.app/ - https://github.com/Mustafa-Kum/Apple-Grappler-Unity-Luna
+- **Tail Team Ad** — Pure HTML5/CSS/JS. ▶️ https://kumdev.itch.io/playable-ad-tail-team
 - **Candy Crush Ad** — Pure HTML5/CSS/JS. ▶️ https://kumdev.itch.io/playable-ad-candy-crush
 - **Changable Ad** — Pure HTML5/CSS/JS. ▶️ https://kumdev.itch.io/playable-ad-themechangable
 - **Puzzle Ad** — Pure HTML5/CSS/JS. ▶️ https://kumdev.itch.io/test
