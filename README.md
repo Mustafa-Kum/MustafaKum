@@ -132,7 +132,6 @@ Personal shooter project — third-person controller, combat loop, basic enemy A
 ### 🛠️ Modular Scratch-Card Surface (Unity)
 Highly optimized, open-source scratch-card mechanic for Mobile, WebGL, and Playable Ads. Features batched texture replacement and fail-safe rendering to maintain stable 60FPS.
 
-▶️ **Visual Preview** · https://github.com/Mustafa-Kum/Moduler-ScratchCard-Unity-Luna#readme
 💻 **Code & Setup** · https://github.com/Mustafa-Kum/Moduler-ScratchCard-Unity-Luna
 
 ---
