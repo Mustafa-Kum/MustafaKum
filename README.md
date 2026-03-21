@@ -16,11 +16,15 @@ Versatile **Gameplay & Performance Engineer** with professional experience in **
 
 ## 🛠️ Skills & Technologies
 
-**Engines/Languages:** Unity/C#, Unreal Engine 5/C++, HTML5/JavaScript  
-**Gameplay & Systems:** State machines, combat, abilities (**GAS/Tags**), BT/EQS AI, UI/HUD, camera systems  
-**Animation & VFX:** Animation Blueprints, Montages/Notifies, retargeting, **Niagara**, DOTween, Cinemachine  
-**Optimization:** Unreal Insights/`STAT`, async asset/level streaming, object pooling, Addressables, profiling/GC, draw-call/overdraw reduction  
-**Release:** iOS (TestFlight/App Store), WebGL, HTML5 playable ads, Git (Perforce familiar)
+| Category | Skills & Technologies |
+| :--- | :--- |
+| 🛠️ **Engines & Languages** | Unity (C#), Unreal Engine 5 (C++), HTML5/JavaScript |
+| ⚔️ **Gameplay & Systems** | State machines, Combat, Abilities (**GAS/Tags**), BT/EQS AI, UI/HUD, Camera |
+| ✨ **Animation & VFX** | Animation Blueprints, Montages/Notifies, Retargeting, **Niagara**, DOTween, Cinemachine |
+| ⚙️ **Optimization** | Unreal Insights/`STAT`, Async asset streaming, Object pooling, Addressables, Profiling/GC |
+| 🚀 **Release & Tools** | iOS (TestFlight/App Store), WebGL, Playable Ads, Git (Perforce familiar) |
+
+<br>
 
 <p align="left">
   <a href="https://unity.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="36" alt="Unity"/></a>
@@ -225,6 +229,11 @@ Third-person controller, full combat loop, basic enemy AI.
 - **Tail Team Ad** — Pure HTML5/CSS/JS | [Play](https://kumdev.itch.io/playable-ad-tail-team)
 - **Candy Crush Ad** — Pure HTML5/CSS/JS | [Play](https://kumdev.itch.io/playable-ad-candy-crush)
 - **Changeable Ad** — Pure HTML5/CSS/JS | [Play](https://kumdev.itch.io/playable-ad-themechangable)
+
+<details>
+<summary>📂 <b>View More Playable Ad Campaigns (10+ Projects)</b></summary>
+<br>
+
 - **Puzzle Ad** — Pure HTML5/CSS/JS | [Play](https://kumdev.itch.io/test)
 - **NVIDIA Ad** — Pure HTML5/CSS/JS | [Play](https://kumdev.itch.io/playable-ad--test)
 - **Connect-Dots Ad** — Pure HTML5/CSS/JS | [Play](https://kumdev.itch.io/playable-ad-connect-dots)
@@ -235,6 +244,8 @@ Third-person controller, full combat loop, basic enemy AI.
 - **Merge Ad** — Pure HTML5/CSS/JS | [Play](https://kumdev.itch.io/playable-ad)
 - **Ball Ad** — Pure HTML5/CSS/JS | [Play](https://kumdev.itch.io/playable-ad-baloon)
 - **Zeppelin Ad** — Pure HTML5/CSS/JS | [Play](https://kumdev.itch.io/playable-ad-zeplin)
+
+</details>
 
 ---
 
