@@ -8,6 +8,12 @@ Versatile **Gameplay Developer** with professional experience in **Unity (C#)** 
  
 ---
  
+## 🗺️ Navigate
+ 
+[🚀 Unreal Engine 5](#-unreal-engine-5-projects) · [🎮 Unity — Shipped](#-unity--shipped-games) · [🎮 Unity — Team Projects](#-unity--team-projects) · [🎮 Unity — Personal](#-unity--personal-projects) · [✨ Playable Ads](#-playable-ads-html5javascript) · [🕹️ HTML5 Games](#️-html5--javascript-games)
+ 
+---
+ 
 ## 🛠️ Skills & Technologies
  
 **Engines/Languages:** Unity/C#, Unreal Engine 5/C++, HTML5/JavaScript  
@@ -92,7 +98,6 @@ Puzzle game shipped to the App Store. Responsible for every technical layer of t
 3D puzzle game shipped to the App Store. Owned the entire technical stack — mechanics, UI/UX, camera systems, mobile performance, and release pipeline.
  
 - 🍎 **App Store:** https://apps.apple.com/us/app/farm-connect-match-3d-puzzle/id6503044105
-- 🎬 **Gameplay:** https://www.youtube.com/watch?v=t4rGmqsmI0I
 - 💻 **Code:** https://github.com/Mustafa-Kum/FarmPuzzleCode
  
 ---
@@ -100,7 +105,7 @@ Puzzle game shipped to the App Store. Responsible for every technical layer of t
 ## 🎮 Unity — Team Projects
  
 ### 🍳 Cooking Live (Unity)
-*Personal project — Sole Developer*
+*3-person team — Full-Stack Game Developer (gameplay, backend, UI/UX)*
  
 Fast-paced casual prototype focused on responsive input, juicy UI, and clear feedback loops.
  
@@ -111,7 +116,7 @@ Fast-paced casual prototype focused on responsive input, juicy UI, and clear fee
 ---
  
 ### ⚔️ Merge Valley (Unity / WebGL)
-*Personal project — Sole Developer*
+*3-person team — Full-Stack Game Developer (gameplay, backend, UI/UX)*
  
 Casual merge game deployed to WebGL; built core loop, UI/UX, and WebGL-specific optimization.
  
@@ -122,7 +127,7 @@ Casual merge game deployed to WebGL; built core loop, UI/UX, and WebGL-specific 
 ---
  
 ### 🚗 Car Game (Unity)
-*Personal project — Sole Developer*
+*3-person team — Full-Stack Game Developer (gameplay, backend, UI/UX)*
  
 Mobile driving prototype — vehicle controls & physics, VFX/SFX, polished UI.
  
@@ -148,18 +153,18 @@ Casual mobile game — full gameplay logic, UI systems, and polish.
 - 🎬 **Gameplay:** https://youtube.com/shorts/1HCB7iJKOvM
  
 ---
-
+ 
 ## 🎮 Unity — Personal Projects
-
+ 
 ### 🛠️ Modular Scratch-Card Surface (Unity — Open Source)
 *Personal project — Sole Developer*
  
 Highly optimized, open-source scratch-card mechanic for Mobile, WebGL, and Playable Ads. Features batched texture replacement and fail-safe rendering to maintain stable 60 FPS.
  
 - 💻 **Code & Setup:** https://github.com/Mustafa-Kum/Moduler-ScratchCard-Unity-Luna
-
+ 
 ---
-
+ 
 ### 🔫 Third-Person Shooter (Unity)
 *Personal project — Sole Developer*
  
@@ -168,7 +173,7 @@ Third-person controller, full combat loop, basic enemy AI.
 - ▶️ **Play:** https://kumdev.itch.io/thirdpersonshooter
 - 🎬 **Gameplay:** https://www.youtube.com/watch?v=HaTiYeD7i1I
 - 💻 **Code:** https://github.com/Mustafa-Kum/ThirdPersonShooter
-
+ 
 ---
  
 <details>
