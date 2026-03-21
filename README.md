@@ -10,7 +10,7 @@ Versatile **Gameplay Developer** with professional experience in **Unity (C#)** 
  
 ## 🗺️ Navigate
  
-[🚀 Unreal Engine 5](#-unreal-engine-5-projects) · [🎮 Unity — Shipped](#-unity--shipped-games) · [🎮 Unity — Team Projects](#-unity--team-projects) · [🎮 Unity — Personal](#-unity--personal-projects) · [✨ Playable Ads](#-playable-ads-html5javascript) · [🕹️ HTML5 Games](#️-html5--javascript-games)
+[🚀 Unreal Engine 5](#-unreal-engine-5-projects) · [🎮 Unity Shipped](#-unity--shipped-games) · [🎮 Unity Team Projects](#-unity--team-projects) · [🎮 Unity Personal](#-unity--personal-projects) · [✨ Playable Ads](#-playable-ads-html5javascript) · [🕹️ HTML5 Games](#️-html5--javascript-games)
  
 ---
  
@@ -38,7 +38,7 @@ Versatile **Gameplay Developer** with professional experience in **Unity (C#)** 
 ### 🔥 Third-Person Action Game (UE5)
 *Personal project — Sole Developer*
  
-Personal project to master AAA-style third-person combat and AI in **UE5/C++** (inspired by *God of War*).
+Personal project third-person combat and AI in **UE5/C++** (inspired by *God of War*).
  
 - **Architecture:** C++ cancelable combo state machine; dodge, block, parry; two unique abilities
 - **Enemy AI:** Behavior Trees + Blackboard; EQS positioning; multi-phase boss encounter
