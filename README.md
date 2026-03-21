@@ -1,6 +1,6 @@
-# Mustafa Kum — Gameplay Engineer
+# Mustafa Kum — Gameplay & Performance Engineer
 
-Versatile **Gameplay Engineer** with professional experience in **Unity (C#)** and a deep focus on **Unreal Engine 5 (C++)**. I build responsive, polished gameplay systems and ship to **iOS** and **WebGL**. I've also created high-performance **HTML5/JavaScript playable ads** (bundles **<1 MB**, **up to +15% CTR** uplift).
+Versatile **Gameplay & Performance Engineer** with professional experience in **Unity (C#)** and a deep focus on **Unreal Engine 5 (C++)**. I build responsive, polished gameplay systems and ship to **iOS** and **WebGL**. I've also created high-performance **HTML5/JavaScript playable ads** (bundles **<1 MB**, **up to +15% CTR** uplift).
 
 - 📧 **Email:** kum.mustafa96@gmail.com
 - 💼 **LinkedIn:** https://www.linkedin.com/in/mustafa-kum/
@@ -38,6 +38,8 @@ Versatile **Gameplay Engineer** with professional experience in **Unity (C#)** a
 ### 🔥 Third-Person Action Game (UE5)
 *Personal project — Sole Developer*
 
+![](https://img.shields.io/badge/Unreal_Engine-5-blue?logo=unrealengine) ![](https://img.shields.io/badge/Language-C++-00599C?logo=cplusplus&logoColor=white) ![](https://img.shields.io/badge/Performance-High-lightgray) ![](https://img.shields.io/badge/AI-Behavior_Trees-brightgreen) ![](https://img.shields.io/badge/System-GAS-yellowgreen)
+
 Personal project third-person combat and AI in **UE5/C++** (inspired by *God of War*).
 
 - **Architecture:** C++ cancelable combo state machine; dodge, block, parry; two unique abilities
@@ -54,6 +56,8 @@ Personal project third-person combat and AI in **UE5/C++** (inspired by *God of 
 ### 🧠 Inventory & Equipment System (UE5)
 *Personal project — Sole Developer | Technical Showcase*
 
+![](https://img.shields.io/badge/Unreal_Engine-5-blue?logo=unrealengine) ![](https://img.shields.io/badge/Language-C++-00599C?logo=cplusplus&logoColor=white) ![](https://img.shields.io/badge/Architecture-Modular-lime) ![](https://img.shields.io/badge/Design-Data_Driven-orange)
+
 Modular, data-driven Inventory & Equipment System built in **UE5 (C++)**, designed for scalability and clean architecture.
 
 - Event-driven UI (no Tick, delegate-based updates)
@@ -67,6 +71,8 @@ Modular, data-driven Inventory & Equipment System built in **UE5 (C++)**, design
 ### ⚔️ Modular GAS Weapon System (UE5)
 *Personal project — Sole Developer | Technical Showcase*
 
+![](https://img.shields.io/badge/Unreal_Engine-5-blue?logo=unrealengine) ![](https://img.shields.io/badge/System-GAS-yellowgreen) ![](https://img.shields.io/badge/Design-Data_Driven-orange) ![](https://img.shields.io/badge/Pattern-Component_Based-lightgray)
+
 Data-Driven, Component-Based Weapon System utilizing Unreal Engine's **Gameplay Ability System (GAS)**. Decouples weapon logic from character classes using Interfaces and Data Assets. Features **Input Buffering**, **Asynchronous Asset Loading**, and **Animation Notify** driven state changes for a smooth, AAA-feel combat experience.
 
 - 💻 **Repository:** https://github.com/Mustafa-Kum/UE-5.7.3-WeaponSystem-Equip-Unequip
@@ -77,6 +83,8 @@ Data-Driven, Component-Based Weapon System utilizing Unreal Engine's **Gameplay 
 
 ### 👾 Cubix Path (iOS) — *Shipped*
 *3-person team — Full-Stack Game Developer (gameplay, backend, UI/UX, optimization, release)*
+
+![](https://img.shields.io/badge/Unity-C%23-black?logo=unity&logoColor=white) ![](https://img.shields.io/badge/Platform-iOS-000000?logo=apple&logoColor=white) ![](https://img.shields.io/badge/Status-Shipped-success) ![](https://img.shields.io/badge/Performance-60_FPS-brightgreen)
 
 Puzzle game shipped to the App Store. Responsible for every technical layer of the product — core gameplay architecture, backend logic, UI/UX, and App Store release pipeline.
 
@@ -92,8 +100,11 @@ Puzzle game shipped to the App Store. Responsible for every technical layer of t
 ### 🚜 Farm Connect Match (iOS) — *Shipped*
 *3-person team — Full-Stack Game Developer (gameplay, backend, UI/UX, camera, optimization, release)*
 
+![](https://img.shields.io/badge/Unity-C%23-black?logo=unity&logoColor=white) ![](https://img.shields.io/badge/Platform-iOS-000000?logo=apple&logoColor=white) ![](https://img.shields.io/badge/Status-Shipped-success) ![](https://img.shields.io/badge/Genre-3D_Puzzle-blue)
+
 3D puzzle game shipped to the App Store. Owned the entire technical stack — mechanics, UI/UX, camera systems, mobile performance, and release pipeline.
 
+- Optimized 3D physics and memory management to maintain a stable **60 FPS** on target iOS devices
 - 🍎 **App Store:** https://apps.apple.com/us/app/farm-connect-match-3d-puzzle/id6503044105
 - 🎬 **Gameplay:** https://www.youtube.com/watch?v=t4rGmqsmI0I
 - 💻 **Code:** https://github.com/Mustafa-Kum/FarmPuzzleCode
@@ -104,6 +115,8 @@ Puzzle game shipped to the App Store. Responsible for every technical layer of t
 
 ### 🍳 Cooking Live (Unity)
 *3-person team — Full-Stack Game Developer (gameplay, backend, UI/UX)*
+
+![](https://img.shields.io/badge/Unity-C%23-black?logo=unity&logoColor=white) ![](https://img.shields.io/badge/Mechanics-Responsive_Input-blue) ![](https://img.shields.io/badge/UX-Juicy_UI-orange)
 
 Fast-paced casual prototype focused on responsive input, juicy UI, and clear feedback loops.
 
@@ -116,6 +129,8 @@ Fast-paced casual prototype focused on responsive input, juicy UI, and clear fee
 ### ⚔️ Merge Valley (Unity / WebGL)
 *3-person team — Full-Stack Game Developer (gameplay, backend, UI/UX)*
 
+![](https://img.shields.io/badge/Unity-WebGL-990000?logo=webgl&logoColor=white) ![](https://img.shields.io/badge/Optimization-Web_Target-success) ![](https://img.shields.io/badge/Genre-Merge-blue)
+
 Casual merge game deployed to WebGL; built core loop, UI/UX, and WebGL-specific optimization.
 
 - ▶️ **Play:** https://kumdev.itch.io/merge-valley
@@ -127,6 +142,8 @@ Casual merge game deployed to WebGL; built core loop, UI/UX, and WebGL-specific 
 ### 🚗 Car Game (Unity)
 *3-person team — Full-Stack Game Developer (gameplay, backend, UI/UX)*
 
+![](https://img.shields.io/badge/Unity-C%23-black?logo=unity&logoColor=white) ![](https://img.shields.io/badge/Systems-Physics-yellowgreen) ![](https://img.shields.io/badge/Platform-Mobile-lightgray)
+
 Mobile driving prototype — vehicle controls & physics, VFX/SFX, polished UI.
 
 - 🎬 **Gameplay:** https://www.youtube.com/shorts/Uxj482VLfBA
@@ -137,6 +154,8 @@ Mobile driving prototype — vehicle controls & physics, VFX/SFX, polished UI.
 ### 🧩 Passenger Puzzle (Unity)
 *3-person team — Full-Stack Game Developer (gameplay, backend, UI/UX)*
 
+![](https://img.shields.io/badge/Unity-C%23-black?logo=unity&logoColor=white) ![](https://img.shields.io/badge/Genre-Puzzle-blue) ![](https://img.shields.io/badge/Scope-AA_Mobile-orange)
+
 AA mobile puzzle prototype — core mechanics, UI/UX, and full feedback systems. Owned all technical layers within the team.
 
 - 🎬 **Gameplay:** https://youtu.be/KGkw-92USvs
@@ -145,6 +164,8 @@ AA mobile puzzle prototype — core mechanics, UI/UX, and full feedback systems.
 
 ### 🍕 Pizza Path (Unity)
 *3-person team — Full-Stack Game Developer (gameplay, backend, UI/UX)*
+
+![](https://img.shields.io/badge/Unity-C%23-black?logo=unity&logoColor=white) ![](https://img.shields.io/badge/Systems-UI_Polish-orange)
 
 Casual mobile game — full gameplay logic, UI systems, and polish.
 
@@ -157,6 +178,8 @@ Casual mobile game — full gameplay logic, UI systems, and polish.
 ### 🛠️ Modular Scratch-Card Surface (Unity — Open Source)
 *Personal project — Sole Developer*
 
+![](https://img.shields.io/badge/Unity-C%23-black?logo=unity&logoColor=white) ![](https://img.shields.io/badge/Rendering-Optimized-success) ![](https://img.shields.io/badge/Performance-60_FPS-brightgreen) ![](https://img.shields.io/badge/Open_Source-MIT-blue)
+
 Highly optimized, open-source scratch-card mechanic for Mobile, WebGL, and Playable Ads. Features batched texture replacement and fail-safe rendering to maintain stable 60 FPS.
 
 - 💻 **Code & Setup:** https://github.com/Mustafa-Kum/Moduler-ScratchCard-Unity-Luna
@@ -165,6 +188,8 @@ Highly optimized, open-source scratch-card mechanic for Mobile, WebGL, and Playa
 
 ### 🔫 Third-Person Shooter (Unity)
 *Personal project — Sole Developer*
+
+![](https://img.shields.io/badge/Unity-C%23-black?logo=unity&logoColor=white) ![](https://img.shields.io/badge/AI-Basic_Enemy-yellowgreen) ![](https://img.shields.io/badge/Mechanics-Combat_Loop-red)
 
 Third-person controller, full combat loop, basic enemy AI.
 
@@ -192,6 +217,8 @@ Third-person controller, full combat loop, basic enemy AI.
 
 ## ✨ Playable Ads (HTML5/JavaScript)
 
+![](https://img.shields.io/badge/HTML5-Pure-E34F26?logo=html5&logoColor=white) ![](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?logo=javascript&logoColor=black) ![](https://img.shields.io/badge/Architecture-Engine--less-darkgray) ![](https://img.shields.io/badge/Optimization-<1_MB-success) ![](https://img.shields.io/badge/Metric-+15%25_CTR-blue)
+
 > Built without any game engine; bundle sizes **<1 MB**; campaigns achieved **up to +15% CTR** uplift.
 
 - **AppleGrappler Ad** — Unity Luna | [Play](https://tranquil-bonbon-572e24.netlify.app/) | [Code](https://github.com/Mustafa-Kum/Apple-Grappler-Unity-Luna)
@@ -212,6 +239,8 @@ Third-person controller, full combat loop, basic enemy AI.
 ---
 
 ## 🕹️ HTML5 / JavaScript Games
+
+![](https://img.shields.io/badge/HTML5-Pure-E34F26?logo=html5&logoColor=white) ![](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?logo=javascript&logoColor=black) ![](https://img.shields.io/badge/Performance-Engine--less-success)
 
 - **Co-op Advanced Vampire Survivors Clone (2D)** — Engine-less, performant projectile management | [Play](https://sunny-faun-9a54d3.netlify.app/)
 - **Vampire Survivors Clone (2D)** — Engine-less clone | [Play](https://kumdev.itch.io/html5) | [Code](https://github.com/Mustafa-Kum/VampireSurvivorCopy)
