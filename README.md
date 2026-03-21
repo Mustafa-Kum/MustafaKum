@@ -98,6 +98,7 @@ Puzzle game shipped to the App Store. Responsible for every technical layer of t
 3D puzzle game shipped to the App Store. Owned the entire technical stack — mechanics, UI/UX, camera systems, mobile performance, and release pipeline.
  
 - 🍎 **App Store:** https://apps.apple.com/us/app/farm-connect-match-3d-puzzle/id6503044105
+- 🎬 **Gameplay:** https://www.youtube.com/watch?v=t4rGmqsmI0I
 - 💻 **Code:** https://github.com/Mustafa-Kum/FarmPuzzleCode
  
 ---
