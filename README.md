@@ -97,18 +97,7 @@ Puzzle game shipped to the App Store. Responsible for every technical layer of t
  
 ---
  
-## 🎮 Unity — Personal Projects
- 
-### 🔫 Third-Person Shooter (Unity)
-*Personal project — Sole Developer*
- 
-Third-person controller, full combat loop, basic enemy AI.
- 
-- ▶️ **Play:** https://kumdev.itch.io/thirdpersonshooter
-- 🎬 **Gameplay:** https://www.youtube.com/watch?v=HaTiYeD7i1I
-- 💻 **Code:** https://github.com/Mustafa-Kum/ThirdPersonShooter
- 
----
+## 🎮 Unity — Team Projects
  
 ### 🍳 Cooking Live (Unity)
 *Personal project — Sole Developer*
@@ -159,14 +148,27 @@ Casual mobile game — full gameplay logic, UI systems, and polish.
 - 🎬 **Gameplay:** https://youtube.com/shorts/1HCB7iJKOvM
  
 ---
- 
+
+## 🎮 Unity — Personal Projects
+
 ### 🛠️ Modular Scratch-Card Surface (Unity — Open Source)
 *Personal project — Sole Developer*
  
 Highly optimized, open-source scratch-card mechanic for Mobile, WebGL, and Playable Ads. Features batched texture replacement and fail-safe rendering to maintain stable 60 FPS.
  
 - 💻 **Code & Setup:** https://github.com/Mustafa-Kum/Moduler-ScratchCard-Unity-Luna
+
+---
+
+### 🔫 Third-Person Shooter (Unity)
+*Personal project — Sole Developer*
  
+Third-person controller, full combat loop, basic enemy AI.
+ 
+- ▶️ **Play:** https://kumdev.itch.io/thirdpersonshooter
+- 🎬 **Gameplay:** https://www.youtube.com/watch?v=HaTiYeD7i1I
+- 💻 **Code:** https://github.com/Mustafa-Kum/ThirdPersonShooter
+
 ---
  
 <details>
