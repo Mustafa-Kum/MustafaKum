@@ -62,6 +62,23 @@ Personal project to master AAA-style third-person combat and AI in **UE5/C++** (
 
 ---
 
+### 🧠 Inventory & Equipment System (UE5)
+
+Modular, data-driven Inventory & Equipment System built in **Unreal Engine 5 (C++)**, designed for scalability and clean architecture.
+
+This is a **technical showcase**, extracted from a larger RPG system to highlight engineering decisions.
+
+**Key Highlights**
+- Event-driven UI (no Tick, delegate-based updates)  
+- Fully data-driven via **UDataAssets**  
+- Asynchronous asset loading (StreamableManager)  
+- **Gameplay Ability System (GAS)** integration  
+- Modular, decoupled architecture (SOLID principles)  
+
+💻 **Repository:** https://github.com/Mustafa-Kum/Inventory_System_Showcase
+
+---
+
 ### ⚔️ Modular GAS Weapon System for Unreal Engine 5
 This project implements a **Data-Driven, Component-Based Weapon System** utilizing Unreal Engine's **Gameplay Ability System (GAS)**. It decouples weapon logic from character classes using Interfaces and Data Assets, ensuring modularity and scalability.
 The system features **Input Buffering**, **Asynchronous Asset Loading**, and **Animation Notify** driven state changes, ensuring a smooth, "AAA-feel" combat experience.
