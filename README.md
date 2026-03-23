@@ -10,7 +10,7 @@ Versatile **Gameplay & Performance Engineer** with professional experience in **
 
 ## 🗺️ Navigate
 
-[🚀 Unreal Engine 5](#-unreal-engine-5-projects) · [🎮 Unity Shipped](#-unity--shipped-games) · [🎮 Unity Team Projects](#-unity--team-projects) · [🎮 Unity Personal](#-unity--personal-projects) · [✨ Playable Ads](#-playable-ads-html5javascript) · [🕹️ HTML5 Games](#️-html5--javascript-games)
+[🚀 Unreal Engine 5](#-unreal-engine-5-projects) · [🧩 Modular RPG Series](#-modular-rpg-series-ue5) · [🎮 Unity Shipped](#-unity--shipped-games) · [🎮 Unity Team Projects](#-unity--team-projects) · [🎮 Unity Personal](#-unity--personal-projects) · [✨ Playable Ads](#-playable-ads-html5javascript) · [🕹️ HTML5 Games](#️-html5--javascript-games)
 
 ---
 
@@ -57,21 +57,6 @@ Personal project third-person combat and AI in **UE5/C++** (inspired by *God of 
 
 ---
 
-### 🧠 Inventory & Equipment System (UE5)
-*Personal project — Sole Developer | Technical Showcase*
-
-![](https://img.shields.io/badge/Unreal_Engine-5-blue?logo=unrealengine) ![](https://img.shields.io/badge/Language-C++-00599C?logo=cplusplus&logoColor=white) ![](https://img.shields.io/badge/Architecture-Modular-lime) ![](https://img.shields.io/badge/Design-Data_Driven-orange)
-
-Modular, data-driven Inventory & Equipment System built in **UE5 (C++)**, designed for scalability and clean architecture.
-
-- Event-driven UI (no Tick, delegate-based updates)
-- Fully data-driven via **UDataAssets** and asynchronous asset loading (`StreamableManager`)
-- **Gameplay Ability System (GAS)** integration
-- Modular, decoupled architecture following SOLID principles
-- 💻 **Repository:** https://github.com/Mustafa-Kum/Inventory_System_Showcase
-
----
-
 ### ⚔️ Modular GAS Weapon System (UE5)
 *Personal project — Sole Developer | Technical Showcase*
 
@@ -80,6 +65,23 @@ Modular, data-driven Inventory & Equipment System built in **UE5 (C++)**, design
 Data-Driven, Component-Based Weapon System utilizing Unreal Engine's **Gameplay Ability System (GAS)**. Decouples weapon logic from character classes using Interfaces and Data Assets. Features **Input Buffering**, **Asynchronous Asset Loading**, and **Animation Notify** driven state changes for a smooth, AAA-feel combat experience.
 
 - 💻 **Repository:** https://github.com/Mustafa-Kum/UE-5.7.3-WeaponSystem-Equip-Unequip
+
+---
+
+## 🧩 Modular RPG Series (UE5)
+
+> A step-by-step AAA-style RPG architecture built in **Unreal Engine 5 (C++)**.
+> Each part is a self-contained, production-quality module — focusing on clean architecture, GAS integration, and scalable design.
+
+![](https://img.shields.io/badge/Unreal_Engine-5-blue?logo=unrealengine) ![](https://img.shields.io/badge/Language-C++-00599C?logo=cplusplus&logoColor=white) ![](https://img.shields.io/badge/System-GAS-yellowgreen) ![](https://img.shields.io/badge/Architecture-Modular-lime) ![](https://img.shields.io/badge/Design-Data_Driven-orange)
+
+| # | System | Highlights | Repository |
+|:--|:-------|:-----------|:-----------|
+| **1** | **Inventory & Equipment System** | Event-driven UI · GAS buff/debuff via `FActiveGameplayEffectHandle` · CDO parsing for tooltips · Async loading via `StreamableManager` · Modular armor with `SetLeaderPoseComponent` | [🔗 Repo](https://github.com/Mustafa-Kum/Inventory_System_Showcase) |
+| **2** | **HP & Mana Vitals System** | Zero-tick reactive UI via GAS delegates · WoW/FFXIV-style trailing bars · Proportional stat scaling · `UCharacterDataAsset` driven — no hardcoded stats | [🔗 Repo](https://github.com/Mustafa-Kum/UE5-Gas-Vitals-System) |
+| **3** | **Combat System** *(Upcoming)* | Abilities & damage pipeline | — |
+| **4** | **Enemy AI** *(Upcoming)* | Behavior Trees + GAS integration | — |
+| **5** | **Advanced Stat System** *(Upcoming)* | Buffs, debuffs, stacking | — |
 
 ---
 
