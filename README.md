@@ -71,15 +71,15 @@ Data-Driven, Component-Based Weapon System utilizing Unreal Engine's **Gameplay 
 ## 🧩 Modular RPG Series (UE5)
 
 > A step-by-step AAA-style RPG architecture built in **Unreal Engine 5 (C++)**.
-> Each part is a self-contained, production-quality module — focusing on clean architecture, GAS integration, and scalable design.
+> Each part is a self-contained, production-quality module focused on clean architecture, GAS integration, and scalable design.
 
 ![](https://img.shields.io/badge/Unreal_Engine-5-blue?logo=unrealengine) ![](https://img.shields.io/badge/Language-C++-00599C?logo=cplusplus&logoColor=white) ![](https://img.shields.io/badge/System-GAS-yellowgreen) ![](https://img.shields.io/badge/Architecture-Modular-lime) ![](https://img.shields.io/badge/Design-Data_Driven-orange)
 
 | # | System | Highlights | Repository |
 |:--|:-------|:-----------|:-----------|
 | **1** | **Inventory & Equipment System** | Event-driven UI · GAS buff/debuff via `FActiveGameplayEffectHandle` · CDO parsing for tooltips · Async loading via `StreamableManager` · Modular armor with `SetLeaderPoseComponent` | [🔗 Repo](https://github.com/Mustafa-Kum/Inventory_System_Showcase) |
-| **2** | **HP & Mana Vitals System** | Zero-tick reactive UI via GAS delegates · WoW/FFXIV-style trailing bars · Proportional stat scaling · `UCharacterDataAsset` driven — no hardcoded stats | [🔗 Repo](https://github.com/Mustafa-Kum/UE5-Gas-Vitals-System) |
-| **3** | **Combat System** *(Upcoming)* | Abilities & damage pipeline | — |
+| **2** | **HP & Mana Vitals System** | Reactive UI via GAS delegates · WoW/FFXIV-style trailing bars · Proportional stat scaling · `UCharacterDataAsset`-driven initialization | [🔗 Repo](https://github.com/Mustafa-Kum/UE5-Gas-Vitals-System) |
+| **3** | **Melee Combat System** | Combo chaining · Input buffering · Animation-driven combat windows · Reliable melee hit detection · Crit feedback · Hit stop · Pooled combat text | [🔗 Repo](COMBAT_REPO_LINK) |
 | **4** | **Enemy AI** *(Upcoming)* | Behavior Trees + GAS integration | — |
 | **5** | **Advanced Stat System** *(Upcoming)* | Buffs, debuffs, stacking | — |
 
