@@ -70,7 +70,7 @@ Data-Driven, Component-Based Weapon System utilizing Unreal Engine's **Gameplay 
 
 ## 🧩 Modular RPG Series (UE5)
 
-> A step-by-step AAA-style RPG architecture built in **Unreal Engine 5 (C++)**.
+> A step-by-step AAA-style RPG architecture built in **Unreal Engine 5 (C++)**.  
 > Each part is a self-contained, production-quality module focused on clean architecture, GAS integration, and scalable design.
 
 ![](https://img.shields.io/badge/Unreal_Engine-5-blue?logo=unrealengine) ![](https://img.shields.io/badge/Language-C++-00599C?logo=cplusplus&logoColor=white) ![](https://img.shields.io/badge/System-GAS-yellowgreen) ![](https://img.shields.io/badge/Architecture-Modular-lime) ![](https://img.shields.io/badge/Design-Data_Driven-orange)
@@ -226,6 +226,32 @@ Third-person controller, full combat loop, basic enemy AI.
 ![](https://img.shields.io/badge/HTML5-Pure-E34F26?logo=html5&logoColor=white) ![](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?logo=javascript&logoColor=black) ![](https://img.shields.io/badge/Architecture-Engine--less-darkgray) ![](https://img.shields.io/badge/Optimization-<1_MB-success) ![](https://img.shields.io/badge/Metric-+15%25_CTR-blue)
 
 > Built without any game engine; bundle sizes **<1 MB**; campaigns achieved **up to +15% CTR** uplift.
+
+### 💄 Beauty Brand — HTML5 Interactive End Cards / Playable Ads
+*Commercial freelance project — Engine-less HTML5/JavaScript*
+
+![](https://img.shields.io/badge/HTML5-Pure-E34F26?logo=html5&logoColor=white) ![](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?logo=javascript&logoColor=black) ![](https://img.shields.io/badge/Format-Interactive_End_Cards-blue) ![](https://img.shields.io/badge/Platform-Mobile-lightgray) ![](https://img.shields.io/badge/Workflow-Fast_Iteration-orange)
+
+A set of browser-based **interactive end cards / playable ad flows** created for a beauty e-commerce campaign. Built as lightweight HTML5 experiences and iterated directly against briefing feedback, design revisions, and CTA / UX adjustments.
+
+**Implemented interaction types:**
+- **Spin-to-win** reward wheel
+- **Design selection** / “pick your style” flow
+- **Swipe / slider reveal**
+- **Scratch-card reveal**
+- **Hold-to-apply / progress CTA**
+- Multiple branded CTA/result states and messaging revisions
+
+**Focus areas:**
+- Mobile-friendly interaction flow
+- Lightweight browser-ready implementation
+- Fast iteration with creative / project teams
+- UX clarity, reward pacing, and CTA behavior
+- Flexible visual integration from design exports / SVG assets
+
+> Public portfolio version intentionally anonymized. Brand name can be shared privately if needed.
+
+---
 
 - **AppleGrappler Ad** — Unity Luna | [Play](https://tranquil-bonbon-572e24.netlify.app/) | [Code](https://github.com/Mustafa-Kum/Apple-Grappler-Unity-Luna)
 - **Tail Team Ad** — Pure HTML5/CSS/JS | [Play](https://kumdev.itch.io/playable-ad-tail-team)
