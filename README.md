@@ -249,6 +249,8 @@ A set of browser-based **interactive end cards / playable ad flows** created for
 - UX clarity, reward pacing, and CTA behavior
 - Flexible visual integration from design exports / SVG assets
 
+- Link : https://streamable.com/zo2me5
+
 > Public portfolio version intentionally anonymized. Brand name can be shared privately if needed.
 
 ---
