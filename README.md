@@ -258,7 +258,7 @@ A set of browser-based **interactive end cards / playable ad flows** created for
 
 ---
 
-- **AppleGrappler Ad** — Unity Luna | [Play](https://tranquil-bonbon-572e24.netlify.app/) | [Code](https://github.com/Mustafa-Kum/Apple-Grappler-Unity-Luna)
+- **NVIDIA Ad** — Pure HTML5/CSS/JS | [Play](https://kumdev.itch.io/playable-ad--test)
 - **Tail Team Ad** — Pure HTML5/CSS/JS | [Play](https://kumdev.itch.io/playable-ad-tail-team)
 - **Candy Crush Ad** — Pure HTML5/CSS/JS | [Play](https://kumdev.itch.io/playable-ad-candy-crush)
 - **Changeable Ad** — Pure HTML5/CSS/JS | [Play](https://kumdev.itch.io/playable-ad-themechangable)
@@ -268,7 +268,7 @@ A set of browser-based **interactive end cards / playable ad flows** created for
 <br>
 
 - **Puzzle Ad** — Pure HTML5/CSS/JS | [Play](https://kumdev.itch.io/test)
-- **NVIDIA Ad** — Pure HTML5/CSS/JS | [Play](https://kumdev.itch.io/playable-ad--test)
+- **AppleGrappler Ad** — Unity Luna [Code](https://github.com/Mustafa-Kum/Apple-Grappler-Unity-Luna)
 - **Connect-Dots Ad** — Pure HTML5/CSS/JS | [Play](https://kumdev.itch.io/playable-ad-connect-dots)
 - **Sand Balls Ad** — Pure HTML5/CSS/JS | [Play](https://kumdev.itch.io/playable-ad-sand-balls)
 - **Angry Birds Ad** — Pure HTML5/CSS/JS | [Play](https://kumdev.itch.io/playable-ad-angry-birds)
