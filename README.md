@@ -268,7 +268,7 @@ A set of browser-based **interactive end cards / playable ad flows** created for
 <br>
 
 - **Puzzle Ad** — Pure HTML5/CSS/JS | [Play](https://kumdev.itch.io/test)
-- **AppleGrappler Ad** — Unity Luna [Code](https://github.com/Mustafa-Kum/Apple-Grappler-Unity-Luna)
+- **AppleGrappler Ad** — Unity Luna [Code](https://github.com/Mustafa-Kum/unity-luna-stratchcard-asset)
 - **Connect-Dots Ad** — Pure HTML5/CSS/JS | [Play](https://kumdev.itch.io/playable-ad-connect-dots)
 - **Sand Balls Ad** — Pure HTML5/CSS/JS | [Play](https://kumdev.itch.io/playable-ad-sand-balls)
 - **Angry Birds Ad** — Pure HTML5/CSS/JS | [Play](https://kumdev.itch.io/playable-ad-angry-birds)
