@@ -252,7 +252,7 @@ A set of browser-based **interactive end cards / playable ad flows** created for
 - UX clarity, reward pacing, and CTA behavior
 - Flexible visual integration from design exports / SVG assets
 
-- Link : https://streamable.com/zo2me5
+- Link : https://www.linkedin.com/posts/mustafa-kum_playableads-html5-interactiveads-activity-7448296098626142209-mo4B?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC6IQlYBtOMB3ewh-a5vPeeicAvYKM7zue8
 
 > Public portfolio version intentionally anonymized. Brand name can be shared privately if needed.
 
