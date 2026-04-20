@@ -19,7 +19,7 @@ Versatile **Gameplay & Performance Engineer** with professional experience in **
 | Category | Skills & Technologies |
 | :--- | :--- |
 | 🛠️ **Engines & Languages** | Unity (C#), Unreal Engine 5 (C++), HTML5/JavaScript |
-| ⚔️ **Gameplay & Systems** | State machines, Combat, Abilities (**GAS/Tags**), BT/EQS AI, UI/HUD, Camera |
+| ⚔️ **Gameplay & Systems** | State machines, Combat, Modular Ability Systems (**GAS/Tags**), Skill Books, Cast Bars, BT/EQS AI, UI/HUD, Camera |
 | ✨ **Animation & VFX** | Animation Blueprints, Montages/Notifies, Retargeting, **Niagara**, DOTween, Cinemachine |
 | ⚙️ **Optimization** | Unreal Insights/`STAT`, Async asset streaming, Object pooling, Addressables, Profiling/GC |
 | 🚀 **Release & Tools** | iOS (TestFlight/App Store), WebGL, Playable Ads, Git (Perforce familiar) |
@@ -80,8 +80,11 @@ Data-Driven, Component-Based Weapon System utilizing Unreal Engine's **Gameplay 
 | **1** | **Inventory & Equipment System** | Event-driven UI · GAS buff/debuff via `FActiveGameplayEffectHandle` · CDO parsing for tooltips · Async loading via `StreamableManager` · Modular armor with `SetLeaderPoseComponent` | [🔗 Repo](https://github.com/Mustafa-Kum/Inventory_System_Showcase) |
 | **2** | **HP & Mana Vitals System** | Reactive UI via GAS delegates · WoW/FFXIV-style trailing bars · Proportional stat scaling · `UCharacterDataAsset`-driven initialization | [🔗 Repo](https://github.com/Mustafa-Kum/UE5-Gas-Vitals-System) |
 | **3** | **Melee Combat System** | Combo chaining · Input buffering · Animation-driven combat windows · Reliable melee hit detection · Crit feedback · Hit stop · Pooled combat text | [🔗 Repo](COMBAT_REPO_LINK) |
-| **4** | **Enemy AI** *(Upcoming)* | Behavior Trees + GAS integration | — |
-| **5** | **Advanced Stat System** *(Upcoming)* | Buffs, debuffs, stacking | — |
+| **4** | **Ability System** | GAS-based active/passive skills · Skill book + action bar · Cast bar · Cooldowns/costs · Dynamic tooltips · Haste-scaled cast timing · Animation-driven commit/cancel windows · AOE + airborne impact | [🔗 Repo](ABILITY_REPO_LINK) |
+| **5** | **Enemy AI** *(Upcoming)* | Behavior Trees + GAS integration | — |
+| **6** | **Advanced Stat System** *(Upcoming)* | Buffs, debuffs, stacking | — |
+
+The Ability System module expands the RPG foundation with GAS-driven active/passive skills, animation-authored cast timing, stat-scaled damage, skill book/action bar UI, cooldown and resource handling, dynamic tooltips, and area-impact abilities such as Warcry and Shockwave.
 
 ---
 
