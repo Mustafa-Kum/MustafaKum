@@ -79,8 +79,8 @@ Data-Driven, Component-Based Weapon System utilizing Unreal Engine's **Gameplay 
 |:--|:-------|:-----------|:-----------|
 | **1** | **Inventory & Equipment System** | Event-driven UI · GAS buff/debuff via `FActiveGameplayEffectHandle` · CDO parsing for tooltips · Async loading via `StreamableManager` · Modular armor with `SetLeaderPoseComponent` | [🔗 Repo](https://github.com/Mustafa-Kum/Inventory_System_Showcase) |
 | **2** | **HP & Mana Vitals System** | Reactive UI via GAS delegates · WoW/FFXIV-style trailing bars · Proportional stat scaling · `UCharacterDataAsset`-driven initialization | [🔗 Repo](https://github.com/Mustafa-Kum/UE5-Gas-Vitals-System) |
-| **3** | **Melee Combat System** | Combo chaining · Input buffering · Animation-driven combat windows · Reliable melee hit detection · Crit feedback · Hit stop · Pooled combat text | [🔗 Repo](COMBAT_REPO_LINK) |
-| **4** | **Ability System** | GAS-based active/passive skills · Skill book + action bar · Cast bar · Cooldowns/costs · Dynamic tooltips · Haste-scaled cast timing · Animation-driven commit/cancel windows · AOE + airborne impact | [🔗 Repo](ABILITY_REPO_LINK) |
+| **3** | **Melee Combat System** | Combo chaining · Input buffering · Animation-driven combat windows · Reliable melee hit detection · Crit feedback · Hit stop · Pooled combat text | [🔗 Repo](https://github.com/Mustafa-Kum/ue5-rpg-melee-combat-system) |
+| **4** | **Ability System** | GAS-based active/passive skills · Skill book + action bar · Cast bar · Cooldowns/costs · Dynamic tooltips · Haste-scaled cast timing · Animation-driven commit/cancel windows · AOE + airborne impact | [🔗 Repo](https://github.com/Mustafa-Kum/ue5-rpg-ability-system) |
 | **5** | **Enemy AI** *(Upcoming)* | Behavior Trees + GAS integration | — |
 | **6** | **Advanced Stat System** *(Upcoming)* | Buffs, debuffs, stacking | — |
 
