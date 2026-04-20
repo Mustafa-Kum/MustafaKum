@@ -287,7 +287,7 @@ A set of browser-based **interactive end cards / playable ad flows** created for
 ![](https://img.shields.io/badge/HTML5-Pure-E34F26?logo=html5&logoColor=white) ![](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?logo=javascript&logoColor=black) ![](https://img.shields.io/badge/Performance-Engine--less-success)
 
 - **Co-op Advanced Vampire Survivors Clone (2D)** — Engine-less, performant projectile management | [Play](https://sunny-faun-9a54d3.netlify.app/) | [Code](https://github.com/Mustafa-Kum/Vampire-Survivors-Clone)
-- **Vampire Survivors Clone (2D)** — Engine-less clone | [Play](https://kumdev.itch.io/html5) | [Code](https://github.com/Mustafa-Kum/VampireSurvivorCopy)
-- **Memory Game** — Embeddable, responsive component | [Play](https://kumdev.itch.io/hafza-oyunu-html) | [Code](https://github.com/Mustafa-Kum/MemoryGame)
-- **BulletStrike (WebGL)** — Top-down shooter in pure JS | [Play](https://kumdev.itch.io/html-5-2) | [Code](https://github.com/Mustafa-Kum/BulletStrike)
-- **Necromancer3D** — 3D Vampire Survivors-style demo without Three.js | [Play](https://kumdev.itch.io/necromancer) | [Code](https://github.com/Mustafa-Kum/Necromancer3D)
+- **Vampire Survivors Clone (2D)** — Engine-less clone | [Play](https://kumdev.itch.io/html5)
+- **Memory Game** — Embeddable, responsive component | [Play](https://kumdev.itch.io/hafza-oyunu-html)
+- **BulletStrike (WebGL)** — Top-down shooter in pure JS | [Play](https://kumdev.itch.io/html-5-2)
+- **Necromancer3D** — 3D Vampire Survivors-style demo without Three.js | [Play](https://kumdev.itch.io/necromancer)
