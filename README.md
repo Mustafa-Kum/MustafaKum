@@ -81,8 +81,9 @@ Data-Driven, Component-Based Weapon System utilizing Unreal Engine's **Gameplay 
 | **2** | **HP & Mana Vitals System** | Reactive UI via GAS delegates · WoW/FFXIV-style trailing bars · Proportional stat scaling · `UCharacterDataAsset`-driven initialization | [🔗 Repo](https://github.com/Mustafa-Kum/UE5-Gas-Vitals-System) |
 | **3** | **Melee Combat System** | Combo chaining · Input buffering · Animation-driven combat windows · Reliable melee hit detection · Crit feedback · Hit stop · Pooled combat text | [🔗 Repo](https://github.com/Mustafa-Kum/ue5-rpg-melee-combat-system) |
 | **4** | **Ability System** | GAS-based active/passive skills · Skill book + action bar · Cast bar · Cooldowns/costs · Dynamic tooltips · Haste-scaled cast timing · Animation-driven commit/cancel windows · AOE + airborne impact | [🔗 Repo](https://github.com/Mustafa-Kum/ue5-rpg-ability-system) |
-| **5** | **Enemy AI** *(Upcoming)* | Behavior Trees + GAS integration | — |
-| **6** | **Advanced Stat System** *(Upcoming)* | Buffs, debuffs, stacking | — |
+| **6** | **Directional Dodge Roll System** | Directional input handling · Animation-authored i-frames · Combat interruption rules · Smooth rotation restoration · Cooldown gating · Modular ownership | [🔗 Repo](https://github.com/Mustafa-Kum/ue5-rpg-dodgeroll-system) |
+| **7** | **Enemy AI** *(Upcoming)* | Behavior Trees + GAS integration | — |
+| **8** | **Advanced Stat System** *(Upcoming)* | Buffs, debuffs, stacking | — |
 
 The Ability System module expands the RPG foundation with GAS-driven active/passive skills, animation-authored cast timing, stat-scaled damage, skill book/action bar UI, cooldown and resource handling, dynamic tooltips, and area-impact abilities such as Warcry and Shockwave.
 
