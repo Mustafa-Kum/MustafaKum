@@ -84,7 +84,7 @@ Data-Driven, Component-Based Weapon System utilizing Unreal Engine's **Gameplay 
 | **5** | **Skill Card Level System** | XP orb collection · Smooth level progression · Vampire Survivors-style ability cards · Ability unlock/upgrade · Reroll/pass/banish · Rarity weighting · Bad-luck protection · Next-level preview | [🔗 Repo](https://github.com/Mustafa-Kum/ue5-rpg-skillcard-level-system) |
 | **6** | **Directional Dodge Roll System** | Directional input handling · Animation-authored i-frames · Combat interruption rules · Smooth rotation restoration · Cooldown gating · Modular ownership | [🔗 Repo](https://github.com/Mustafa-Kum/ue5-rpg-dodgeroll-system) |
 | **7** | **Run Preparation System** | Loading screen flow · Main menu · Character selection · Pre-run inventory · Character preview render target · Async asset preloading · Gameplay map handoff · Clean subsystem ownership | [🔗 Repo](https://github.com/Mustafa-Kum/ue5-rpg-run-preparation-system) |
-| **8** | **Enemy AI** *(Upcoming)* | Behavior Trees + GAS integration | — |
+| **8** | **Boss Target Lock System** | Boss-only lock-on · Enemy type filtering · Tab target cycling · View angle + distance scoring · Camera pitch clamp · Close-distance protection · Dodge roll compatibility · Runtime reusable indicator · Boss size profiles · Socket-based aim points · Defeat cleanup · Performance-oriented for high enemy counts | [🔗 Repo](https://github.com/Mustafa-Kum/ue5-rpg-targetlock-system) |
 | **9** | **Advanced Stat System** *(Upcoming)* | Buffs, debuffs, stacking | — |
 
 
