@@ -85,7 +85,8 @@ Data-Driven, Component-Based Weapon System utilizing Unreal Engine's **Gameplay 
 | **6** | **Directional Dodge Roll System** | Directional input handling · Animation-authored i-frames · Combat interruption rules · Smooth rotation restoration · Cooldown gating · Modular ownership | [🔗 Repo](https://github.com/Mustafa-Kum/ue5-rpg-dodgeroll-system) |
 | **7** | **Run Preparation System** | Loading screen flow · Main menu · Character selection · Pre-run inventory · Character preview render target · Async asset preloading · Gameplay map handoff · Clean subsystem ownership | [🔗 Repo](https://github.com/Mustafa-Kum/ue5-rpg-run-preparation-system) |
 | **8** | **Boss Target Lock System** | Boss-only lock-on · Enemy type filtering · Tab target cycling · View angle + distance scoring · Camera pitch clamp · Close-distance protection · Dodge roll compatibility · Runtime reusable indicator · Boss size profiles · Socket-based aim points · Defeat cleanup · Performance-oriented for high enemy counts | [🔗 Repo](https://github.com/Mustafa-Kum/ue5-rpg-targetlock-system) |
-| **9** | **Advanced Stat System** *(Upcoming)* | Buffs, debuffs, stacking | — |
+| **9** | **Enemy Reaction System** | Grounded knockback · Airborne launch · Landing + getting-up recovery · Launch chaining · Knocked-to-airborne interruption · Ground validation · Timeout landing safety · Hit reaction rules · Death cleanup · Ragdoll physics · Killing blow impulse · Subsystem-driven lightweight motion | [🔗 Repo](https://github.com/Mustafa-Kum/ue5-rpg-enemyreaction-system) |
+| **10** | **Advanced Stat System** *(Upcoming)* | Buffs, debuffs, stacking | — |
 
 
 The Ability System module expands the RPG foundation with GAS-driven active/passive skills, animation-authored cast timing, stat-scaled damage, skill book/action bar UI, cooldown and resource handling, dynamic tooltips, and area-impact abilities such as Warcry and Shockwave.
